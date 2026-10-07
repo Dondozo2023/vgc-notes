@@ -15,6 +15,10 @@ Hugoで生成する、日本語のポケモンVGC個人ブログです。既製�
 
 ## 読む
 
+公開URL: https://dondozo2023.github.io/vgc-notes/
+
+ブログ用の保存先: https://github.com/Dondozo2023/vgc-notes
+
 作業中のプレビューは http://localhost:1313/ です。このPCでプレビュー用の処理を起動している間だけ開けます。
 
 後から再開する場合は、AIに「海外大会ノートのプレビューを開いて」と伝えてください。AIは `scripts/preview.ps1` を起動できます。

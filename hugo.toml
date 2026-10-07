@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://dondozo2023.github.io/vgc-notes/'
 locale = 'ja'
 defaultContentLanguage = 'ja'
 title = '海外大会ノート'
