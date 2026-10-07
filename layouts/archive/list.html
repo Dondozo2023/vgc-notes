@@ -1,0 +1,5 @@
+{{ define "main" }}
+<div class="list-intro"><p class="eyebrow">CHRONOLOGICAL ARCHIVE</p><h1>日付から探す</h1><p>大会記事は開催日、環境記事は対象月で整理しています。</p></div>
+{{ $pages := where site.RegularPages "Section" "in" (slice "results" "teams" "metagame") }}
+{{ range $pages.GroupByDate "2006年01月" "desc" }}<section class="archive-month"><div><h2>{{ .Key }}</h2><span>{{ len .Pages }}記事</span></div><ol>{{ range .Pages }}<li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "01.02" }}</time><span class="category {{ .Section }}">{{ .Params.kind }}</span><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ol></section>{{ end }}
+{{ end }}

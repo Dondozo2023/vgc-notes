@@ -1,0 +1,343 @@
+{
+  "sample": 24,
+  "earlier_sample": 8,
+  "later_sample": 16,
+  "stats": [
+    {
+      "id": "rillaboom",
+      "name": "ゴリランダー",
+      "count": 14,
+      "percent": 58.3,
+      "earlier": 62.5,
+      "later": 56.3
+    },
+    {
+      "id": "sneasler",
+      "name": "オオニューラ",
+      "count": 14,
+      "percent": 58.3,
+      "earlier": 50,
+      "later": 62.5
+    },
+    {
+      "id": "incineroar",
+      "name": "ガオガエン",
+      "count": 12,
+      "percent": 50,
+      "earlier": 25,
+      "later": 62.5
+    },
+    {
+      "id": "floette-eternal",
+      "name": "フラエッテ（えいえんのはな）",
+      "count": 8,
+      "percent": 33.3,
+      "earlier": 12.5,
+      "later": 43.8
+    },
+    {
+      "id": "kingambit",
+      "name": "ドドゲザン",
+      "count": 7,
+      "percent": 29.2,
+      "earlier": 25,
+      "later": 31.3
+    },
+    {
+      "id": "archaludon",
+      "name": "ブリジュラス",
+      "count": 6,
+      "percent": 25,
+      "earlier": 25,
+      "later": 25
+    },
+    {
+      "id": "garchomp",
+      "name": "ガブリアス",
+      "count": 6,
+      "percent": 25,
+      "earlier": 0,
+      "later": 37.5
+    },
+    {
+      "id": "charizard",
+      "name": "リザードン",
+      "count": 5,
+      "percent": 20.8,
+      "earlier": 12.5,
+      "later": 25
+    },
+    {
+      "id": "gholdengo",
+      "name": "サーフゴー",
+      "count": 5,
+      "percent": 20.8,
+      "earlier": 25,
+      "later": 18.8
+    },
+    {
+      "id": "politoed",
+      "name": "ニョロトノ",
+      "count": 4,
+      "percent": 16.7,
+      "earlier": 25,
+      "later": 12.5
+    },
+    {
+      "id": "raichu",
+      "name": "ライチュウ",
+      "count": 4,
+      "percent": 16.7,
+      "earlier": 37.5,
+      "later": 6.3
+    },
+    {
+      "id": "salamence",
+      "name": "ボーマンダ",
+      "count": 4,
+      "percent": 16.7,
+      "earlier": 25,
+      "later": 12.5
+    },
+    {
+      "id": "arcanine-hisui",
+      "name": "ウインディ（ヒスイ）",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 37.5,
+      "later": 0
+    },
+    {
+      "id": "basculegion",
+      "name": "イダイトウ",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 0,
+      "later": 18.8
+    },
+    {
+      "id": "gengar",
+      "name": "ゲンガー",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 12.5,
+      "later": 12.5
+    },
+    {
+      "id": "grimmsnarl",
+      "name": "オーロンゲ",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 12.5,
+      "later": 12.5
+    },
+    {
+      "id": "indeedee",
+      "name": "イエッサン♂",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 25,
+      "later": 6.3
+    },
+    {
+      "id": "pelipper",
+      "name": "ペリッパー",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 0,
+      "later": 18.8
+    },
+    {
+      "id": "sylveon",
+      "name": "ニンフィア",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 12.5,
+      "later": 12.5
+    },
+    {
+      "id": "venusaur",
+      "name": "フシギバナ",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 0,
+      "later": 18.8
+    },
+    {
+      "id": "volcarona",
+      "name": "ウルガモス",
+      "count": 3,
+      "percent": 12.5,
+      "earlier": 0,
+      "later": 18.8
+    },
+    {
+      "id": "dragonite",
+      "name": "カイリュー",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 0,
+      "later": 12.5
+    },
+    {
+      "id": "farigiraf",
+      "name": "リキキリン",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 12.5,
+      "later": 6.3
+    },
+    {
+      "id": "froslass",
+      "name": "ユキメノコ",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 12.5,
+      "later": 6.3
+    },
+    {
+      "id": "kommo-o",
+      "name": "ジャラランガ",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 0,
+      "later": 12.5
+    },
+    {
+      "id": "milotic",
+      "name": "ミロカロス",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 25,
+      "later": 0
+    },
+    {
+      "id": "staraptor",
+      "name": "ムクホーク",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 25,
+      "later": 0
+    },
+    {
+      "id": "vivillon",
+      "name": "ビビヨン",
+      "count": 2,
+      "percent": 8.3,
+      "earlier": 12.5,
+      "later": 6.3
+    },
+    {
+      "id": "armarouge",
+      "name": "グレンアルマ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "ceruledge",
+      "name": "ソウブレイズ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "corviknight",
+      "name": "アーマーガア",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "delphox",
+      "name": "マフォクシー",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "excadrill",
+      "name": "ドリュウズ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "glimmora",
+      "name": "キラフロル",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "golisopod",
+      "name": "グソクムシャ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "indeedee-f",
+      "name": "イエッサン♀",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "meowstic-f",
+      "name": "ニャオニクス♀",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "metagross",
+      "name": "メタグロス",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    },
+    {
+      "id": "swampert",
+      "name": "ラグラージ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "torkoal",
+      "name": "コータス",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "toxapex",
+      "name": "ドヒドイデ",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 0,
+      "later": 6.3
+    },
+    {
+      "id": "tyranitar",
+      "name": "バンギラス",
+      "count": 1,
+      "percent": 4.2,
+      "earlier": 12.5,
+      "later": 0
+    }
+  ]
+}

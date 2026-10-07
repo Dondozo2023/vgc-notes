@@ -1,0 +1,4 @@
+{{ define "main" }}
+<div class="list-intro"><p class="eyebrow">VGC JOURNAL</p><h1>{{ .Title }}</h1><p>{{ if eq .Section "results" }}海外大会の結果と、上位に残った6匹。{{ else if eq .Section "teams" }}公開チームから、役割と勝ち筋を読み解く。{{ else }}同じルールの大会を、数字と構築で読み返す。{{ end }}</p></div>
+<div class="article-grid">{{ range .RegularPages.ByDate.Reverse }}{{ partial "article-card.html" . }}{{ end }}</div>
+{{ end }}

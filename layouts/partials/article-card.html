@@ -1,0 +1,8 @@
+{{ $event := false }}
+{{ $id := .Params.event_id }}{{ range hugo.Data.events }}{{ if eq (int .id) (int $id) }}{{ $event = . }}{{ end }}{{ end }}
+<article class="article-card" data-article data-kind="{{ .Section }}" data-search="{{ .Title }} {{ .Params.summary }} {{ with $event }}{{ .winner }} {{ range (index .teams 0).pokemon }}{{ .name }} {{ end }}{{ end }}">
+  <a href="{{ .RelPermalink }}" class="card-cover {{ .Section }}" aria-label="{{ .Title }}">
+  {{ if $event }}{{ partial "squad.html" (dict "pokemon" (index $event.teams 0).pokemon "class" "compact") }}{{ else }}<div class="cover-meta"><span>METAGAME / 2026.09</span><strong>24<span>構築</span></strong><div class="mini-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div></div>{{ end }}
+  </a>
+  <div class="card-body"><div class="card-meta"><span class="category {{ .Section }}">{{ .Params.kind }}</span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></div><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p>{{ .Params.summary }}</p><div class="card-bottom"><span>{{ .Params.format }}</span><span>{{ if eq .Section "teams" }}公開情報からの考察{{ else if eq .Section "metagame" }}上位構築の比較{{ else }}上位8構築{{ end }}</span></div></div>
+</article>

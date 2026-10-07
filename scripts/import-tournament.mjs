@@ -1,0 +1,75 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const [input,...options]=process.argv.slice(2);
+if(!input){console.log('Usage: node scripts/import-tournament.mjs https://limitlessvgc.com/tournaments/ID --name 日本語大会名 --country 日本語開催国');process.exit(1)}
+const url=new URL(input);
+const match=url.pathname.match(/^\/tournaments\/(\d+)\/?$/);
+if(url.protocol!=='https:'||url.hostname!=='limitlessvgc.com'||!match||url.search||url.hash)throw new Error('Use the public Limitless VGC tournament URL.');
+const id=Number(match[1]);
+const setting=key=>{const index=options.indexOf(key);return index>=0?options[index+1]:undefined};
+const events=JSON.parse(await fs.readFile(path.join(root,'data/events.json'),'utf8'));
+if(events.some(e=>e.id===id))throw new Error('This tournament is already saved. Existing records were left unchanged.');
+const dictionary=JSON.parse(await fs.readFile(path.join(root,'data/dictionary.json'),'utf8'));
+const decode=s=>s.replace(/&amp;/g,'&').replace(/&#039;/g,"'").replace(/&quot;/g,'"').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim();
+const source=`https://limitlessvgc.com/tournaments/${id}`;
+const get=async url=>{const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw new Error(`Source returned HTTP ${r.status}`);return r.text()};
+const result=await get(source),html=await get(source+'/teams');
+const info=html.match(/<div class="infobox-heading">([\s\S]*?)<\/div>/)?.[1];
+const english=decode(info?.replace(/<[^>]+>/g,'')??'');
+const countryCode=info?.match(/alt="([A-Z]{2})"/)?.[1]??'';
+const countryMap={DE:'ドイツ',AU:'オーストラリア',US:'アメリカ',GB:'イギリス',FR:'フランス',IT:'イタリア',ES:'スペイン',BR:'ブラジル',CA:'カナダ',JP:'日本',MX:'メキシコ',NL:'オランダ',PL:'ポーランド',PE:'ペルー',CL:'チリ'};
+const details=html.match(/<div class="infobox-line">([\s\S]*?)<div class="rk9gg">/)?.[1]??'';
+const plain=decode(details.replace(/<[^>]+>/g,'').replace(/\s+/g,' '));
+const dm=plain.match(/(\d{1,2})(?:st|nd|rd|th) ([A-Za-z]+) (\d{4})/);
+const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+if(!dm||!months.includes(dm[2]))throw new Error('Tournament date could not be read.');
+const date=`${dm[3]}-${String(months.indexOf(dm[2])+1).padStart(2,'0')}-${dm[1].padStart(2,'0')}`;
+const players=Number(plain.match(/([\d,]+) Players/)?.[1]?.replaceAll(',',''));
+const format=decode(details.match(/>(Regulation[^<]+)</)?.[1]??'');
+if(!english||!players||!format)throw new Error('Tournament details could not be read.');
+const blocks=html.split('<div class="tournament-decklist">').slice(1,9);
+const teams=blocks.map(block=>{
+ const heading=block.match(/data-target="team-\d+">(\d+)(?:st|nd|rd|th) ([^<]+)</);
+ if(!heading)throw new Error('Team heading changed.');
+ const pokemon=block.split('<div class="pkmn" data-id="').slice(1).map(pk=>{
+  const pid=pk.split('"')[0];if(!/^[a-z0-9-]+$/.test(pid))throw new Error('Unexpected Pokémon id.');
+  const movesBlock=pk.match(/<ul class="moves">([\s\S]*?)<\/ul>/)?.[1]??'';
+  const p={id:pid,english:decode(pk.match(/<a href="\/pokemon\/[^\"]+">([^<]+)</)?.[1]??''),image:pk.match(/<img src="([^\"]+)"/)?.[1],item:decode(pk.match(/<div class="item">([^<]+)</)?.[1]??''),ability:decode(pk.match(/<div class="ability">Ability: ([^<]+)</)?.[1]??''),nature:decode(pk.match(/<div class="nature">([^<]+) Nature</)?.[1]??''),moves:[...movesBlock.matchAll(/<li>([^<]+)<\/li>/g)].map(x=>decode(x[1]))};
+  if(!p.english||!p.item||!p.ability||p.moves.length!==4||!p.image)throw new Error('Team data is incomplete.');
+  p.name=dictionary.species[pid]??p.english;p.image_local=`images/pokemon/${pid}.png`;
+  p.item_ja=dictionary.terms[p.item]??p.item;p.ability_ja=dictionary.terms[p.ability]??p.ability;p.nature_ja=dictionary.terms[p.nature]??p.nature;p.moves_ja=p.moves.map(m=>dictionary.terms[m]??m);p.role='公開情報から役割を確認';
+  return p;
+ });
+ if(pokemon.length!==6)throw new Error('A team does not contain six Pokémon.');
+ return{rank:Number(heading[1]),player:decode(heading[2]),pokemon};
+});
+if(teams.length!==8||teams.some((t,i)=>t.rank!==i+1))throw new Error('Eight complete top teams are not available.');
+const today=new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Tokyo'}).format(new Date());
+const event={id,slug:`tournament-${id}`,name:setting('--name')??english,english,country:setting('--country')??countryMap[countryCode]??countryCode,date,players,format:format.replace(' Set',''),source,team_source:source+'/teams',checked:today,winner:teams[0].player,teams};
+const images=[...new Map(teams.flatMap(t=>t.pokemon).map(p=>[p.id,p])).values()];
+await fs.mkdir(path.join(root,'static/images/pokemon'),{recursive:true});
+for(const p of images){
+ const dest=path.join(root,'static',p.image_local);
+ try{await fs.access(dest);continue}catch{}
+ const imageUrl=new URL(p.image);if(imageUrl.protocol!=='https:'||imageUrl.hostname!=='r2.limitlesstcg.net')throw new Error('Unexpected image source.');
+ const r=await fetch(imageUrl,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw new Error('Image download failed.');
+ const bytes=Buffer.from(await r.arrayBuffer());if(bytes.subarray(0,8).toString('hex')!=='89504e470d0a1a0a'||bytes.length>2000000)throw new Error('Invalid image.');
+ await fs.writeFile(dest,bytes);
+}
+await fs.mkdir(path.join(root,'.cache/sources'),{recursive:true});
+await fs.writeFile(path.join(root,`.cache/sources/${id}.html`),result);
+await fs.writeFile(path.join(root,`.cache/sources/${id}_teams.html`),html);
+const common={date:date+'T00:00:00+09:00',publishDate:today+'T00:00:00+09:00',lastmod:today+'T00:00:00+09:00',event_id:id,format:event.format,draft:true};
+const report={...common,title:`${event.name}大会 結果と上位8構築`,kind:'大会結果',summary:`${event.winner}が優勝。公開された上位8構築を整理。`,description:'掲載結果と、公開された6匹の記録。'};
+const team={...common,title:`${event.winner}の6匹`,kind:'構築ノート',summary:`${event.name}の優勝構築。技・持ち物を出典から確認。`,description:'公開チーム情報を整理した下書き。戦い方の考察は未作成。'};
+const fm=(meta,body)=>JSON.stringify(meta,null,2)+'\n\n'+body+'\n';
+const reportText=fm(report,`## 大会の記録\n\n${english}の掲載結果です。優勝は${event.winner}。出典上の参加人数は${players}人、ルールは${format}です。\n\n## 確認状況\n\n公開チーム情報を取得した下書きです。主催者の結果との照合、部門とゲームの確認、日本語名の確認を行ってから公開してください。`);
+const teamText=fm(team,`## 公開情報の確認\n\n持ち物・特性・技は出典から取得しています。戦い方、選出、配分、選手本人の意図は未確認です。根拠を調べたうえで、確認できた説明と考察を分けて追記します。`);
+const dataPath=path.join(root,'data/events.json');
+await fs.writeFile(dataPath+'.tmp',JSON.stringify([...events,event].sort((a,b)=>b.date.localeCompare(a.date)||b.id-a.id),null,2));
+await fs.rename(dataPath+'.tmp',dataPath);
+await fs.writeFile(path.join(root,`content/results/${event.slug}.md`),reportText);
+await fs.writeFile(path.join(root,`content/teams/${event.slug}.md`),teamText);
+console.log(`Saved ${event.name}: eight teams and two draft articles. Sources checked ${today}.`);

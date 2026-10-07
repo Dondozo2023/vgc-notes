@@ -1,0 +1,24 @@
+baseURL = 'http://localhost:1313/'
+locale = 'ja'
+defaultContentLanguage = 'ja'
+title = '海外大会ノート'
+timeZone = 'Asia/Tokyo'
+hasCJKLanguage = true
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
+
+[params]
+  description = '海外ポケモンVGC大会の結果、6匹の構築、環境の変化を日本語で記録。'
+
+[outputs]
+  home = ['HTML', 'RSS']
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+[caches.images]
+  dir = ':cacheDir/images'

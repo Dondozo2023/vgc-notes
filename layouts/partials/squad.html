@@ -1,0 +1,1 @@
+<div class="squad {{ .class }}">{{ range .pokemon }}<div class="squad-mon"><img src="{{ .image_local | relURL }}" alt="{{ .name }}" width="120" height="120" loading="{{ $.loading | default "lazy" }}"><span>{{ .name }}</span></div>{{ end }}</div>

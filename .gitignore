@@ -1,0 +1,7 @@
+/public/
+/resources/
+/.hugo_build.lock
+/.tools/
+/node_modules/
+/.cache/
+*.log

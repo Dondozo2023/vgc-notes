@@ -1,0 +1,3944 @@
+[
+  {
+    "id": 443,
+    "slug": "frankfurt-2026",
+    "name": "フランクフルト",
+    "english": "Frankfurt Regional",
+    "country": "ドイツ",
+    "region": "Europe",
+    "date": "2026-09-26",
+    "players": 1129,
+    "accent": "blue",
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Eric Rios",
+        "pokemon": [
+          {
+            "id": "gholdengo",
+            "english": "Gholdengo",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "item": "Life Orb",
+            "ability": "Good as Gold",
+            "nature": "Modest",
+            "moves": [
+              "Protect",
+              "Shadow Ball",
+              "Nasty Plot",
+              "Make It Rain"
+            ],
+            "name": "サーフゴー",
+            "image_local": "images/pokemon/gholdengo.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "シャドーボール",
+              "わるだくみ",
+              "ゴールドラッシュ"
+            ],
+            "role": "わるだくみを持つ特殊アタッカー"
+          },
+          {
+            "id": "volcarona",
+            "english": "Volcarona",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png",
+            "item": "Rocky Helmet",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "moves": [
+              "Overheat",
+              "Struggle Bug",
+              "Rage Powder",
+              "Tailwind"
+            ],
+            "name": "ウルガモス",
+            "image_local": "images/pokemon/volcarona.png",
+            "item_ja": "ゴツゴツメット",
+            "ability_ja": "ほのおのからだ",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "オーバーヒート",
+              "むしのていこう",
+              "いかりのこな",
+              "おいかぜ"
+            ],
+            "role": "いかりのこな・おいかぜで補助"
+          },
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Garchompite Z",
+            "ability": "Rough Skin",
+            "nature": "Modest",
+            "moves": [
+              "Dragon Pulse",
+              "Earth Power",
+              "Power Gem",
+              "Protect"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "Garchompite Z",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうのはどう",
+              "だいちのちから",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "moves": [
+              "Parting Shot",
+              "Fake Out",
+              "Flare Blitz",
+              "Darkest Lariat"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "すてゼリフ",
+              "ねこだまし",
+              "フレアドライブ",
+              "DDラリアット"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Grassy Glide",
+              "Wood Hammer",
+              "Fake Out",
+              "U-turn"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "グラススライダー",
+              "ウッドハンマー",
+              "ねこだまし",
+              "とんぼがえり"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "raichu",
+            "english": "Raichu",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "item": "Raichunite Y",
+            "ability": "Lightning Rod",
+            "nature": "Timid",
+            "moves": [
+              "Zap Cannon",
+              "Focus Blast",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "ライチュウ",
+            "image_local": "images/pokemon/raichu.png",
+            "item_ja": "Raichunite Y",
+            "ability_ja": "ひらいしん",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "でんじほう",
+              "きあいだま",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "ねこだましと特殊技を採用"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Sebastian Liu Li",
+        "pokemon": [
+          {
+            "id": "farigiraf",
+            "english": "Farigiraf",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png",
+            "item": "Sitrus Berry",
+            "ability": "Armor Tail",
+            "nature": "Sassy",
+            "moves": [
+              "Psychic",
+              "Trick Room",
+              "Helping Hand",
+              "Protect"
+            ],
+            "name": "リキキリン",
+            "image_local": "images/pokemon/farigiraf.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "Armor Tail",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "Psychic",
+              "Trick Room",
+              "Helping Hand",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Garchompite Z",
+            "ability": "Rough Skin",
+            "nature": "Modest",
+            "moves": [
+              "Draco Meteor",
+              "Flamethrower",
+              "Power Gem",
+              "Protect"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "Garchompite Z",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうせいぐん",
+              "かえんほうしゃ",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Close Combat",
+              "Gunk Shot",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "Gunk Shot",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "torkoal",
+            "english": "Torkoal",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/torkoal.png",
+            "item": "Charcoal",
+            "ability": "Drought",
+            "nature": "Quiet",
+            "moves": [
+              "Eruption",
+              "Earth Power",
+              "Weather Ball",
+              "Protect"
+            ],
+            "name": "コータス",
+            "image_local": "images/pokemon/torkoal.png",
+            "item_ja": "もくたん",
+            "ability_ja": "Drought",
+            "nature_ja": "れいせい",
+            "moves_ja": [
+              "Eruption",
+              "だいちのちから",
+              "ウェザーボール",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sylveon",
+            "english": "Sylveon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png",
+            "item": "Fairy Feather",
+            "ability": "Pixilate",
+            "nature": "Modest",
+            "moves": [
+              "Hyper Voice",
+              "Hyper Beam",
+              "Yawn",
+              "Detect"
+            ],
+            "name": "ニンフィア",
+            "image_local": "images/pokemon/sylveon.png",
+            "item_ja": "ようせいのハネ",
+            "ability_ja": "Pixilate",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ハイパーボイス",
+              "Hyper Beam",
+              "Yawn",
+              "Detect"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Parting Shot",
+              "Fake Out"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "ヨプのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フレアドライブ",
+              "DDラリアット",
+              "すてゼリフ",
+              "ねこだまし"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Yvar Vlieger",
+        "pokemon": [
+          {
+            "id": "charizard",
+            "english": "Charizard",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "item": "Charizardite Y",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "moves": [
+              "Heat Wave",
+              "Weather Ball",
+              "Ancient Power",
+              "Protect"
+            ],
+            "name": "リザードン",
+            "image_local": "images/pokemon/charizard.png",
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ねっぷう",
+              "ウェザーボール",
+              "Ancient Power",
+              "まもる"
+            ],
+            "role": "炎・飛行技で攻撃範囲を補完"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Chople Berry",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Iron Head",
+              "Protect"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "ヨプのみ",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "アイアンヘッド",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "meowstic-f",
+            "english": "Female Meowstic",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/meowstic-f.png",
+            "item": "Meowsticite",
+            "ability": "Competitive",
+            "nature": "Timid",
+            "moves": [
+              "Expanding Force",
+              "Thunderbolt",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "ニャオニクス♀",
+            "image_local": "images/pokemon/meowstic-f.png",
+            "item_ja": "Meowsticite",
+            "ability_ja": "Competitive",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ワイドフォース",
+              "Thunderbolt",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Psychic Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Close Combat",
+              "Dire Claw",
+              "Rock Slide",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "サイコシード",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "フェイタルクロー",
+              "いわなだれ",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "indeedee",
+            "english": "Indeedee",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png",
+            "item": "Focus Sash",
+            "ability": "Psychic Surge",
+            "nature": "Timid",
+            "moves": [
+              "Expanding Force",
+              "Energy Ball",
+              "Imprison",
+              "Trick Room"
+            ],
+            "name": "イエッサン♂",
+            "image_local": "images/pokemon/indeedee.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "サイコメイカー",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ワイドフォース",
+              "Energy Ball",
+              "Imprison",
+              "Trick Room"
+            ],
+            "role": "サイコメイカー・トリックを採用"
+          },
+          {
+            "id": "kommo-o",
+            "english": "Kommo-o",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png",
+            "item": "Leftovers",
+            "ability": "Soundproof",
+            "nature": "Modest",
+            "moves": [
+              "Clanging Scales",
+              "Aura Sphere",
+              "Clangorous Soul",
+              "Protect"
+            ],
+            "name": "ジャラランガ",
+            "image_local": "images/pokemon/kommo-o.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "Soundproof",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Clanging Scales",
+              "Aura Sphere",
+              "Clangorous Soul",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Eden Batchelor",
+        "pokemon": [
+          {
+            "id": "gholdengo",
+            "english": "Gholdengo",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "item": "Life Orb",
+            "ability": "Good as Gold",
+            "nature": "Modest",
+            "moves": [
+              "Make It Rain",
+              "Shadow Ball",
+              "Nasty Plot",
+              "Protect"
+            ],
+            "name": "サーフゴー",
+            "image_local": "images/pokemon/gholdengo.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ゴールドラッシュ",
+              "シャドーボール",
+              "わるだくみ",
+              "まもる"
+            ],
+            "role": "わるだくみを持つ特殊アタッカー"
+          },
+          {
+            "id": "dragonite",
+            "english": "Dragonite",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+            "item": "Dragoninite",
+            "ability": "Inner Focus",
+            "nature": "Modest",
+            "moves": [
+              "Dragon Pulse",
+              "Heat Wave",
+              "Tailwind",
+              "Protect"
+            ],
+            "name": "カイリュー",
+            "image_local": "images/pokemon/dragonite.png",
+            "item_ja": "Dragoninite",
+            "ability_ja": "Inner Focus",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうのはどう",
+              "ねっぷう",
+              "おいかぜ",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "moves": [
+              "Flare Blitz",
+              "Throat Chop",
+              "Parting Shot",
+              "Fake Out"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "フレアドライブ",
+              "Throat Chop",
+              "すてゼリフ",
+              "ねこだまし"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Grassy Glide",
+              "Wood Hammer",
+              "High Horsepower",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "グラススライダー",
+              "ウッドハンマー",
+              "10まんばりき",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Close Combat",
+              "Dire Claw",
+              "Rock Tomb",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "フェイタルクロー",
+              "Rock Tomb",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Bold",
+            "moves": [
+              "Draining Kiss",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "Draining Kiss",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Anthony Liuzzo",
+        "pokemon": [
+          {
+            "id": "vivillon",
+            "english": "Vivillon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/vivillon.png",
+            "item": "Focus Sash",
+            "ability": "Compound Eyes",
+            "nature": "Timid",
+            "moves": [
+              "Sleep Powder",
+              "Rage Powder",
+              "Hurricane",
+              "Protect"
+            ],
+            "name": "ビビヨン",
+            "image_local": "images/pokemon/vivillon.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Compound Eyes",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねむりごな",
+              "いかりのこな",
+              "ぼうふう",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "politoed",
+            "english": "Politoed",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png",
+            "item": "Sitrus Berry",
+            "ability": "Drizzle",
+            "nature": "Calm",
+            "moves": [
+              "Weather Ball",
+              "Perish Song",
+              "Encore",
+              "Protect"
+            ],
+            "name": "ニョロトノ",
+            "image_local": "images/pokemon/politoed.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "ウェザーボール",
+              "Perish Song",
+              "Encore",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "gengar",
+            "english": "Gengar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+            "item": "Gengarite",
+            "ability": "Cursed Body",
+            "nature": "Modest",
+            "moves": [
+              "Shadow Ball",
+              "Sludge Bomb",
+              "Perish Song",
+              "Protect"
+            ],
+            "name": "ゲンガー",
+            "image_local": "images/pokemon/gengar.png",
+            "item_ja": "ゲンガナイト",
+            "ability_ja": "Cursed Body",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "シャドーボール",
+              "ヘドロばくだん",
+              "Perish Song",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Passho Berry",
+            "ability": "Intimidate",
+            "nature": "Relaxed",
+            "moves": [
+              "Protect",
+              "Fake Out",
+              "Flare Blitz",
+              "Parting Shot"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "イトケのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "のんき",
+            "moves_ja": [
+              "まもる",
+              "ねこだまし",
+              "フレアドライブ",
+              "すてゼリフ"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Occa Berry",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Fake Out",
+              "Grassy Glide",
+              "U-turn",
+              "Protect"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "オッカのみ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ねこだまし",
+              "グラススライダー",
+              "とんぼがえり",
+              "まもる"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "kommo-o",
+            "english": "Kommo-o",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png",
+            "item": "Leftovers",
+            "ability": "Soundproof",
+            "nature": "Modest",
+            "moves": [
+              "Clanging Scales",
+              "Clangorous Soul",
+              "Aura Sphere",
+              "Protect"
+            ],
+            "name": "ジャラランガ",
+            "image_local": "images/pokemon/kommo-o.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "Soundproof",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Clanging Scales",
+              "Clangorous Soul",
+              "Aura Sphere",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Juan Manuel Odriozola",
+        "pokemon": [
+          {
+            "id": "toxapex",
+            "english": "Toxapex",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/toxapex.png",
+            "item": "Leftovers",
+            "ability": "Regenerator",
+            "nature": "Relaxed",
+            "moves": [
+              "Baneful Bunker",
+              "Wide Guard",
+              "Toxic",
+              "Infestation"
+            ],
+            "name": "ドヒドイデ",
+            "image_local": "images/pokemon/toxapex.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "Regenerator",
+            "nature_ja": "のんき",
+            "moves_ja": [
+              "Baneful Bunker",
+              "ワイドガード",
+              "Toxic",
+              "Infestation"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sylveon",
+            "english": "Sylveon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png",
+            "item": "Fairy Feather",
+            "ability": "Pixilate",
+            "nature": "Modest",
+            "moves": [
+              "Detect",
+              "Yawn",
+              "Hyper Voice",
+              "Quick Attack"
+            ],
+            "name": "ニンフィア",
+            "image_local": "images/pokemon/sylveon.png",
+            "item_ja": "ようせいのハネ",
+            "ability_ja": "Pixilate",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Detect",
+              "Yawn",
+              "ハイパーボイス",
+              "Quick Attack"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Choice Scarf",
+            "ability": "Rough Skin",
+            "nature": "Adamant",
+            "moves": [
+              "Dragon Claw",
+              "Earthquake",
+              "Stomping Tantrum",
+              "Rock Slide"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "さめはだ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Dragon Claw",
+              "Earthquake",
+              "Stomping Tantrum",
+              "いわなだれ"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "moves": [
+              "Fake Out",
+              "Parting Shot",
+              "Flare Blitz",
+              "Throat Chop"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "ねこだまし",
+              "すてゼリフ",
+              "フレアドライブ",
+              "Throat Chop"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "venusaur",
+            "english": "Venusaur",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png",
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+              "Protect",
+              "Leaf Storm",
+              "Sludge Bomb",
+              "Earth Power"
+            ],
+            "name": "フシギバナ",
+            "image_local": "images/pokemon/venusaur.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "ようりょくそ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "リーフストーム",
+              "ヘドロばくだん",
+              "だいちのちから"
+            ],
+            "role": "ようりょくそ・ねむりごなを採用"
+          },
+          {
+            "id": "charizard",
+            "english": "Charizard",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "item": "Charizardite Y",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+              "Protect",
+              "Heat Wave",
+              "Weather Ball",
+              "Ancient Power"
+            ],
+            "name": "リザードン",
+            "image_local": "images/pokemon/charizard.png",
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "ねっぷう",
+              "ウェザーボール",
+              "Ancient Power"
+            ],
+            "role": "炎・飛行技で攻撃範囲を補完"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Valentijn Visser",
+        "pokemon": [
+          {
+            "id": "froslass",
+            "english": "Froslass",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/froslass.png",
+            "item": "Froslassite",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+              "Protect",
+              "Blizzard",
+              "Shadow Ball",
+              "Aurora Veil"
+            ],
+            "name": "ユキメノコ",
+            "image_local": "images/pokemon/froslass.png",
+            "item_ja": "Froslassite",
+            "ability_ja": "Cursed Body",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "Blizzard",
+              "シャドーボール",
+              "Aurora Veil"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "moves": [
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Fake Out",
+              "Parting Shot"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "フレアドライブ",
+              "DDラリアット",
+              "ねこだまし",
+              "すてゼリフ"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "basculegion",
+            "english": "Basculegion",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "nature": "Jolly",
+            "moves": [
+              "Wave Crash",
+              "Last Respects",
+              "Flip Turn",
+              "Aqua Jet"
+            ],
+            "name": "イダイトウ",
+            "image_local": "images/pokemon/basculegion.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "Adaptability",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "Wave Crash",
+              "Last Respects",
+              "Flip Turn",
+              "Aqua Jet"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "glimmora",
+            "english": "Glimmora",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/glimmora.png",
+            "item": "Glimmoranite",
+            "ability": "Toxic Debris",
+            "nature": "Timid",
+            "moves": [
+              "Spiky Shield",
+              "Sludge Bomb",
+              "Power Gem",
+              "Earth Power"
+            ],
+            "name": "キラフロル",
+            "image_local": "images/pokemon/glimmora.png",
+            "item_ja": "Glimmoranite",
+            "ability_ja": "Toxic Debris",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "Spiky Shield",
+              "ヘドロばくだん",
+              "パワージェム",
+              "だいちのちから"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "U-turn",
+              "Grassy Glide",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "とんぼがえり",
+              "グラススライダー",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "volcarona",
+            "english": "Volcarona",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png",
+            "item": "Grassy Seed",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "moves": [
+              "Protect",
+              "Heat Wave",
+              "Giga Drain",
+              "Quiver Dance"
+            ],
+            "name": "ウルガモス",
+            "image_local": "images/pokemon/volcarona.png",
+            "item_ja": "グラスシード",
+            "ability_ja": "ほのおのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "ねっぷう",
+              "Giga Drain",
+              "Quiver Dance"
+            ],
+            "role": "いかりのこな・おいかぜで補助"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Giuseppe Musicco",
+        "pokemon": [
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "moves": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "Grassy Glide",
+              "High Horsepower",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "グラススライダー",
+              "10まんばりき",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "moves": [
+              "Flare Blitz",
+              "Taunt",
+              "Parting Shot",
+              "Fake Out"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "フレアドライブ",
+              "Taunt",
+              "すてゼリフ",
+              "ねこだまし"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "dragonite",
+            "english": "Dragonite",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+            "item": "Dragoninite",
+            "ability": "Inner Focus",
+            "nature": "Modest",
+            "moves": [
+              "Dragon Pulse",
+              "Heat Wave",
+              "Tailwind",
+              "Protect"
+            ],
+            "name": "カイリュー",
+            "image_local": "images/pokemon/dragonite.png",
+            "item_ja": "Dragoninite",
+            "ability_ja": "Inner Focus",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうのはどう",
+              "ねっぷう",
+              "おいかぜ",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "gholdengo",
+            "english": "Gholdengo",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "item": "Life Orb",
+            "ability": "Good as Gold",
+            "nature": "Modest",
+            "moves": [
+              "Make It Rain",
+              "Shadow Ball",
+              "Nasty Plot",
+              "Protect"
+            ],
+            "name": "サーフゴー",
+            "image_local": "images/pokemon/gholdengo.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ゴールドラッシュ",
+              "シャドーボール",
+              "わるだくみ",
+              "まもる"
+            ],
+            "role": "わるだくみを持つ特殊アタッカー"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Dire Claw",
+              "Close Combat",
+              "Rock Tomb",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フェイタルクロー",
+              "インファイト",
+              "Rock Tomb",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          }
+        ]
+      }
+    ],
+    "format": "Regulation M-C",
+    "source": "https://limitlessvgc.com/tournaments/443",
+    "team_source": "https://limitlessvgc.com/tournaments/443/teams",
+    "checked": "2026-10-08",
+    "winner": "Eric Rios"
+  },
+  {
+    "id": 442,
+    "slug": "brisbane-2026",
+    "name": "ブリスベン",
+    "english": "Brisbane Regional",
+    "country": "オーストラリア",
+    "region": "Oceania",
+    "date": "2026-09-26",
+    "players": 327,
+    "accent": "teal",
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Kiran Singh",
+        "pokemon": [
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Calm",
+            "moves": [
+              "Electro Shot",
+              "Flash Cannon",
+              "Dragon Pulse",
+              "Protect"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "エレクトロビーム",
+              "ラスターカノン",
+              "りゅうのはどう",
+              "まもる"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          },
+          {
+            "id": "pelipper",
+            "english": "Pelipper",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png",
+            "item": "Sitrus Berry",
+            "ability": "Drizzle",
+            "nature": "Bold",
+            "moves": [
+              "Hurricane",
+              "Weather Ball",
+              "Tailwind",
+              "Wide Guard"
+            ],
+            "name": "ペリッパー",
+            "image_local": "images/pokemon/pelipper.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "ぼうふう",
+              "ウェザーボール",
+              "おいかぜ",
+              "ワイドガード"
+            ],
+            "role": "あめふらし・おいかぜで補助"
+          },
+          {
+            "id": "grimmsnarl",
+            "english": "Grimmsnarl",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png",
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Sassy",
+            "moves": [
+              "Spirit Break",
+              "Light Screen",
+              "Reflect",
+              "Parting Shot"
+            ],
+            "name": "オーロンゲ",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "item_ja": "ひかりのねんど",
+            "ability_ja": "いたずらごころ",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "ソウルクラッシュ",
+              "ひかりのかべ",
+              "リフレクター",
+              "すてゼリフ"
+            ],
+            "role": "両壁・すてゼリフで補助"
+          },
+          {
+            "id": "charizard",
+            "english": "Charizard",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "item": "Charizardite Y",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+              "Heat Wave",
+              "Weather Ball",
+              "Hurricane",
+              "Protect"
+            ],
+            "name": "リザードン",
+            "image_local": "images/pokemon/charizard.png",
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "ウェザーボール",
+              "ぼうふう",
+              "まもる"
+            ],
+            "role": "炎・飛行技で攻撃範囲を補完"
+          },
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Garchompite Z",
+            "ability": "Rough Skin",
+            "nature": "Modest",
+            "moves": [
+              "Draco Meteor",
+              "Earth Power",
+              "Power Gem",
+              "Protect"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "Garchompite Z",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうせいぐん",
+              "だいちのちから",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "venusaur",
+            "english": "Venusaur",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png",
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+              "Leaf Storm",
+              "Sludge Bomb",
+              "Sleep Powder",
+              "Protect"
+            ],
+            "name": "フシギバナ",
+            "image_local": "images/pokemon/venusaur.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "ようりょくそ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "リーフストーム",
+              "ヘドロばくだん",
+              "ねむりごな",
+              "まもる"
+            ],
+            "role": "ようりょくそ・ねむりごなを採用"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Haruki Sato",
+        "pokemon": [
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "moves": [
+              "Moonblast",
+              "Protect",
+              "Calm Mind",
+              "Dazzling Gleam"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Moonblast",
+              "まもる",
+              "Calm Mind",
+              "Dazzling Gleam"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Chople Berry",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Sucker Punch",
+              "Protect",
+              "Kowtow Cleave",
+              "Iron Head"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "ヨプのみ",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Sucker Punch",
+              "まもる",
+              "Kowtow Cleave",
+              "アイアンヘッド"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "basculegion",
+            "english": "Basculegion",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+            "item": "Colbur Berry",
+            "ability": "Adaptability",
+            "nature": "Adamant",
+            "moves": [
+              "Last Respects",
+              "Aqua Jet",
+              "Protect",
+              "Wave Crash"
+            ],
+            "name": "イダイトウ",
+            "image_local": "images/pokemon/basculegion.png",
+            "item_ja": "ナモのみ",
+            "ability_ja": "Adaptability",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Last Respects",
+              "Aqua Jet",
+              "まもる",
+              "Wave Crash"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Grassy Glide",
+              "Fake Out",
+              "Wood Hammer",
+              "High Horsepower"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "グラススライダー",
+              "ねこだまし",
+              "ウッドハンマー",
+              "10まんばりき"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "salamence",
+            "english": "Salamence",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "item": "Salamencite",
+            "ability": "Intimidate",
+            "nature": "Modest",
+            "moves": [
+              "Flamethrower",
+              "Protect",
+              "Tailwind",
+              "Hyper Voice"
+            ],
+            "name": "ボーマンダ",
+            "image_local": "images/pokemon/salamence.png",
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "かえんほうしゃ",
+              "まもる",
+              "おいかぜ",
+              "ハイパーボイス"
+            ],
+            "role": "ハイパーボイスを持つ特殊アタッカー"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Jolly",
+            "moves": [
+              "Protect",
+              "Dire Claw",
+              "Fake Out",
+              "Close Combat"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Poison Touch",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "まもる",
+              "フェイタルクロー",
+              "ねこだまし",
+              "インファイト"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Jude Gerard Lee Wei Cong",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Garchompite",
+            "ability": "Rough Skin",
+            "nature": "Adamant",
+            "moves": [
+              "Stomping Tantrum",
+              "Scale Shot",
+              "Protect",
+              "Rock Slide"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "ガブリアスナイト",
+            "ability_ja": "さめはだ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Stomping Tantrum",
+              "Scale Shot",
+              "まもる",
+              "いわなだれ"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Jolly",
+            "moves": [
+              "Dire Claw",
+              "Fake Out",
+              "Close Combat",
+              "Coaching"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Poison Touch",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "フェイタルクロー",
+              "ねこだまし",
+              "インファイト",
+              "コーチング"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Timid",
+            "moves": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Sassy",
+            "moves": [
+              "Flare Blitz",
+              "Fake Out",
+              "Parting Shot",
+              "Helping Hand"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "フレアドライブ",
+              "ねこだまし",
+              "すてゼリフ",
+              "Helping Hand"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "High Horsepower",
+              "Fake Out",
+              "Grassy Glide"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "10まんばりき",
+              "ねこだまし",
+              "グラススライダー"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Life Orb",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Kowtow Cleave",
+              "Swords Dance",
+              "Sucker Punch",
+              "Protect"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Kowtow Cleave",
+              "Swords Dance",
+              "Sucker Punch",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Joshua Sutherland-Smith",
+        "pokemon": [
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Dire Claw",
+              "Close Combat",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フェイタルクロー",
+              "インファイト",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "basculegion",
+            "english": "Basculegion",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "nature": "Jolly",
+            "moves": [
+              "Wave Crash",
+              "Last Respects",
+              "Flip Turn",
+              "Aqua Jet"
+            ],
+            "name": "イダイトウ",
+            "image_local": "images/pokemon/basculegion.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "Adaptability",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "Wave Crash",
+              "Last Respects",
+              "Flip Turn",
+              "Aqua Jet"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "moves": [
+              "Moonblast",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Moonblast",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Modest",
+            "moves": [
+              "Flash Cannon",
+              "Dragon Pulse",
+              "Electro Shot",
+              "Protect"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ラスターカノン",
+              "りゅうのはどう",
+              "エレクトロビーム",
+              "まもる"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          },
+          {
+            "id": "pelipper",
+            "english": "Pelipper",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png",
+            "item": "Focus Sash",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "moves": [
+              "Weather Ball",
+              "Hurricane",
+              "Tailwind",
+              "Protect"
+            ],
+            "name": "ペリッパー",
+            "image_local": "images/pokemon/pelipper.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ウェザーボール",
+              "ぼうふう",
+              "おいかぜ",
+              "まもる"
+            ],
+            "role": "あめふらし・おいかぜで補助"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Careful",
+            "moves": [
+              "Flare Blitz",
+              "Snarl",
+              "Fake Out",
+              "Parting Shot"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "フレアドライブ",
+              "Snarl",
+              "ねこだまし",
+              "すてゼリフ"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Matthew Henry",
+        "pokemon": [
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "Grassy Glide",
+              "High Horsepower",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "グラススライダー",
+              "10まんばりき",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "gengar",
+            "english": "Gengar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+            "item": "Gengarite",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+              "Protect",
+              "Sludge Bomb",
+              "Substitute",
+              "Shadow Ball"
+            ],
+            "name": "ゲンガー",
+            "image_local": "images/pokemon/gengar.png",
+            "item_ja": "ゲンガナイト",
+            "ability_ja": "Cursed Body",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "ヘドロばくだん",
+              "Substitute",
+              "シャドーボール"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Sassy",
+            "moves": [
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Parting Shot",
+              "Fake Out"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "フレアドライブ",
+              "DDラリアット",
+              "すてゼリフ",
+              "ねこだまし"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Life Orb",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "Protect"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Dire Claw",
+              "Rock Slide",
+              "Protect",
+              "Close Combat"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "グラスシード",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フェイタルクロー",
+              "いわなだれ",
+              "まもる",
+              "インファイト"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "moves": [
+              "Calm Mind",
+              "Draining Kiss",
+              "Dazzling Gleam",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Calm Mind",
+              "Draining Kiss",
+              "Dazzling Gleam",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Daniel Walker",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "english": "Salamence",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "item": "Salamencite",
+            "ability": "Intimidate",
+            "nature": "Careful",
+            "moves": [
+              "Double-Edge",
+              "Tailwind",
+              "Roost",
+              "Rain Dance"
+            ],
+            "name": "ボーマンダ",
+            "image_local": "images/pokemon/salamence.png",
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "Double-Edge",
+              "おいかぜ",
+              "はねやすめ",
+              "Rain Dance"
+            ],
+            "role": "ハイパーボイスを持つ特殊アタッカー"
+          },
+          {
+            "id": "armarouge",
+            "english": "Armarouge",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/armarouge.png",
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Timid",
+            "moves": [
+              "Armor Cannon",
+              "Expanding Force",
+              "Wide Guard",
+              "Sunny Day"
+            ],
+            "name": "グレンアルマ",
+            "image_local": "images/pokemon/armarouge.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Weak Armor",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "Armor Cannon",
+              "ワイドフォース",
+              "ワイドガード",
+              "Sunny Day"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Protect",
+              "Swords Dance",
+              "Close Combat",
+              "Throat Chop"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "Swords Dance",
+              "インファイト",
+              "Throat Chop"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "indeedee-f",
+            "english": "Female Indeedee",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png",
+            "item": "Psychic Seed",
+            "ability": "Psychic Surge",
+            "nature": "Relaxed",
+            "moves": [
+              "Psyshock",
+              "Follow Me",
+              "Baton Pass",
+              "Trick Room"
+            ],
+            "name": "イエッサン♀",
+            "image_local": "images/pokemon/indeedee-f.png",
+            "item_ja": "サイコシード",
+            "ability_ja": "サイコメイカー",
+            "nature_ja": "のんき",
+            "moves_ja": [
+              "Psyshock",
+              "Follow Me",
+              "Baton Pass",
+              "Trick Room"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "politoed",
+            "english": "Politoed",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png",
+            "item": "Choice Scarf",
+            "ability": "Drizzle",
+            "nature": "Timid",
+            "moves": [
+              "Weather Ball",
+              "Muddy Water",
+              "Ice Beam",
+              "Icy Wind"
+            ],
+            "name": "ニョロトノ",
+            "image_local": "images/pokemon/politoed.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ウェザーボール",
+              "Muddy Water",
+              "Ice Beam",
+              "Icy Wind"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Bold",
+            "moves": [
+              "Protect",
+              "Electro Shot",
+              "Dragon Pulse",
+              "Snarl"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "まもる",
+              "エレクトロビーム",
+              "りゅうのはどう",
+              "Snarl"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Keigo Tanizawa",
+        "pokemon": [
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Sucker Punch",
+              "Iron Head",
+              "Kowtow Cleave",
+              "Low Kick"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Sucker Punch",
+              "アイアンヘッド",
+              "Kowtow Cleave",
+              "けたぐり"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Close Combat",
+              "Dire Claw",
+              "Rock Slide",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "フェイタルクロー",
+              "いわなだれ",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "garchomp",
+            "english": "Garchomp",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "item": "Garchompite Z",
+            "ability": "Rough Skin",
+            "nature": "Modest",
+            "moves": [
+              "Draco Meteor",
+              "Earth Power",
+              "Power Gem",
+              "Protect"
+            ],
+            "name": "ガブリアス",
+            "image_local": "images/pokemon/garchomp.png",
+            "item_ja": "Garchompite Z",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうせいぐん",
+              "だいちのちから",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "特殊技で攻撃範囲を補完"
+          },
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Timid",
+            "moves": [
+              "Moonblast",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "Moonblast",
+              "Dazzling Gleam",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Grassy Glide",
+              "High Horsepower",
+              "Wood Hammer",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "グラススライダー",
+              "10まんばりき",
+              "ウッドハンマー",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "volcarona",
+            "english": "Volcarona",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png",
+            "item": "Rocky Helmet",
+            "ability": "Flame Body",
+            "nature": "Bold",
+            "moves": [
+              "Overheat",
+              "Rage Powder",
+              "Tailwind",
+              "Protect"
+            ],
+            "name": "ウルガモス",
+            "image_local": "images/pokemon/volcarona.png",
+            "item_ja": "ゴツゴツメット",
+            "ability_ja": "ほのおのからだ",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "オーバーヒート",
+              "いかりのこな",
+              "おいかぜ",
+              "まもる"
+            ],
+            "role": "いかりのこな・おいかぜで補助"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Daniel Quek",
+        "pokemon": [
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Calm",
+            "moves": [
+              "Electro Shot",
+              "Flash Cannon",
+              "Dragon Pulse",
+              "Protect"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "エレクトロビーム",
+              "ラスターカノン",
+              "りゅうのはどう",
+              "まもる"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          },
+          {
+            "id": "grimmsnarl",
+            "english": "Grimmsnarl",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png",
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Careful",
+            "moves": [
+              "Spirit Break",
+              "Parting Shot",
+              "Reflect",
+              "Light Screen"
+            ],
+            "name": "オーロンゲ",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "item_ja": "ひかりのねんど",
+            "ability_ja": "いたずらごころ",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "ソウルクラッシュ",
+              "すてゼリフ",
+              "リフレクター",
+              "ひかりのかべ"
+            ],
+            "role": "両壁・すてゼリフで補助"
+          },
+          {
+            "id": "venusaur",
+            "english": "Venusaur",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png",
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+              "Sleep Powder",
+              "Sludge Bomb",
+              "Leaf Storm",
+              "Protect"
+            ],
+            "name": "フシギバナ",
+            "image_local": "images/pokemon/venusaur.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "ようりょくそ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ねむりごな",
+              "ヘドロばくだん",
+              "リーフストーム",
+              "まもる"
+            ],
+            "role": "ようりょくそ・ねむりごなを採用"
+          },
+          {
+            "id": "pelipper",
+            "english": "Pelipper",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png",
+            "item": "Sitrus Berry",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "moves": [
+              "Tailwind",
+              "Weather Ball",
+              "Hurricane",
+              "Wide Guard"
+            ],
+            "name": "ペリッパー",
+            "image_local": "images/pokemon/pelipper.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "おいかぜ",
+              "ウェザーボール",
+              "ぼうふう",
+              "ワイドガード"
+            ],
+            "role": "あめふらし・おいかぜで補助"
+          },
+          {
+            "id": "swampert",
+            "english": "Swampert",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/swampert.png",
+            "item": "Swampertite",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+              "Protect",
+              "Ice Punch",
+              "Wave Crash",
+              "Earthquake"
+            ],
+            "name": "ラグラージ",
+            "image_local": "images/pokemon/swampert.png",
+            "item_ja": "ラグラージナイト",
+            "ability_ja": "Torrent",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "Ice Punch",
+              "Wave Crash",
+              "Earthquake"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "charizard",
+            "english": "Charizard",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "item": "Charizardite Y",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "moves": [
+              "Heat Wave",
+              "Weather Ball",
+              "Hurricane",
+              "Protect"
+            ],
+            "name": "リザードン",
+            "image_local": "images/pokemon/charizard.png",
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ねっぷう",
+              "ウェザーボール",
+              "ぼうふう",
+              "まもる"
+            ],
+            "role": "炎・飛行技で攻撃範囲を補完"
+          }
+        ]
+      }
+    ],
+    "format": "Regulation M-C",
+    "source": "https://limitlessvgc.com/tournaments/442",
+    "team_source": "https://limitlessvgc.com/tournaments/442/teams",
+    "checked": "2026-10-08",
+    "winner": "Kiran Singh"
+  },
+  {
+    "id": 441,
+    "slug": "baltimore-2026",
+    "name": "ボルチモア",
+    "english": "Baltimore Regional",
+    "country": "アメリカ",
+    "region": "North America",
+    "date": "2026-09-19",
+    "players": 1081,
+    "accent": "orange",
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Joseph Ugarte",
+        "pokemon": [
+          {
+            "id": "excadrill",
+            "english": "Excadrill",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/excadrill.png",
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "moves": [
+              "Iron Head",
+              "High Horsepower",
+              "Rock Slide",
+              "Protect"
+            ],
+            "name": "ドリュウズ",
+            "image_local": "images/pokemon/excadrill.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "すなかき",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "アイアンヘッド",
+              "10まんばりき",
+              "いわなだれ",
+              "まもる"
+            ],
+            "role": "すなかきの物理アタッカー"
+          },
+          {
+            "id": "salamence",
+            "english": "Salamence",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "item": "Salamencite",
+            "ability": "Intimidate",
+            "nature": "Timid",
+            "moves": [
+              "Hyper Voice",
+              "Draco Meteor",
+              "Flamethrower",
+              "Protect"
+            ],
+            "name": "ボーマンダ",
+            "image_local": "images/pokemon/salamence.png",
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ハイパーボイス",
+              "りゅうせいぐん",
+              "かえんほうしゃ",
+              "まもる"
+            ],
+            "role": "ハイパーボイスを持つ特殊アタッカー"
+          },
+          {
+            "id": "tyranitar",
+            "english": "Tyranitar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/tyranitar.png",
+            "item": "Tyranitarite",
+            "ability": "Sand Stream",
+            "nature": "Jolly",
+            "moves": [
+              "Rock Slide",
+              "Knock Off",
+              "Low Kick",
+              "Protect"
+            ],
+            "name": "バンギラス",
+            "image_local": "images/pokemon/tyranitar.png",
+            "item_ja": "バンギラスナイト",
+            "ability_ja": "すなおこし",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "いわなだれ",
+              "はたきおとす",
+              "けたぐり",
+              "まもる"
+            ],
+            "role": "すなおこしで天候を展開"
+          },
+          {
+            "id": "indeedee",
+            "english": "Indeedee",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png",
+            "item": "Choice Scarf",
+            "ability": "Psychic Surge",
+            "nature": "Modest",
+            "moves": [
+              "Expanding Force",
+              "Mystical Fire",
+              "Trick",
+              "Protect"
+            ],
+            "name": "イエッサン♂",
+            "image_local": "images/pokemon/indeedee.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "サイコメイカー",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ワイドフォース",
+              "マジカルフレイム",
+              "トリック",
+              "まもる"
+            ],
+            "role": "サイコメイカー・トリックを採用"
+          },
+          {
+            "id": "corviknight",
+            "english": "Corviknight",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/corviknight.png",
+            "item": "Psychic Seed",
+            "ability": "Mirror Armor",
+            "nature": "Careful",
+            "moves": [
+              "Brave Bird",
+              "Power Trip",
+              "Bulk Up",
+              "Roost"
+            ],
+            "name": "アーマーガア",
+            "image_local": "images/pokemon/corviknight.png",
+            "item_ja": "サイコシード",
+            "ability_ja": "ミラーアーマー",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "ブレイブバード",
+              "つけあがる",
+              "ビルドアップ",
+              "はねやすめ"
+            ],
+            "role": "ビルドアップ・はねやすめを採用"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Dire Claw",
+              "Close Combat",
+              "Coaching",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フェイタルクロー",
+              "インファイト",
+              "コーチング",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Aditya Subramanian",
+        "pokemon": [
+          {
+            "id": "golisopod",
+            "english": "Golisopod",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "item": "Golisopite",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "moves": [
+              "Leech Life",
+              "Drill Run",
+              "Iron Head",
+              "Protect"
+            ],
+            "name": "グソクムシャ",
+            "image_local": "images/pokemon/golisopod.png",
+            "item_ja": "Golisopite",
+            "ability_ja": "Emergency Exit",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Leech Life",
+              "Drill Run",
+              "アイアンヘッド",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "charizard",
+            "english": "Charizard",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "item": "Charizardite Y",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+              "Heat Wave",
+              "Hurricane",
+              "Weather Ball",
+              "Protect"
+            ],
+            "name": "リザードン",
+            "image_local": "images/pokemon/charizard.png",
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "ぼうふう",
+              "ウェザーボール",
+              "まもる"
+            ],
+            "role": "炎・飛行技で攻撃範囲を補完"
+          },
+          {
+            "id": "politoed",
+            "english": "Politoed",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png",
+            "item": "Mystic Water",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "moves": [
+              "Muddy Water",
+              "Ice Beam",
+              "Weather Ball",
+              "Protect"
+            ],
+            "name": "ニョロトノ",
+            "image_local": "images/pokemon/politoed.png",
+            "item_ja": "しんぴのしずく",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Muddy Water",
+              "Ice Beam",
+              "ウェザーボール",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Bold",
+            "moves": [
+              "Dragon Pulse",
+              "Snarl",
+              "Electro Shot",
+              "Protect"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "りゅうのはどう",
+              "Snarl",
+              "エレクトロビーム",
+              "まもる"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          },
+          {
+            "id": "grimmsnarl",
+            "english": "Grimmsnarl",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png",
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Sassy",
+            "moves": [
+              "Light Screen",
+              "Reflect",
+              "Parting Shot",
+              "Spirit Break"
+            ],
+            "name": "オーロンゲ",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "item_ja": "ひかりのねんど",
+            "ability_ja": "いたずらごころ",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "ひかりのかべ",
+              "リフレクター",
+              "すてゼリフ",
+              "ソウルクラッシュ"
+            ],
+            "role": "両壁・すてゼリフで補助"
+          },
+          {
+            "id": "farigiraf",
+            "english": "Farigiraf",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png",
+            "item": "Sitrus Berry",
+            "ability": "Armor Tail",
+            "nature": "Bold",
+            "moves": [
+              "Psychic",
+              "Trick Room",
+              "Protect",
+              "Grass Knot"
+            ],
+            "name": "リキキリン",
+            "image_local": "images/pokemon/farigiraf.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "Armor Tail",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "Psychic",
+              "Trick Room",
+              "まもる",
+              "Grass Knot"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Brady Smith",
+        "pokemon": [
+          {
+            "id": "archaludon",
+            "english": "Archaludon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "item": "Leftovers",
+            "ability": "Stamina",
+            "nature": "Bold",
+            "moves": [
+              "Dragon Pulse",
+              "Flash Cannon",
+              "Electro Shot",
+              "Protect"
+            ],
+            "name": "ブリジュラス",
+            "image_local": "images/pokemon/archaludon.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "りゅうのはどう",
+              "ラスターカノン",
+              "エレクトロビーム",
+              "まもる"
+            ],
+            "role": "雨と組み合わせる特殊アタッカー"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Passho Berry",
+            "ability": "Intimidate",
+            "nature": "Sassy",
+            "moves": [
+              "Fake Out",
+              "Parting Shot",
+              "Darkest Lariat",
+              "Protect"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "イトケのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "ねこだまし",
+              "すてゼリフ",
+              "DDラリアット",
+              "まもる"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "politoed",
+            "english": "Politoed",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png",
+            "item": "Sitrus Berry",
+            "ability": "Drizzle",
+            "nature": "Calm",
+            "moves": [
+              "Perish Song",
+              "Weather Ball",
+              "Encore",
+              "Protect"
+            ],
+            "name": "ニョロトノ",
+            "image_local": "images/pokemon/politoed.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "Perish Song",
+              "ウェザーボール",
+              "Encore",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "vivillon",
+            "english": "Vivillon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/vivillon.png",
+            "item": "Focus Sash",
+            "ability": "Compound Eyes",
+            "nature": "Timid",
+            "moves": [
+              "Sleep Powder",
+              "Rage Powder",
+              "Hurricane",
+              "Protect"
+            ],
+            "name": "ビビヨン",
+            "image_local": "images/pokemon/vivillon.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Compound Eyes",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねむりごな",
+              "いかりのこな",
+              "ぼうふう",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Eject Button",
+            "ability": "Grassy Surge",
+            "nature": "Careful",
+            "moves": [
+              "Fake Out",
+              "Grassy Glide",
+              "U-turn",
+              "Protect"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "だっしゅつボタン",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "ねこだまし",
+              "グラススライダー",
+              "とんぼがえり",
+              "まもる"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "gengar",
+            "english": "Gengar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+            "item": "Gengarite",
+            "ability": "Cursed Body",
+            "nature": "Modest",
+            "moves": [
+              "Shadow Ball",
+              "Sludge Bomb",
+              "Perish Song",
+              "Protect"
+            ],
+            "name": "ゲンガー",
+            "image_local": "images/pokemon/gengar.png",
+            "item_ja": "ゲンガナイト",
+            "ability_ja": "Cursed Body",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "シャドーボール",
+              "ヘドロばくだん",
+              "Perish Song",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Blaik Thompson",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "english": "Salamence",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "item": "Salamencite",
+            "ability": "Intimidate",
+            "nature": "Timid",
+            "moves": [
+              "Heat Wave",
+              "Draco Meteor",
+              "Hyper Voice",
+              "Protect"
+            ],
+            "name": "ボーマンダ",
+            "image_local": "images/pokemon/salamence.png",
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "りゅうせいぐん",
+              "ハイパーボイス",
+              "まもる"
+            ],
+            "role": "ハイパーボイスを持つ特殊アタッカー"
+          },
+          {
+            "id": "arcanine-hisui",
+            "english": "Hisuian Arcanine",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png",
+            "item": "Focus Sash",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "moves": [
+              "Flare Blitz",
+              "Head Smash",
+              "Extreme Speed",
+              "Protect"
+            ],
+            "name": "ウインディ（ヒスイ）",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Rock Head",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "フレアドライブ",
+              "Head Smash",
+              "Extreme Speed",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "indeedee",
+            "english": "Indeedee",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png",
+            "item": "Choice Scarf",
+            "ability": "Psychic Surge",
+            "nature": "Modest",
+            "moves": [
+              "Expanding Force",
+              "Trick",
+              "Trick Room",
+              "Imprison"
+            ],
+            "name": "イエッサン♂",
+            "image_local": "images/pokemon/indeedee.png",
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "サイコメイカー",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ワイドフォース",
+              "トリック",
+              "Trick Room",
+              "Imprison"
+            ],
+            "role": "サイコメイカー・トリックを採用"
+          },
+          {
+            "id": "milotic",
+            "english": "Milotic",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png",
+            "item": "Leftovers",
+            "ability": "Competitive",
+            "nature": "Calm",
+            "moves": [
+              "Scald",
+              "Ice Beam",
+              "Icy Wind",
+              "Protect"
+            ],
+            "name": "ミロカロス",
+            "image_local": "images/pokemon/milotic.png",
+            "item_ja": "たべのこし",
+            "ability_ja": "Competitive",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "Scald",
+              "Ice Beam",
+              "Icy Wind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "metagross",
+            "english": "Metagross",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/metagross.png",
+            "item": "Metagrossite",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+              "Steel Roller",
+              "Psychic Fangs",
+              "Body Press",
+              "Protect"
+            ],
+            "name": "メタグロス",
+            "image_local": "images/pokemon/metagross.png",
+            "item_ja": "メタグロスナイト",
+            "ability_ja": "Clear Body",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Steel Roller",
+              "Psychic Fangs",
+              "Body Press",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Psychic Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Throat Chop",
+              "Close Combat",
+              "Rock Slide",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "サイコシード",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Throat Chop",
+              "インファイト",
+              "いわなだれ",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Lorenzo Arce",
+        "pokemon": [
+          {
+            "id": "milotic",
+            "english": "Milotic",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png",
+            "item": "Sitrus Berry",
+            "ability": "Competitive",
+            "nature": "Calm",
+            "moves": [
+              "Coil",
+              "Hypnosis",
+              "Ice Beam",
+              "Muddy Water"
+            ],
+            "name": "ミロカロス",
+            "image_local": "images/pokemon/milotic.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "Competitive",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "Coil",
+              "Hypnosis",
+              "Ice Beam",
+              "Muddy Water"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "raichu",
+            "english": "Raichu",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "item": "Raichunite Y",
+            "ability": "Lightning Rod",
+            "nature": "Timid",
+            "moves": [
+              "Zap Cannon",
+              "Protect",
+              "Fake Out",
+              "Focus Blast"
+            ],
+            "name": "ライチュウ",
+            "image_local": "images/pokemon/raichu.png",
+            "item_ja": "Raichunite Y",
+            "ability_ja": "ひらいしん",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "でんじほう",
+              "まもる",
+              "ねこだまし",
+              "きあいだま"
+            ],
+            "role": "ねこだましと特殊技を採用"
+          },
+          {
+            "id": "ceruledge",
+            "english": "Ceruledge",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/ceruledge.png",
+            "item": "Grassy Seed",
+            "ability": "Flash Fire",
+            "nature": "Adamant",
+            "moves": [
+              "Protect",
+              "Bitter Blade",
+              "Swords Dance",
+              "Shadow Sneak"
+            ],
+            "name": "ソウブレイズ",
+            "image_local": "images/pokemon/ceruledge.png",
+            "item_ja": "グラスシード",
+            "ability_ja": "Flash Fire",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "Bitter Blade",
+              "Swords Dance",
+              "Shadow Sneak"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "staraptor",
+            "english": "Staraptor",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "item": "Staraptite",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+              "Brave Bird",
+              "Tailwind",
+              "Protect",
+              "Close Combat"
+            ],
+            "name": "ムクホーク",
+            "image_local": "images/pokemon/staraptor.png",
+            "item_ja": "Staraptite",
+            "ability_ja": "いかく",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "ブレイブバード",
+              "おいかぜ",
+              "まもる",
+              "インファイト"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "gholdengo",
+            "english": "Gholdengo",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "item": "Life Orb",
+            "ability": "Good as Gold",
+            "nature": "Modest",
+            "moves": [
+              "Shadow Ball",
+              "Nasty Plot",
+              "Make It Rain",
+              "Protect"
+            ],
+            "name": "サーフゴー",
+            "image_local": "images/pokemon/gholdengo.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "シャドーボール",
+              "わるだくみ",
+              "ゴールドラッシュ",
+              "まもる"
+            ],
+            "role": "わるだくみを持つ特殊アタッカー"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "Fake Out",
+              "High Horsepower",
+              "Grassy Glide"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "ねこだまし",
+              "10まんばりき",
+              "グラススライダー"
+            ],
+            "role": "グラスメイカーと先制技"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Esa Ishaque",
+        "pokemon": [
+          {
+            "id": "froslass",
+            "english": "Froslass",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/froslass.png",
+            "item": "Froslassite",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+              "Blizzard",
+              "Shadow Ball",
+              "Aurora Veil",
+              "Protect"
+            ],
+            "name": "ユキメノコ",
+            "image_local": "images/pokemon/froslass.png",
+            "item_ja": "Froslassite",
+            "ability_ja": "Cursed Body",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "Blizzard",
+              "シャドーボール",
+              "Aurora Veil",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "raichu",
+            "english": "Raichu",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "item": "Raichunite Y",
+            "ability": "Lightning Rod",
+            "nature": "Timid",
+            "moves": [
+              "Zap Cannon",
+              "Focus Blast",
+              "Encore",
+              "Protect"
+            ],
+            "name": "ライチュウ",
+            "image_local": "images/pokemon/raichu.png",
+            "item_ja": "Raichunite Y",
+            "ability_ja": "ひらいしん",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "でんじほう",
+              "きあいだま",
+              "Encore",
+              "まもる"
+            ],
+            "role": "ねこだましと特殊技を採用"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Sitrus Berry",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Fake Out",
+              "Grassy Glide",
+              "Wood Hammer",
+              "High Horsepower"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "オボンのみ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ねこだまし",
+              "グラススライダー",
+              "ウッドハンマー",
+              "10まんばりき"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Life Orb",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "Protect"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+              "Close Combat",
+              "Dire Claw",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "フェイタルクロー",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "arcanine-hisui",
+            "english": "Hisuian Arcanine",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png",
+            "item": "Focus Sash",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "moves": [
+              "Flare Blitz",
+              "Head Smash",
+              "Extreme Speed",
+              "Protect"
+            ],
+            "name": "ウインディ（ヒスイ）",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Rock Head",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "フレアドライブ",
+              "Head Smash",
+              "Extreme Speed",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Conner Pietrusinski",
+        "pokemon": [
+          {
+            "id": "arcanine-hisui",
+            "english": "Hisuian Arcanine",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png",
+            "item": "Focus Sash",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "moves": [
+              "Flare Blitz",
+              "Head Smash",
+              "Extreme Speed",
+              "Protect"
+            ],
+            "name": "ウインディ（ヒスイ）",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Rock Head",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "フレアドライブ",
+              "Head Smash",
+              "Extreme Speed",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "Grassy Glide",
+              "High Horsepower",
+              "Fake Out"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "グラススライダー",
+              "10まんばりき",
+              "ねこだまし"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "gholdengo",
+            "english": "Gholdengo",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "item": "Life Orb",
+            "ability": "Good as Gold",
+            "nature": "Timid",
+            "moves": [
+              "Make It Rain",
+              "Shadow Ball",
+              "Nasty Plot",
+              "Protect"
+            ],
+            "name": "サーフゴー",
+            "image_local": "images/pokemon/gholdengo.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ゴールドラッシュ",
+              "シャドーボール",
+              "わるだくみ",
+              "まもる"
+            ],
+            "role": "わるだくみを持つ特殊アタッカー"
+          },
+          {
+            "id": "staraptor",
+            "english": "Staraptor",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "item": "Staraptite",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+              "Close Combat",
+              "Protect",
+              "Brave Bird",
+              "Tailwind"
+            ],
+            "name": "ムクホーク",
+            "image_local": "images/pokemon/staraptor.png",
+            "item_ja": "Staraptite",
+            "ability_ja": "いかく",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "インファイト",
+              "まもる",
+              "ブレイブバード",
+              "おいかぜ"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "raichu",
+            "english": "Raichu",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "item": "Raichunite Y",
+            "ability": "Lightning Rod",
+            "nature": "Timid",
+            "moves": [
+              "Zap Cannon",
+              "Focus Blast",
+              "Fake Out",
+              "Protect"
+            ],
+            "name": "ライチュウ",
+            "image_local": "images/pokemon/raichu.png",
+            "item_ja": "Raichunite Y",
+            "ability_ja": "ひらいしん",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "でんじほう",
+              "きあいだま",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "ねこだましと特殊技を採用"
+          },
+          {
+            "id": "sylveon",
+            "english": "Sylveon",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png",
+            "item": "Fairy Feather",
+            "ability": "Pixilate",
+            "nature": "Modest",
+            "moves": [
+              "Hyper Beam",
+              "Hyper Voice",
+              "Quick Attack",
+              "Protect"
+            ],
+            "name": "ニンフィア",
+            "image_local": "images/pokemon/sylveon.png",
+            "item_ja": "ようせいのハネ",
+            "ability_ja": "Pixilate",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Hyper Beam",
+              "ハイパーボイス",
+              "Quick Attack",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Cole Basham",
+        "pokemon": [
+          {
+            "id": "floette-eternal",
+            "english": "Eternal Flower Floette",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "moves": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "Protect"
+            ],
+            "name": "フラエッテ（えいえんのはな）",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "item_ja": "Floettite",
+            "ability_ja": "Flower Veil",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "Dazzling Gleam",
+              "Draining Kiss",
+              "Calm Mind",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "kingambit",
+            "english": "Kingambit",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "item": "Life Orb",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "Protect"
+            ],
+            "name": "ドドゲザン",
+            "image_local": "images/pokemon/kingambit.png",
+            "item_ja": "いのちのたま",
+            "ability_ja": "Defiant",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "Kowtow Cleave",
+              "Sucker Punch",
+              "Swords Dance",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          },
+          {
+            "id": "rillaboom",
+            "english": "Rillaboom",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "item": "Miracle Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+              "Wood Hammer",
+              "Grassy Glide",
+              "Fake Out",
+              "High Horsepower"
+            ],
+            "name": "ゴリランダー",
+            "image_local": "images/pokemon/rillaboom.png",
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "グラススライダー",
+              "ねこだまし",
+              "10まんばりき"
+            ],
+            "role": "グラスメイカーと先制技"
+          },
+          {
+            "id": "sneasler",
+            "english": "Sneasler",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Jolly",
+            "moves": [
+              "Poison Jab",
+              "Close Combat",
+              "Fake Out",
+              "Quick Guard"
+            ],
+            "name": "オオニューラ",
+            "image_local": "images/pokemon/sneasler.png",
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "Poison Touch",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "Poison Jab",
+              "インファイト",
+              "ねこだまし",
+              "Quick Guard"
+            ],
+            "role": "かるわざ・コーチングを採用"
+          },
+          {
+            "id": "incineroar",
+            "english": "Incineroar",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "item": "Passho Berry",
+            "ability": "Intimidate",
+            "nature": "Careful",
+            "moves": [
+              "Flare Blitz",
+              "Throat Chop",
+              "Fake Out",
+              "Parting Shot"
+            ],
+            "name": "ガオガエン",
+            "image_local": "images/pokemon/incineroar.png",
+            "item_ja": "イトケのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "フレアドライブ",
+              "Throat Chop",
+              "ねこだまし",
+              "すてゼリフ"
+            ],
+            "role": "いかく・ねこだましで盤面調整"
+          },
+          {
+            "id": "delphox",
+            "english": "Delphox",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/delphox.png",
+            "item": "Delphoxite",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+              "Heat Wave",
+              "Psychic",
+              "Nasty Plot",
+              "Protect"
+            ],
+            "name": "マフォクシー",
+            "image_local": "images/pokemon/delphox.png",
+            "item_ja": "Delphoxite",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "Psychic",
+              "わるだくみ",
+              "まもる"
+            ],
+            "role": "公開チーム情報を参照"
+          }
+        ]
+      }
+    ],
+    "format": "Regulation M-C",
+    "source": "https://limitlessvgc.com/tournaments/441",
+    "team_source": "https://limitlessvgc.com/tournaments/441/teams",
+    "checked": "2026-10-08",
+    "winner": "Joseph Ugarte"
+  }
+]
