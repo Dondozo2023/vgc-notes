@@ -15,7 +15,10 @@
       "count": 222,
       "teams": 220,
       "source": "Pokedata",
-      "url": "data/recife-2026-explorer.json"
+      "url": "data/recife-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 9003,
@@ -27,7 +30,10 @@
       "count": 53,
       "teams": 53,
       "source": "Victory Road",
-      "url": "data/vr-october-1-2026-explorer.json"
+      "url": "data/vr-october-1-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 443,
@@ -39,7 +45,10 @@
       "count": 1129,
       "teams": 1126,
       "source": "Pokedata",
-      "url": "data/frankfurt-2026-explorer.json"
+      "url": "data/frankfurt-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 442,
@@ -51,7 +60,10 @@
       "count": 327,
       "teams": 325,
       "source": "Pokedata",
-      "url": "data/brisbane-2026-explorer.json"
+      "url": "data/brisbane-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 9004,
@@ -63,7 +75,10 @@
       "count": 64,
       "teams": 0,
       "source": "Victory Road",
-      "url": "data/global-challenge-i-2026-explorer.json"
+      "url": "data/global-challenge-i-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 9002,
@@ -75,7 +90,10 @@
       "count": 36,
       "teams": 36,
       "source": "Victory Road",
-      "url": "data/vr-september-2-2026-explorer.json"
+      "url": "data/vr-september-2-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 441,
@@ -87,7 +105,10 @@
       "count": 1081,
       "teams": 1073,
       "source": "Pokedata",
-      "url": "data/baltimore-2026-explorer.json"
+      "url": "data/baltimore-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     },
     {
       "id": 9001,
@@ -99,7 +120,10 @@
       "count": 55,
       "teams": 55,
       "source": "Victory Road",
-      "url": "data/vr-september-1-2026-explorer.json"
+      "url": "data/vr-september-1-2026-explorer.json",
+      "format": "Regulation M-C",
+      "game": "Pokémon Champions",
+      "division": "Masters"
     }
   ],
   "species": [

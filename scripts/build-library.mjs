@@ -14,7 +14,7 @@ for(const e of events){
  await fs.writeFile(path.join(root,`static/data/${e.slug}-explorer.json`),JSON.stringify(compact));
  const vr=JSON.parse(await fs.readFile(path.join(root,`data/results/${e.slug}.json`),'utf8'));
  await fs.writeFile(path.join(root,`static/data/${e.slug}-victory-road.json`),JSON.stringify({event:full.event,records:vr.masters,other_divisions:vr.other_divisions,usage:vr.usage}));
- indexes.push({id:e.id,slug:e.slug,name:e.name,type:e.type,date:e.date,end_date:e.end_date,count:compact.records.length,teams:compact.records.filter(r=>r.pokemon.length===6).length,source:e.type==='regional'?'Pokedata':'Victory Road',url:`data/${e.slug}-explorer.json`});
+ indexes.push({id:e.id,slug:e.slug,name:e.name,type:e.type,date:e.date,end_date:e.end_date,format:e.format,game:e.game,division:e.division,count:compact.records.length,teams:compact.records.filter(r=>r.pokemon.length===6).length,source:e.type==='regional'?'Pokedata':'Victory Road',url:`data/${e.slug}-explorer.json`});
  if(![441,442,443].includes(e.id)){
   const title=`${e.name} 結果と公開構築`;
   const metadata={title,date:e.date+'T00:00:00+09:00',publishDate:'2026-10-08T00:00:00+09:00',lastmod:'2026-10-08T00:00:00+09:00',event_id:e.id,format:e.format,kind:'大会結果',draft:false,summary:`${e.winner}が優勝。Victory Roadの掲載${e.published_results}件${e.standings_count?`とマスター全${e.standings_count}件の成績`:''}を収録。`,description:'掲載された全順位、公開構築、成績を日本語で整理。'};

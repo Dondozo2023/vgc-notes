@@ -438,6 +438,7 @@ select { background: #202632; border: 1px solid #3b4555; border-radius: 5px; col
 .library-player { min-width: 0; }
 .library-player b { font-size: 14px; overflow-wrap: anywhere; }
 .library-player small { display: block; font-size: 10px; color: #8f9cac; margin-top: 5px; }
+.library-player .library-event-meta { font-size: 11px; line-height: 1.6; color: #b3c9bf; }
 .library-record-score b { display: block; color: #b9dbcd; font-size: 16px; }
 .library-record-score small { font-size: 9px; color: #8f9cac; }
 .library-squad { display: flex; gap: 3px; }

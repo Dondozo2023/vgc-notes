@@ -12,6 +12,8 @@
  const params=new URLSearchParams(location.search);if(config.indexes.some(e=>e.slug===params.get('event')))selector.value=params.get('event');
  if(['8','32','128'].includes(params.get('rank')))rank.value=params.get('rank');query.value=params.get('q')??'';
  const key=r=>r.event.slug+':'+(r.source_player_id??r.rank)+':'+r.player;
+ const eventPeriod=event=>{const start=event.date.replaceAll('-','/'),end=event.end_date;if(!end||end===event.date)return start;return start+'〜'+(end.slice(0,4)===event.date.slice(0,4)?end.slice(5):end).replaceAll('-','/')};
+ const eventRule=event=>(event.format??'ルール未記載').replace(/^Regulation\s+/,'レギュレーション ');
  function persist(){try{localStorage.setItem('vgc-saved-teams',JSON.stringify([...saved]));return true}catch{return false}}
  function saveButton(r){const b=el('button',saved.has(key(r))?'保存済み':'保存','save-team');b.type='button';b.setAttribute('aria-pressed',String(saved.has(key(r))));b.addEventListener('click',()=>{saved.has(key(r))?saved.delete(key(r)):saved.add(key(r));const ok=persist();b.textContent=ok?(saved.has(key(r))?'保存済み':'保存'):'保存できません';b.setAttribute('aria-pressed',String(saved.has(key(r))));if(complete.value==='saved')filter()});return b;}
  function setDetails(r,details){
@@ -35,7 +37,7 @@
   results.replaceChildren();const fragment=document.createDocumentFragment();
   for(const r of filtered.slice(page*size,(page+1)*size)){
    const container=el('article',undefined,'library-record'),details=el('details'),summary=el('summary',undefined,'library-record-summary');
-   summary.append(el('span',String(r.rank),'library-position'));const player=el('div',undefined,'library-player');player.append(el('b',r.player_label??r.player),el('small',r.event.name+' · '+(r.country??'')+(r.trainer?' · '+r.trainer:'')));summary.append(player);
+   summary.append(el('span',String(r.rank),'library-position'));const player=el('div',undefined,'library-player');player.append(el('b',r.player_label??r.player),el('small',r.event.name+' · '+(r.country??'')+(r.trainer?' · '+r.trainer:'')),el('small','開催日：'+eventPeriod(r.event)+' · '+eventRule(r.event),'library-event-meta'));summary.append(player);
    const record=el('div',undefined,'library-record-score');if(r.record){record.append(el('b',`${r.record.wins}-${r.record.losses}${r.record.ties?'-'+r.record.ties:''}`),el('small','大会通算'))}else if(r.swiss){record.append(el('b',r.swiss),el('small','スイス'))}else{record.append(el('b',r.rating),el('small','最終レート'))}summary.append(record);
    const squad=el('div',undefined,'library-squad');for(const p of r.pokemon)squad.append(image(p));if(!r.pokemon.length)squad.append(el('span','出典の構築画像'));summary.append(squad,el('span','開く','library-open'));details.append(summary);let built=false;details.addEventListener('toggle',()=>{if(details.open&&!built){setDetails(r,details);built=true;}});container.append(details,saveButton(r));fragment.append(container);
   }results.append(fragment);
