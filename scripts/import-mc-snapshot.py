@@ -9,7 +9,7 @@ parser.add_argument('--sources',type=Path,default=base/'.cache/mc-sources')
 args=parser.parse_args()
 cache=args.sources
 read=lambda p:json.loads(p.read_text(encoding='utf-8-sig'))
-save=lambda p,j:p.write_text(json.dumps(j,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+save=lambda p,j:p.write_text(json.dumps(j,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
 dictionary=read(base/'data/dictionary.json')
 translations={}
 national={}
