@@ -39,7 +39,7 @@
  function update(){
   const query=normalize(search.value.trim());
   const selected=event.value;
-  const values=p=>selected==='all'?{rate:p.rate,count:p.count,total:24}:p.events.find(e=>String(e.id)===selected);
+  const values=p=>selected==='all'?{rate:p.rate,count:p.count,total:p.total}:p.events.find(e=>String(e.id)===selected);
   rows.sort((a,b)=>{
    const pa=byId.get(a.dataset.id),pb=byId.get(b.dataset.id);
    if(sort.value==='speed')return pb.speed-pa.speed||values(pb).count-values(pa).count;
@@ -74,7 +74,7 @@
  function render(){
   const source=mode==='tournament'?pokemon.tournament:pokemon.reference.ranked;
   const isTournament=mode==='tournament';
-  document.querySelector('#dataset-title').textContent=isTournament?'9月の3大会 · 上位24構築':'ランクバトル · シーズンM-6 / ダブル';
+  document.querySelector('#dataset-title').textContent=isTournament?pokemon.scope:'ランクバトル · シーズンM-6 / ダブル';
   document.querySelector('#dataset-description').textContent=isTournament?`${pokemon.name}を採用した${pokemon.count}構築を母数とする割合`:'2026/9/9〜10/7 · バトルデータベースの掲載率（母数非掲載）';
   document.querySelector('#dataset-note').textContent=isTournament?'技は1匹で複数採用するため、割合の合計は100%を超えます。配分・実際の選出はこのデータに含まれません。':'ランクの掲載上位項目を表示。率は出典の丸め値です。円グラフの残りは「その他・非掲載」。大会構築の数字とは異なる母集団です。';
   for(const card of document.querySelectorAll('[data-distribution]')){

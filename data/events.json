@@ -1,9 +1,1770 @@
 [
   {
+    "id": 1000072,
+    "slug": "recife-2026",
+    "name": "レシフェ",
+    "country": "ブラジル",
+    "date": "2026-10-03",
+    "players": 222,
+    "type": "regional",
+    "end_date": "2026-10-04",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "format": "Regulation M-C",
+    "checked": "2026-10-08",
+    "english": "2027 Recife Regional Championships",
+    "winner": "Juan Salerno",
+    "vr_source": "https://victoryroad.pro/2027-recife/",
+    "published_results": 64,
+    "published_squads": 64,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/2027-recife/"
+      },
+      {
+        "name": "Pokedata — マスター全順位・公開チーム",
+        "url": "https://www.pokedata.ovh/standings2/1000072/Masters"
+      }
+    ],
+    "pokedata_source": "https://www.pokedata.ovh/standings2/1000072/Masters",
+    "standings_count": 222,
+    "full_team_count": 220,
+    "teams": [
+      {
+        "rank": 1,
+        "player": "juan salerno",
+        "pokemon": [
+          {
+            "id": "sylveon",
+            "name": "ニンフィア",
+            "english": "Sylveon",
+            "image_local": "images/pokemon/sylveon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png",
+            "nature": "Modest",
+            "ability": "Pixilate",
+            "item": "Fairy Feather",
+            "moves": [
+              "Hyper Voice",
+              "Yawn",
+              "Quick Attack",
+              "Protect"
+            ],
+            "item_ja": "ようせいのハネ",
+            "ability_ja": "フェアリースキン",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ハイパーボイス",
+              "あくび",
+              "でんこうせっか",
+              "まもる"
+            ],
+            "role": "ハイパーボイスの範囲攻撃と、あくびによる交代圧力"
+          },
+          {
+            "id": "toxapex",
+            "name": "ドヒドイデ",
+            "english": "Toxapex",
+            "image_local": "images/pokemon/toxapex.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/toxapex.png",
+            "nature": "Relaxed",
+            "ability": "Regenerator",
+            "item": "Leftovers",
+            "moves": [
+              "Infestation",
+              "Toxic",
+              "Wide Guard",
+              "Baneful Bunker"
+            ],
+            "item_ja": "たべのこし",
+            "ability_ja": "さいせいりょく",
+            "nature_ja": "のんき",
+            "moves_ja": [
+              "まとわりつく",
+              "どくどく",
+              "ワイドガード",
+              "トーチカ"
+            ],
+            "role": "まとわりつく・どくどくによる削りと、ワイドガードによる範囲技対策"
+          },
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "nature": "Adamant",
+            "ability": "Rough Skin",
+            "item": "Choice Scarf",
+            "moves": [
+              "Earthquake",
+              "Dragon Claw",
+              "Rock Slide",
+              "Stomping Tantrum"
+            ],
+            "item_ja": "こだわりスカーフ",
+            "ability_ja": "さめはだ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "じしん",
+              "ドラゴンクロー",
+              "いわなだれ",
+              "じだんだ"
+            ],
+            "role": "こだわりスカーフを持つ物理攻撃役"
+          },
+          {
+            "id": "venusaur",
+            "name": "フシギバナ",
+            "english": "Venusaur",
+            "image_local": "images/pokemon/venusaur.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png",
+            "nature": "Modest",
+            "ability": "Chlorophyll",
+            "item": "Life Orb",
+            "moves": [
+              "Leaf Storm",
+              "Sludge Bomb",
+              "Earth Power",
+              "Protect"
+            ],
+            "item_ja": "いのちのたま",
+            "ability_ja": "ようりょくそ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "リーフストーム",
+              "ヘドロばくだん",
+              "だいちのちから",
+              "まもる"
+            ],
+            "role": "リザードンと組む草・毒の特殊攻撃役"
+          },
+          {
+            "id": "charizard",
+            "name": "リザードン",
+            "english": "Charizard",
+            "image_local": "images/pokemon/charizard.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "nature": "Timid",
+            "ability": "Blaze",
+            "item": "Charizardite Y",
+            "moves": [
+              "Heat Wave",
+              "Weather Ball",
+              "Ancient Power",
+              "Protect"
+            ],
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "ウェザーボール",
+              "げんしのちから",
+              "まもる"
+            ],
+            "role": "リザードナイトYを持つ天候・特殊攻撃の軸"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "nature": "Impish",
+            "ability": "Intimidate",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Fake Out",
+              "Flare Blitz",
+              "Parting Shot",
+              "Throat Chop"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "ねこだまし",
+              "フレアドライブ",
+              "すてゼリフ",
+              "じごくづき"
+            ],
+            "role": "いかく・ねこだまし・すてゼリフで盤面を整える補助役"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Luciano Begot",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "nature": "Modest",
+            "ability": "Rough Skin",
+            "item": "Garchompite Z",
+            "moves": [
+              "Dragon Pulse",
+              "Earth Power",
+              "Power Gem",
+              "Protect"
+            ],
+            "item_ja": "ガブリアスナイトＺ",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうのはどう",
+              "だいちのちから",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "politoed",
+            "name": "ニョロトノ",
+            "english": "Politoed",
+            "image_local": "images/pokemon/politoed.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png",
+            "nature": "Modest",
+            "ability": "Drizzle",
+            "item": "Mystic Water",
+            "moves": [
+              "Muddy Water",
+              "Ice Beam",
+              "Weather Ball",
+              "Protect"
+            ],
+            "item_ja": "しんぴのしずく",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "だくりゅう",
+              "れいとうビーム",
+              "ウェザーボール",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "nature": "Adamant",
+            "ability": "Intimidate",
+            "item": "Chople Berry",
+            "moves": [
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Parting Shot",
+              "Fake Out"
+            ],
+            "item_ja": "ヨプのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フレアドライブ",
+              "DDラリアット",
+              "すてゼリフ",
+              "ねこだまし"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "nature": "Timid",
+            "ability": "Stamina",
+            "item": "Leftovers",
+            "moves": [
+              "Dragon Pulse",
+              "Electro Shot",
+              "Snarl",
+              "Protect"
+            ],
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "りゅうのはどう",
+              "エレクトロビーム",
+              "バークアウト",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png",
+            "nature": "Calm",
+            "ability": "Armor Tail",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Psychic",
+              "Trick Room",
+              "Protect",
+              "Helping Hand"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "テイルアーマー",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "サイコキネシス",
+              "トリックルーム",
+              "まもる",
+              "てだすけ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "golisopod",
+            "name": "グソクムシャ",
+            "english": "Golisopod",
+            "image_local": "images/pokemon/golisopod.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "nature": "Adamant",
+            "ability": "Emergency Exit",
+            "item": "Golisopite",
+            "moves": [
+              "Leech Life",
+              "Drill Run",
+              "Iron Head",
+              "Protect"
+            ],
+            "item_ja": "グソクムシャナイト",
+            "ability_ja": "ききかいひ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "きゅうけつ",
+              "ドリルライナー",
+              "アイアンヘッド",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Nader El bacha",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "nature": "Modest",
+            "ability": "Intimidate",
+            "item": "Salamencite",
+            "moves": [
+              "Hyper Voice",
+              "Draco Meteor",
+              "Flamethrower",
+              "Tailwind"
+            ],
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ハイパーボイス",
+              "りゅうせいぐん",
+              "かえんほうしゃ",
+              "おいかぜ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+            "nature": "Adamant",
+            "ability": "Adaptability",
+            "item": "Colbur Berry",
+            "moves": [
+              "Wave Crash",
+              "Last Respects",
+              "Aqua Jet",
+              "Protect"
+            ],
+            "item_ja": "ナモのみ",
+            "ability_ja": "てきおうりょく",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウェーブタックル",
+              "おはかまいり",
+              "アクアジェット",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "kingambit",
+            "name": "ドドゲザン",
+            "english": "Kingambit",
+            "image_local": "images/pokemon/kingambit.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "nature": "Adamant",
+            "ability": "Defiant",
+            "item": "Chople Berry",
+            "moves": [
+              "Kowtow Cleave",
+              "Iron Head",
+              "Sucker Punch",
+              "Protect"
+            ],
+            "item_ja": "ヨプのみ",
+            "ability_ja": "まけんき",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ドゲザン",
+              "アイアンヘッド",
+              "ふいうち",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "nature": "Jolly",
+            "ability": "Poison Touch",
+            "item": "Focus Sash",
+            "moves": [
+              "Fake Out",
+              "Close Combat",
+              "Protect",
+              "Dire Claw"
+            ],
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "どくしゅ",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "ねこだまし",
+              "インファイト",
+              "まもる",
+              "フェイタルクロー"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "nature": "Adamant",
+            "ability": "Grassy Surge",
+            "item": "Life Orb",
+            "moves": [
+              "Grassy Glide",
+              "Wood Hammer",
+              "Fake Out",
+              "High Horsepower"
+            ],
+            "item_ja": "いのちのたま",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "グラススライダー",
+              "ウッドハンマー",
+              "ねこだまし",
+              "10まんばりき"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "nature": "Modest",
+            "ability": "Flower Veil",
+            "item": "Floettite",
+            "moves": [
+              "Dazzling Gleam",
+              "Moonblast",
+              "Protect",
+              "Calm Mind"
+            ],
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "マジカルシャイン",
+              "ムーンフォース",
+              "まもる",
+              "めいそう"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Hugo Nascimento Vilela dos Santos",
+        "pokemon": [
+          {
+            "id": "swampert",
+            "name": "ラグラージ",
+            "english": "Swampert",
+            "image_local": "images/pokemon/swampert.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/swampert.png",
+            "nature": "Adamant",
+            "ability": "Torrent",
+            "item": "Swampertite",
+            "moves": [
+              "Wave Crash",
+              "Earthquake",
+              "Ice Punch",
+              "Protect"
+            ],
+            "item_ja": "ラグラージナイト",
+            "ability_ja": "げきりゅう",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウェーブタックル",
+              "じしん",
+              "れいとうパンチ",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png",
+            "nature": "Bold",
+            "ability": "Drizzle",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Hurricane",
+              "Weather Ball",
+              "Tailwind",
+              "Wide Guard"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "あめふらし",
+            "nature_ja": "ずぶとい",
+            "moves_ja": [
+              "ぼうふう",
+              "ウェザーボール",
+              "おいかぜ",
+              "ワイドガード"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "venusaur",
+            "name": "フシギバナ",
+            "english": "Venusaur",
+            "image_local": "images/pokemon/venusaur.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png",
+            "nature": "Modest",
+            "ability": "Chlorophyll",
+            "item": "Focus Sash",
+            "moves": [
+              "Leaf Storm",
+              "Sludge Bomb",
+              "Sleep Powder",
+              "Protect"
+            ],
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "ようりょくそ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "リーフストーム",
+              "ヘドロばくだん",
+              "ねむりごな",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "charizard",
+            "name": "リザードン",
+            "english": "Charizard",
+            "image_local": "images/pokemon/charizard.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "nature": "Timid",
+            "ability": "Blaze",
+            "item": "Charizardite Y",
+            "moves": [
+              "Heat Wave",
+              "Hurricane",
+              "Weather Ball",
+              "Protect"
+            ],
+            "item_ja": "リザードナイトY",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "ねっぷう",
+              "ぼうふう",
+              "ウェザーボール",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "grimmsnarl",
+            "name": "オーロンゲ",
+            "english": "Grimmsnarl",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png",
+            "nature": "Careful",
+            "ability": "Prankster",
+            "item": "Light Clay",
+            "moves": [
+              "Spirit Break",
+              "Reflect",
+              "Light Screen",
+              "Parting Shot"
+            ],
+            "item_ja": "ひかりのねんど",
+            "ability_ja": "いたずらごころ",
+            "nature_ja": "しんちょう",
+            "moves_ja": [
+              "ソウルクラッシュ",
+              "リフレクター",
+              "ひかりのかべ",
+              "すてゼリフ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png",
+            "nature": "Calm",
+            "ability": "Stamina",
+            "item": "Leftovers",
+            "moves": [
+              "Flash Cannon",
+              "Dragon Pulse",
+              "Electro Shot",
+              "Protect"
+            ],
+            "item_ja": "たべのこし",
+            "ability_ja": "じきゅうりょく",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "ラスターカノン",
+              "りゅうのはどう",
+              "エレクトロビーム",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Yan Sym",
+        "pokemon": [
+          {
+            "id": "torkoal",
+            "name": "コータス",
+            "english": "Torkoal",
+            "image_local": "images/pokemon/torkoal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/torkoal.png",
+            "nature": "Quiet",
+            "ability": "Drought",
+            "item": "Charcoal",
+            "moves": [
+              "Eruption",
+              "Heat Wave",
+              "Earth Power",
+              "Protect"
+            ],
+            "item_ja": "もくたん",
+            "ability_ja": "ひでり",
+            "nature_ja": "れいせい",
+            "moves_ja": [
+              "ふんか",
+              "ねっぷう",
+              "だいちのちから",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "nature": "Adamant",
+            "ability": "Intimidate",
+            "item": "Chople Berry",
+            "moves": [
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Fake Out",
+              "Parting Shot"
+            ],
+            "item_ja": "ヨプのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "フレアドライブ",
+              "DDラリアット",
+              "ねこだまし",
+              "すてゼリフ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png",
+            "nature": "Sassy",
+            "ability": "Armor Tail",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Psychic",
+              "Helping Hand",
+              "Trick Room",
+              "Protect"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "テイルアーマー",
+            "nature_ja": "なまいき",
+            "moves_ja": [
+              "サイコキネシス",
+              "てだすけ",
+              "トリックルーム",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "nature": "Adamant",
+            "ability": "Unburden",
+            "item": "White Herb",
+            "moves": [
+              "Close Combat",
+              "Gunk Shot",
+              "Fake Out",
+              "Protect"
+            ],
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "インファイト",
+              "ダストシュート",
+              "ねこだまし",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "sylveon",
+            "name": "ニンフィア",
+            "english": "Sylveon",
+            "image_local": "images/pokemon/sylveon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png",
+            "nature": "Modest",
+            "ability": "Pixilate",
+            "item": "Fairy Feather",
+            "moves": [
+              "Hyper Voice",
+              "Hyper Beam",
+              "Yawn",
+              "Detect"
+            ],
+            "item_ja": "ようせいのハネ",
+            "ability_ja": "フェアリースキン",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "ハイパーボイス",
+              "はかいこうせん",
+              "あくび",
+              "みきり"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "nature": "Modest",
+            "ability": "Rough Skin",
+            "item": "Garchompite Z",
+            "moves": [
+              "Draco Meteor",
+              "Flamethrower",
+              "Power Gem",
+              "Protect"
+            ],
+            "item_ja": "ガブリアスナイトＺ",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "りゅうせいぐん",
+              "かえんほうしゃ",
+              "パワージェム",
+              "まもる"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Pedro H Soares Feitosa",
+        "pokemon": [
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "nature": "Adamant",
+            "ability": "Grassy Surge",
+            "item": "Miracle Seed",
+            "moves": [
+              "Wood Hammer",
+              "Fake Out",
+              "High Horsepower",
+              "Grassy Glide"
+            ],
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "ねこだまし",
+              "10まんばりき",
+              "グラススライダー"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "nature": "Jolly",
+            "ability": "Unburden",
+            "item": "White Herb",
+            "moves": [
+              "Close Combat",
+              "Fake Out",
+              "Quick Guard",
+              "Dire Claw"
+            ],
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "インファイト",
+              "ねこだまし",
+              "ファストガード",
+              "フェイタルクロー"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "dragonite",
+            "name": "カイリュー",
+            "english": "Dragonite",
+            "image_local": "images/pokemon/dragonite.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+            "nature": "Modest",
+            "ability": "Multiscale",
+            "item": "Dragoninite",
+            "moves": [
+              "Protect",
+              "Dragon Pulse",
+              "Heat Wave",
+              "Tailwind"
+            ],
+            "item_ja": "カイリュナイト",
+            "ability_ja": "マルチスケイル",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "りゅうのはどう",
+              "ねっぷう",
+              "おいかぜ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "delphox",
+            "name": "マフォクシー",
+            "english": "Delphox",
+            "image_local": "images/pokemon/delphox.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/delphox.png",
+            "nature": "Timid",
+            "ability": "Blaze",
+            "item": "Delphoxite",
+            "moves": [
+              "Protect",
+              "Psyshock",
+              "Heat Wave",
+              "Nasty Plot"
+            ],
+            "item_ja": "マフォクシナイト",
+            "ability_ja": "もうか",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "サイコショック",
+              "ねっぷう",
+              "わるだくみ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "kingambit",
+            "name": "ドドゲザン",
+            "english": "Kingambit",
+            "image_local": "images/pokemon/kingambit.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+            "nature": "Adamant",
+            "ability": "Defiant",
+            "item": "Life Orb",
+            "moves": [
+              "Protect",
+              "Kowtow Cleave",
+              "Low Kick",
+              "Sucker Punch"
+            ],
+            "item_ja": "いのちのたま",
+            "ability_ja": "まけんき",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "ドゲザン",
+              "けたぐり",
+              "ふいうち"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+            "nature": "Adamant",
+            "ability": "Adaptability",
+            "item": "Focus Sash",
+            "moves": [
+              "Protect",
+              "Liquidation",
+              "Last Respects",
+              "Aqua Jet"
+            ],
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "てきおうりょく",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "アクアブレイク",
+              "おはかまいり",
+              "アクアジェット"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Victor Vieira",
+        "pokemon": [
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+            "nature": "Adamant",
+            "ability": "Unburden",
+            "item": "White Herb",
+            "moves": [
+              "Protect",
+              "Dire Claw",
+              "Close Combat",
+              "Fake Out"
+            ],
+            "item_ja": "しろいハーブ",
+            "ability_ja": "かるわざ",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "まもる",
+              "フェイタルクロー",
+              "インファイト",
+              "ねこだまし"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "nature": "Timid",
+            "ability": "Intimidate",
+            "item": "Salamencite",
+            "moves": [
+              "Protect",
+              "Hyper Voice",
+              "Draco Meteor",
+              "Tailwind"
+            ],
+            "item_ja": "ボーマンダナイト",
+            "ability_ja": "いかく",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "ハイパーボイス",
+              "りゅうせいぐん",
+              "おいかぜ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "raichu",
+            "name": "ライチュウ",
+            "english": "Raichu",
+            "image_local": "images/pokemon/raichu.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "nature": "Timid",
+            "ability": "Lightning Rod",
+            "item": "Raichunite Y",
+            "moves": [
+              "Protect",
+              "Zap Cannon",
+              "Focus Blast",
+              "Encore"
+            ],
+            "item_ja": "ライチュウナイトＹ",
+            "ability_ja": "ひらいしん",
+            "nature_ja": "おくびょう",
+            "moves_ja": [
+              "まもる",
+              "でんじほう",
+              "きあいだま",
+              "アンコール"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "nature": "Adamant",
+            "ability": "Grassy Surge",
+            "item": "Miracle Seed",
+            "moves": [
+              "Wood Hammer",
+              "High Horsepower",
+              "Grassy Glide",
+              "Fake Out"
+            ],
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "10まんばりき",
+              "グラススライダー",
+              "ねこだまし"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "volcarona",
+            "name": "ウルガモス",
+            "english": "Volcarona",
+            "image_local": "images/pokemon/volcarona.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png",
+            "nature": "Calm",
+            "ability": "Flame Body",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Protect",
+              "Struggle Bug",
+              "Overheat",
+              "Rage Powder"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "ほのおのからだ",
+            "nature_ja": "おだやか",
+            "moves_ja": [
+              "まもる",
+              "むしのていこう",
+              "オーバーヒート",
+              "いかりのこな"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png",
+            "nature": "Jolly",
+            "ability": "Rock Head",
+            "item": "Focus Sash",
+            "moves": [
+              "Protect",
+              "Flare Blitz",
+              "Head Smash",
+              "Extreme Speed"
+            ],
+            "item_ja": "きあいのタスキ",
+            "ability_ja": "いしあたま",
+            "nature_ja": "ようき",
+            "moves_ja": [
+              "まもる",
+              "フレアドライブ",
+              "もろはのずつき",
+              "しんそく"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Gabriel Agati",
+        "pokemon": [
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png",
+            "nature": "Modest",
+            "ability": "Good as Gold",
+            "item": "Life Orb",
+            "moves": [
+              "Protect",
+              "Make It Rain",
+              "Shadow Ball",
+              "Nasty Plot"
+            ],
+            "item_ja": "いのちのたま",
+            "ability_ja": "おうごんのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "ゴールドラッシュ",
+              "シャドーボール",
+              "わるだくみ"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+            "nature": "Impish",
+            "ability": "Intimidate",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Parting Shot",
+              "Flare Blitz",
+              "Darkest Lariat",
+              "Fake Out"
+            ],
+            "item_ja": "オボンのみ",
+            "ability_ja": "いかく",
+            "nature_ja": "わんぱく",
+            "moves_ja": [
+              "すてゼリフ",
+              "フレアドライブ",
+              "DDラリアット",
+              "ねこだまし"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "nature": "Modest",
+            "ability": "Rough Skin",
+            "item": "Garchompite Z",
+            "moves": [
+              "Protect",
+              "Dragon Pulse",
+              "Earth Power",
+              "Power Gem"
+            ],
+            "item_ja": "ガブリアスナイトＺ",
+            "ability_ja": "さめはだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "りゅうのはどう",
+              "だいちのちから",
+              "パワージェム"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png",
+            "nature": "Adamant",
+            "ability": "Grassy Surge",
+            "item": "Miracle Seed",
+            "moves": [
+              "Wood Hammer",
+              "High Horsepower",
+              "Grassy Glide",
+              "Fake Out"
+            ],
+            "item_ja": "きせきのタネ",
+            "ability_ja": "グラスメイカー",
+            "nature_ja": "いじっぱり",
+            "moves_ja": [
+              "ウッドハンマー",
+              "10まんばりき",
+              "グラススライダー",
+              "ねこだまし"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "nature": "Modest",
+            "ability": "Flower Veil",
+            "item": "Floettite",
+            "moves": [
+              "Protect",
+              "Dazzling Gleam",
+              "Moonblast",
+              "Calm Mind"
+            ],
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "マジカルシャイン",
+              "ムーンフォース",
+              "めいそう"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          },
+          {
+            "id": "volcarona",
+            "name": "ウルガモス",
+            "english": "Volcarona",
+            "image_local": "images/pokemon/volcarona.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png",
+            "nature": "Modest",
+            "ability": "Flame Body",
+            "item": "Grassy Seed",
+            "moves": [
+              "Protect",
+              "Heat Wave",
+              "Giga Drain",
+              "Quiver Dance"
+            ],
+            "item_ja": "グラスシード",
+            "ability_ja": "ほのおのからだ",
+            "nature_ja": "ひかえめ",
+            "moves_ja": [
+              "まもる",
+              "ねっぷう",
+              "ギガドレイン",
+              "ちょうのまい"
+            ],
+            "role": "公開された技・持ち物から役割を確認"
+          }
+        ]
+      }
+    ],
+    "source": "https://victoryroad.pro/2027-recife/",
+    "team_source": "https://www.pokedata.ovh/standings2/1000072/Masters"
+  },
+  {
+    "id": 9003,
+    "slug": "vr-october-1-2026",
+    "name": "VR October Challenge #1",
+    "country": "オンライン",
+    "date": "2026-10-03",
+    "players": 384,
+    "type": "grassroots",
+    "end_date": "2026-10-04",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "format": "Regulation M-C",
+    "checked": "2026-10-08",
+    "english": "Victory Road October Challenge #1 (2026)",
+    "winner": "Michael Kelsch",
+    "vr_source": "https://victoryroad.pro/vr-oct26/",
+    "published_results": 53,
+    "published_squads": 53,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/vr-oct26/"
+      }
+    ],
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Michael Kelsch",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "display_form": "Mega Z"
+          },
+          {
+            "id": "raichu",
+            "name": "ライチュウ",
+            "english": "Raichu",
+            "image_local": "images/pokemon/raichu.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+          },
+          {
+            "id": "volcarona",
+            "name": "ウルガモス",
+            "english": "Volcarona",
+            "image_local": "images/pokemon/volcarona.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Marcus Dion",
+        "pokemon": [
+          {
+            "id": "golisopod",
+            "name": "グソクムシャ",
+            "english": "Golisopod",
+            "image_local": "images/pokemon/golisopod.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+          },
+          {
+            "id": "basculegion-f",
+            "name": "イダイトウ♀",
+            "english": "Basculegion [Female]",
+            "image_local": "images/pokemon/basculegion-f.png",
+            "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/10248.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Takuto Notohara",
+        "pokemon": [
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "grimmsnarl",
+            "name": "オーロンゲ",
+            "english": "Grimmsnarl",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png"
+          },
+          {
+            "id": "volcarona",
+            "name": "ウルガモス",
+            "english": "Volcarona",
+            "image_local": "images/pokemon/volcarona.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+          },
+          {
+            "id": "milotic",
+            "name": "ミロカロス",
+            "english": "Milotic",
+            "image_local": "images/pokemon/milotic.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Emanuele Briganti",
+        "pokemon": [
+          {
+            "id": "dragonite",
+            "name": "カイリュー",
+            "english": "Dragonite",
+            "image_local": "images/pokemon/dragonite.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Federico Camporesi",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "display_form": "Mega Z"
+          },
+          {
+            "id": "torkoal",
+            "name": "コータス",
+            "english": "Torkoal",
+            "image_local": "images/pokemon/torkoal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/torkoal.png"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "sylveon",
+            "name": "ニンフィア",
+            "english": "Sylveon",
+            "image_local": "images/pokemon/sylveon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Carson Confer",
+        "pokemon": [
+          {
+            "id": "golisopod",
+            "name": "グソクムシャ",
+            "english": "Golisopod",
+            "image_local": "images/pokemon/golisopod.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+          },
+          {
+            "id": "basculegion-f",
+            "name": "イダイトウ♀",
+            "english": "Basculegion [Female]",
+            "image_local": "images/pokemon/basculegion-f.png",
+            "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/10248.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Lorenzo Antognoni",
+        "pokemon": [
+          {
+            "id": "staraptor",
+            "name": "ムクホーク",
+            "english": "Staraptor",
+            "image_local": "images/pokemon/staraptor.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "raichu",
+            "name": "ライチュウ",
+            "english": "Raichu",
+            "image_local": "images/pokemon/raichu.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "primarina",
+            "name": "アシレーヌ",
+            "english": "Primarina",
+            "image_local": "images/pokemon/primarina.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/primarina.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Andrew Figueras",
+        "pokemon": [
+          {
+            "id": "staraptor",
+            "name": "ムクホーク",
+            "english": "Staraptor",
+            "image_local": "images/pokemon/staraptor.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "charizard",
+            "name": "リザードン",
+            "english": "Charizard",
+            "image_local": "images/pokemon/charizard.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "grimmsnarl",
+            "name": "オーロンゲ",
+            "english": "Grimmsnarl",
+            "image_local": "images/pokemon/grimmsnarl.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/grimmsnarl.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+          },
+          {
+            "id": "venusaur",
+            "name": "フシギバナ",
+            "english": "Venusaur",
+            "image_local": "images/pokemon/venusaur.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png"
+          }
+        ]
+      }
+    ],
+    "source": "https://victoryroad.pro/vr-oct26/",
+    "team_source": "https://victoryroad.pro/vr-oct26/",
+    "standings_count": 0,
+    "full_team_count": 0
+  },
+  {
     "id": 443,
     "slug": "frankfurt-2026",
     "name": "フランクフルト",
-    "english": "Frankfurt Regional",
+    "english": "2027 Frankfurt Regional Championships",
     "country": "ドイツ",
     "region": "Europe",
     "date": "2026-09-26",
@@ -1311,13 +3072,38 @@
     "source": "https://limitlessvgc.com/tournaments/443",
     "team_source": "https://limitlessvgc.com/tournaments/443/teams",
     "checked": "2026-10-08",
-    "winner": "Eric Rios"
+    "winner": "Eric Rios",
+    "type": "regional",
+    "end_date": "2026-09-27",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "vr_source": "https://victoryroad.pro/2027-frankfurt/",
+    "published_results": 163,
+    "published_squads": 163,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/2027-frankfurt/"
+      },
+      {
+        "name": "Pokedata — マスター全順位・公開チーム",
+        "url": "https://www.pokedata.ovh/standings2/1000070/Masters"
+      },
+      {
+        "name": "Pokedata旧VGC一覧 — マスターJSON",
+        "url": "https://www.pokedata.ovh/standingsVGC/0000194/masters/"
+      }
+    ],
+    "pokedata_source": "https://www.pokedata.ovh/standings2/1000070/Masters",
+    "standings_count": 1129,
+    "full_team_count": 1126,
+    "legacy_count": 1129
   },
   {
     "id": 442,
     "slug": "brisbane-2026",
     "name": "ブリスベン",
-    "english": "Brisbane Regional",
+    "english": "2027 Brisbane Regional Championships",
     "country": "オーストラリア",
     "region": "Oceania",
     "date": "2026-09-26",
@@ -2625,13 +4411,540 @@
     "source": "https://limitlessvgc.com/tournaments/442",
     "team_source": "https://limitlessvgc.com/tournaments/442/teams",
     "checked": "2026-10-08",
-    "winner": "Kiran Singh"
+    "winner": "Kiran Singh",
+    "type": "regional",
+    "end_date": "2026-09-27",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "vr_source": "https://victoryroad.pro/2027-brisbane/",
+    "published_results": 128,
+    "published_squads": 128,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/2027-brisbane/"
+      },
+      {
+        "name": "Pokedata — マスター全順位・公開チーム",
+        "url": "https://www.pokedata.ovh/standings2/1000068/Masters"
+      },
+      {
+        "name": "Pokedata旧VGC一覧 — マスターJSON",
+        "url": "https://www.pokedata.ovh/standingsVGC/0000193/masters/"
+      }
+    ],
+    "pokedata_source": "https://www.pokedata.ovh/standings2/1000068/Masters",
+    "standings_count": 327,
+    "full_team_count": 325,
+    "legacy_count": 327
+  },
+  {
+    "id": 9004,
+    "slug": "global-challenge-i-2026",
+    "name": "Global Challenge I",
+    "country": "オンライン",
+    "date": "2026-09-25",
+    "players": 335995,
+    "type": "ladder",
+    "end_date": "2026-09-28",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "format": "Regulation M-C",
+    "checked": "2026-10-08",
+    "english": "2027 Global Challenge I",
+    "winner": "Joji Kaieda",
+    "vr_source": "https://victoryroad.pro/2027-global-challenge-i/",
+    "published_results": 64,
+    "published_squads": 0,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/2027-global-challenge-i/"
+      }
+    ],
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Joji Kaieda",
+        "pokemon": []
+      },
+      {
+        "rank": 2,
+        "player": "Matthew Henry",
+        "pokemon": []
+      },
+      {
+        "rank": 3,
+        "player": "JPTK-VGC",
+        "pokemon": []
+      },
+      {
+        "rank": 4,
+        "player": "Théotime Massaut",
+        "pokemon": []
+      },
+      {
+        "rank": 5,
+        "player": "Gaspar Sánchez",
+        "pokemon": []
+      },
+      {
+        "rank": 6,
+        "player": "Mattie Morgan",
+        "pokemon": []
+      },
+      {
+        "rank": 7,
+        "player": "Chris Large",
+        "pokemon": []
+      },
+      {
+        "rank": 8,
+        "player": "Hubeyb Uzun",
+        "pokemon": []
+      }
+    ],
+    "source": "https://victoryroad.pro/2027-global-challenge-i/",
+    "team_source": "https://victoryroad.pro/2027-global-challenge-i/",
+    "standings_count": 0,
+    "full_team_count": 0
+  },
+  {
+    "id": 9002,
+    "slug": "vr-september-2-2026",
+    "name": "VR September Challenge #2",
+    "country": "オンライン",
+    "date": "2026-09-19",
+    "players": 253,
+    "type": "grassroots",
+    "end_date": "2026-09-20",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "format": "Regulation M-C",
+    "checked": "2026-10-08",
+    "english": "Victory Road September Challenge #2 (2026)",
+    "winner": "Théotime Massaut",
+    "vr_source": "https://victoryroad.pro/vr-sep26-2/",
+    "published_results": 36,
+    "published_squads": 36,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/vr-sep26-2/"
+      }
+    ],
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Théotime Massaut",
+        "pokemon": [
+          {
+            "id": "dragonite",
+            "name": "カイリュー",
+            "english": "Dragonite",
+            "image_local": "images/pokemon/dragonite.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Louis Markl",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Yvar Vlieger",
+        "pokemon": [
+          {
+            "id": "charizard",
+            "name": "リザードン",
+            "english": "Charizard",
+            "image_local": "images/pokemon/charizard.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "meowstic-f",
+            "name": "ニャオニクス♀",
+            "english": "Female Meowstic",
+            "image_local": "images/pokemon/meowstic-f.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/meowstic-f.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "kommo-o",
+            "name": "ジャラランガ",
+            "english": "Kommo-o",
+            "image_local": "images/pokemon/kommo-o.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+          },
+          {
+            "id": "kingambit",
+            "name": "ドドゲザン",
+            "english": "Kingambit",
+            "image_local": "images/pokemon/kingambit.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "indeedee",
+            "name": "イエッサン♂",
+            "english": "Indeedee",
+            "image_local": "images/pokemon/indeedee.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Alex Soto",
+        "pokemon": [
+          {
+            "id": "delphox",
+            "name": "マフォクシー",
+            "english": "Delphox",
+            "image_local": "images/pokemon/delphox.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/delphox.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "blastoise",
+            "name": "カメックス",
+            "english": "Blastoise",
+            "image_local": "images/pokemon/blastoise.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/blastoise-mega.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "maushold",
+            "name": "イッカネズミ",
+            "english": "Maushold",
+            "image_local": "images/pokemon/maushold.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/maushold.png"
+          },
+          {
+            "id": "sinistcha",
+            "name": "ヤバソチャ",
+            "english": "Sinistcha",
+            "image_local": "images/pokemon/sinistcha.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/sinistcha.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "indeedee-f",
+            "name": "イエッサン♀",
+            "english": "Female Indeedee",
+            "image_local": "images/pokemon/indeedee-f.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Lorenzo Antognoni",
+        "pokemon": [
+          {
+            "id": "raichu",
+            "name": "ライチュウ",
+            "english": "Raichu",
+            "image_local": "images/pokemon/raichu.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "milotic",
+            "name": "ミロカロス",
+            "english": "Milotic",
+            "image_local": "images/pokemon/milotic.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Vivienne Gafner",
+        "pokemon": [
+          {
+            "id": "gengar",
+            "name": "ゲンガー",
+            "english": "Gengar",
+            "image_local": "images/pokemon/gengar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "swampert",
+            "name": "ラグラージ",
+            "english": "Swampert",
+            "image_local": "images/pokemon/swampert.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/swampert.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+          },
+          {
+            "id": "annihilape",
+            "name": "コノヨザル",
+            "english": "Annihilape",
+            "image_local": "images/pokemon/annihilape.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/annihilape.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Keishiro Ohashi",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+          },
+          {
+            "id": "kingambit",
+            "name": "ドドゲザン",
+            "english": "Kingambit",
+            "image_local": "images/pokemon/kingambit.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+          },
+          {
+            "id": "whimsicott",
+            "name": "エルフーン",
+            "english": "Whimsicott",
+            "image_local": "images/pokemon/whimsicott.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/whimsicott.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Danilo Modugno",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "display_form": "Mega Z"
+          },
+          {
+            "id": "golisopod",
+            "name": "グソクムシャ",
+            "english": "Golisopod",
+            "image_local": "images/pokemon/golisopod.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "pelipper",
+            "name": "ペリッパー",
+            "english": "Pelipper",
+            "image_local": "images/pokemon/pelipper.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+          }
+        ]
+      }
+    ],
+    "source": "https://victoryroad.pro/vr-sep26-2/",
+    "team_source": "https://victoryroad.pro/vr-sep26-2/",
+    "standings_count": 0,
+    "full_team_count": 0
   },
   {
     "id": 441,
     "slug": "baltimore-2026",
     "name": "ボルチモア",
-    "english": "Baltimore Regional",
+    "english": "2027 Baltimore Regional Championships",
     "country": "アメリカ",
     "region": "North America",
     "date": "2026-09-19",
@@ -3939,6 +6252,460 @@
     "source": "https://limitlessvgc.com/tournaments/441",
     "team_source": "https://limitlessvgc.com/tournaments/441/teams",
     "checked": "2026-10-08",
-    "winner": "Joseph Ugarte"
+    "winner": "Joseph Ugarte",
+    "type": "regional",
+    "end_date": "2026-09-20",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "vr_source": "https://victoryroad.pro/2027-baltimore/",
+    "published_results": 155,
+    "published_squads": 155,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/2027-baltimore/"
+      },
+      {
+        "name": "Pokedata — マスター全順位・公開チーム",
+        "url": "https://www.pokedata.ovh/standings2/1000034/Masters"
+      },
+      {
+        "name": "Pokedata旧VGC一覧 — マスターJSON",
+        "url": "https://www.pokedata.ovh/standingsVGC/0000192/masters/"
+      }
+    ],
+    "pokedata_source": "https://www.pokedata.ovh/standings2/1000034/Masters",
+    "standings_count": 1081,
+    "full_team_count": 1073,
+    "legacy_count": 1082
+  },
+  {
+    "id": 9001,
+    "slug": "vr-september-1-2026",
+    "name": "VR September Challenge #1",
+    "country": "オンライン",
+    "date": "2026-09-12",
+    "players": 392,
+    "type": "grassroots",
+    "end_date": "2026-09-13",
+    "division": "Masters",
+    "game": "Pokémon Champions",
+    "format": "Regulation M-C",
+    "checked": "2026-10-08",
+    "english": "Victory Road September Challenge #1 (2026)",
+    "winner": "Michael Kelsch",
+    "vr_source": "https://victoryroad.pro/vr-sep26/",
+    "published_results": 55,
+    "published_squads": 55,
+    "sources": [
+      {
+        "name": "Victory Road — 掲載結果・構築・使用率",
+        "url": "https://victoryroad.pro/vr-sep26/"
+      }
+    ],
+    "teams": [
+      {
+        "rank": 1,
+        "player": "Michael Kelsch",
+        "pokemon": [
+          {
+            "id": "raichu",
+            "name": "ライチュウ",
+            "english": "Raichu",
+            "image_local": "images/pokemon/raichu.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "staraptor",
+            "name": "ムクホーク",
+            "english": "Staraptor",
+            "image_local": "images/pokemon/staraptor.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "sylveon",
+            "name": "ニンフィア",
+            "english": "Sylveon",
+            "image_local": "images/pokemon/sylveon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "player": "Louis Markl",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "floette-eternal",
+            "name": "フラエッテ（えいえんのはな）",
+            "english": "Eternal Flower Floette",
+            "image_local": "images/pokemon/floette-eternal.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "gholdengo",
+            "name": "サーフゴー",
+            "english": "Gholdengo",
+            "image_local": "images/pokemon/gholdengo.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "player": "Jacopo De Astis",
+        "pokemon": [
+          {
+            "id": "gardevoir",
+            "name": "サーナイト",
+            "english": "Gardevoir",
+            "image_local": "images/pokemon/gardevoir.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/gardevoir-mega.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+          },
+          {
+            "id": "basculegion",
+            "name": "イダイトウ",
+            "english": "Basculegion",
+            "image_local": "images/pokemon/basculegion.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+          },
+          {
+            "id": "kommo-o",
+            "name": "ジャラランガ",
+            "english": "Kommo-o",
+            "image_local": "images/pokemon/kommo-o.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+          },
+          {
+            "id": "whimsicott",
+            "name": "エルフーン",
+            "english": "Whimsicott",
+            "image_local": "images/pokemon/whimsicott.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/whimsicott.png"
+          },
+          {
+            "id": "indeedee-f",
+            "name": "イエッサン♀",
+            "english": "Female Indeedee",
+            "image_local": "images/pokemon/indeedee-f.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "player": "Shunsuke Minami",
+        "pokemon": [
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+            "display_form": "Mega Z"
+          },
+          {
+            "id": "golisopod",
+            "name": "グソクムシャ",
+            "english": "Golisopod",
+            "image_local": "images/pokemon/golisopod.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "milotic",
+            "name": "ミロカロス",
+            "english": "Milotic",
+            "image_local": "images/pokemon/milotic.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "player": "Marco Silva",
+        "pokemon": [
+          {
+            "id": "gengar",
+            "name": "ゲンガー",
+            "english": "Gengar",
+            "image_local": "images/pokemon/gengar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "froslass",
+            "name": "ユキメノコ",
+            "english": "Froslass",
+            "image_local": "images/pokemon/froslass.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/froslass.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "incineroar",
+            "name": "ガオガエン",
+            "english": "Incineroar",
+            "image_local": "images/pokemon/incineroar.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+          },
+          {
+            "id": "archaludon",
+            "name": "ブリジュラス",
+            "english": "Archaludon",
+            "image_local": "images/pokemon/archaludon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+          },
+          {
+            "id": "politoed",
+            "name": "ニョロトノ",
+            "english": "Politoed",
+            "image_local": "images/pokemon/politoed.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png"
+          },
+          {
+            "id": "rillaboom",
+            "name": "ゴリランダー",
+            "english": "Rillaboom",
+            "image_local": "images/pokemon/rillaboom.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "player": "Jérémy Côté",
+        "pokemon": [
+          {
+            "id": "salamence",
+            "name": "ボーマンダ",
+            "english": "Salamence",
+            "image_local": "images/pokemon/salamence.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "metagross",
+            "name": "メタグロス",
+            "english": "Metagross",
+            "image_local": "images/pokemon/metagross.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/metagross.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "arcanine-hisui",
+            "name": "ウインディ（ヒスイ）",
+            "english": "Hisuian Arcanine",
+            "image_local": "images/pokemon/arcanine-hisui.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+          },
+          {
+            "id": "milotic",
+            "name": "ミロカロス",
+            "english": "Milotic",
+            "image_local": "images/pokemon/milotic.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+          },
+          {
+            "id": "sneasler",
+            "name": "オオニューラ",
+            "english": "Sneasler",
+            "image_local": "images/pokemon/sneasler.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+          },
+          {
+            "id": "indeedee",
+            "name": "イエッサン♂",
+            "english": "Indeedee",
+            "image_local": "images/pokemon/indeedee.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "player": "Dorian Kang",
+        "pokemon": [
+          {
+            "id": "staraptor",
+            "name": "ムクホーク",
+            "english": "Staraptor",
+            "image_local": "images/pokemon/staraptor.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "whimsicott",
+            "name": "エルフーン",
+            "english": "Whimsicott",
+            "image_local": "images/pokemon/whimsicott.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/whimsicott.png"
+          },
+          {
+            "id": "dragapult",
+            "name": "ドラパルト",
+            "english": "Dragapult",
+            "image_local": "images/pokemon/dragapult.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/dragapult.png"
+          },
+          {
+            "id": "milotic",
+            "name": "ミロカロス",
+            "english": "Milotic",
+            "image_local": "images/pokemon/milotic.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+          },
+          {
+            "id": "armarouge",
+            "name": "グレンアルマ",
+            "english": "Armarouge",
+            "image_local": "images/pokemon/armarouge.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/armarouge.png"
+          },
+          {
+            "id": "indeedee-f",
+            "name": "イエッサン♀",
+            "english": "Female Indeedee",
+            "image_local": "images/pokemon/indeedee-f.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "player": "Cori Corley",
+        "pokemon": [
+          {
+            "id": "charizard",
+            "name": "リザードン",
+            "english": "Charizard",
+            "image_local": "images/pokemon/charizard.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+            "display_form": "Mega Y"
+          },
+          {
+            "id": "aerodactyl",
+            "name": "プテラ",
+            "english": "Aerodactyl",
+            "image_local": "images/pokemon/aerodactyl.png",
+            "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/aerodactyl-mega.png",
+            "display_form": "Mega"
+          },
+          {
+            "id": "farigiraf",
+            "name": "リキキリン",
+            "english": "Farigiraf",
+            "image_local": "images/pokemon/farigiraf.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+          },
+          {
+            "id": "kingambit",
+            "name": "ドドゲザン",
+            "english": "Kingambit",
+            "image_local": "images/pokemon/kingambit.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+          },
+          {
+            "id": "sylveon",
+            "name": "ニンフィア",
+            "english": "Sylveon",
+            "image_local": "images/pokemon/sylveon.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+          },
+          {
+            "id": "garchomp",
+            "name": "ガブリアス",
+            "english": "Garchomp",
+            "image_local": "images/pokemon/garchomp.png",
+            "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png"
+          }
+        ]
+      }
+    ],
+    "source": "https://victoryroad.pro/vr-sep26/",
+    "team_source": "https://victoryroad.pro/vr-sep26/",
+    "standings_count": 0,
+    "full_team_count": 0
   }
 ]

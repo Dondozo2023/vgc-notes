@@ -1,0 +1,3016 @@
+{
+  "masters": [
+    {
+      "rank": 1,
+      "player": "Théotime Massaut",
+      "player_label": "Théotime Massaut ( Didi )",
+      "country": "FRA",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "dragonite",
+          "name": "カイリュー",
+          "english": "Dragonite",
+          "image_local": "images/pokemon/dragonite.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://vrpastes.com/kIEGcPwD"
+        }
+      ],
+      "prize": "VRtSG $860",
+      "player_links": [
+        "https://x.com/DidiVGC"
+      ],
+      "swiss": "10-0",
+      "division": "Masters"
+    },
+    {
+      "rank": 2,
+      "player": "Louis Markl",
+      "player_label": "Louis Markl ( Louis )",
+      "country": "DEU",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/gujmAprA"
+        }
+      ],
+      "prize": "$430",
+      "player_links": [
+        "https://x.com/Louisvgc"
+      ],
+      "swiss": "9-1",
+      "division": "Masters"
+    },
+    {
+      "rank": 3,
+      "player": "Yvar Vlieger",
+      "player_label": "Yvar Vlieger ( yvar )",
+      "country": "NLD",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "meowstic-f",
+          "name": "ニャオニクス♀",
+          "english": "Female Meowstic",
+          "image_local": "images/pokemon/meowstic-f.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/meowstic-f.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "kommo-o",
+          "name": "ジャラランガ",
+          "english": "Kommo-o",
+          "image_local": "images/pokemon/kommo-o.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "indeedee",
+          "name": "イエッサン♂",
+          "english": "Indeedee",
+          "image_local": "images/pokemon/indeedee.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/k0ne6pUd"
+        }
+      ],
+      "prize": "$215",
+      "player_links": [
+        "https://x.com/YvarVGC"
+      ],
+      "swiss": "9-1",
+      "division": "Masters"
+    },
+    {
+      "rank": 4,
+      "player": "Alex Soto",
+      "player_label": "Alex Soto ( Len )",
+      "country": "ESP",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "delphox",
+          "name": "マフォクシー",
+          "english": "Delphox",
+          "image_local": "images/pokemon/delphox.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/delphox.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "blastoise",
+          "name": "カメックス",
+          "english": "Blastoise",
+          "image_local": "images/pokemon/blastoise.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/blastoise-mega.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "maushold",
+          "name": "イッカネズミ",
+          "english": "Maushold",
+          "image_local": "images/pokemon/maushold.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/maushold.png"
+        },
+        {
+          "id": "sinistcha",
+          "name": "ヤバソチャ",
+          "english": "Sinistcha",
+          "image_local": "images/pokemon/sinistcha.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/sinistcha.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "indeedee-f",
+          "name": "イエッサン♀",
+          "english": "Female Indeedee",
+          "image_local": "images/pokemon/indeedee-f.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/SXPUU7U7"
+        }
+      ],
+      "prize": "$215",
+      "player_links": [
+        "https://x.com/LenVGC"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 5,
+      "player": "Lorenzo Antognoni",
+      "player_label": "Lorenzo Antognoni ( Dubious )",
+      "country": "ITA",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "arcanine-hisui",
+          "name": "ウインディ（ヒスイ）",
+          "english": "Hisuian Arcanine",
+          "image_local": "images/pokemon/arcanine-hisui.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "milotic",
+          "name": "ミロカロス",
+          "english": "Milotic",
+          "image_local": "images/pokemon/milotic.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://vrpastes.com/S6PPUMvL"
+        }
+      ],
+      "prize": "$105",
+      "player_links": [
+        "https://x.com/DubiousBulb1033"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 6,
+      "player": "Vivienne Gafner",
+      "player_label": "Vivienne Gafner ( Vivienne )",
+      "country": "CHE",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "gengar",
+          "name": "ゲンガー",
+          "english": "Gengar",
+          "image_local": "images/pokemon/gengar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "swampert",
+          "name": "ラグラージ",
+          "english": "Swampert",
+          "image_local": "images/pokemon/swampert.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/swampert.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "archaludon",
+          "name": "ブリジュラス",
+          "english": "Archaludon",
+          "image_local": "images/pokemon/archaludon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+        },
+        {
+          "id": "pelipper",
+          "name": "ペリッパー",
+          "english": "Pelipper",
+          "image_local": "images/pokemon/pelipper.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+        },
+        {
+          "id": "annihilape",
+          "name": "コノヨザル",
+          "english": "Annihilape",
+          "image_local": "images/pokemon/annihilape.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/annihilape.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/G40AWlQh"
+        }
+      ],
+      "prize": "$105",
+      "player_links": [
+        "https://x.com/Viiv_yay"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 7,
+      "player": "Keishiro Ohashi",
+      "player_label": "Keishiro Ohashi ( FTXSBF )",
+      "country": "JPN",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "whimsicott",
+          "name": "エルフーン",
+          "english": "Whimsicott",
+          "image_local": "images/pokemon/whimsicott.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/whimsicott.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/dDjLLTDr"
+        }
+      ],
+      "prize": "$105",
+      "player_links": [
+        "https://x.com/kisru012345"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 8,
+      "player": "Danilo Modugno",
+      "player_label": "Danilo Modugno ( La Fabbrica )",
+      "country": "ITA",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "garchomp",
+          "name": "ガブリアス",
+          "english": "Garchomp",
+          "image_local": "images/pokemon/garchomp.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+          "display_form": "Mega Z"
+        },
+        {
+          "id": "golisopod",
+          "name": "グソクムシャ",
+          "english": "Golisopod",
+          "image_local": "images/pokemon/golisopod.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "archaludon",
+          "name": "ブリジュラス",
+          "english": "Archaludon",
+          "image_local": "images/pokemon/archaludon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+        },
+        {
+          "id": "pelipper",
+          "name": "ペリッパー",
+          "english": "Pelipper",
+          "image_local": "images/pokemon/pelipper.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/JgL2EC5a"
+        }
+      ],
+      "prize": "$105",
+      "player_links": [
+        "https://x.com/VgcDani"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 9,
+      "player": "Gianmaria Sorbino",
+      "player_label": "Gianmaria Sorbino ( Edoardo Kino )",
+      "country": "ITA",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "staraptor",
+          "name": "ムクホーク",
+          "english": "Staraptor",
+          "image_local": "images/pokemon/staraptor.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "volcarona",
+          "name": "ウルガモス",
+          "english": "Volcarona",
+          "image_local": "images/pokemon/volcarona.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/vc7k1ETF"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/EdKin_TV"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 10,
+      "player": "Thomas Gravouille",
+      "player_label": "Thomas Gravouille ( Hari )",
+      "country": "FRA",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "volcarona",
+          "name": "ウルガモス",
+          "english": "Volcarona",
+          "image_local": "images/pokemon/volcarona.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/Knv2wlLq"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/HariPKMN"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 11,
+      "player": "Tom te Boekhorst",
+      "player_label": "Tom te Boekhorst (Zephyr)",
+      "country": "NLD",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "lucario",
+          "name": "ルカリオ",
+          "english": "Lucario",
+          "image_local": "images/pokemon/lucario.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/lucario-mega-z.png",
+          "display_form": "Mega Z"
+        },
+        {
+          "id": "gardevoir",
+          "name": "サーナイト",
+          "english": "Gardevoir",
+          "image_local": "images/pokemon/gardevoir.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/gardevoir-mega.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "armarouge",
+          "name": "グレンアルマ",
+          "english": "Armarouge",
+          "image_local": "images/pokemon/armarouge.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/armarouge.png"
+        },
+        {
+          "id": "annihilape",
+          "name": "コノヨザル",
+          "english": "Annihilape",
+          "image_local": "images/pokemon/annihilape.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/annihilape.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "indeedee-f",
+          "name": "イエッサン♀",
+          "english": "Female Indeedee",
+          "image_local": "images/pokemon/indeedee-f.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/bxKOjged"
+        }
+      ],
+      "prize": "–",
+      "player_links": [],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 12,
+      "player": "Minche Chung",
+      "player_label": "Minche Chung ( BoredKing )",
+      "country": "KOR",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "gengar",
+          "name": "ゲンガー",
+          "english": "Gengar",
+          "image_local": "images/pokemon/gengar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "kommo-o",
+          "name": "ジャラランガ",
+          "english": "Kommo-o",
+          "image_local": "images/pokemon/kommo-o.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "ninetales-alola",
+          "name": "キュウコン（アローラ）",
+          "english": "Ninetales [Alolan Form]",
+          "image_local": "images/pokemon/ninetales-alola.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/ninetales-alola.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/NrOB3MBD"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/BoredKingKR"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 13,
+      "player": "Rahim Farzan",
+      "player_label": "Rahim Farzan ( Pres )",
+      "country": "DEU",
+      "stage": "Top cut",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "staraptor",
+          "name": "ムクホーク",
+          "english": "Staraptor",
+          "image_local": "images/pokemon/staraptor.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/staraptor.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "arcanine-hisui",
+          "name": "ウインディ（ヒスイ）",
+          "english": "Hisuian Arcanine",
+          "image_local": "images/pokemon/arcanine-hisui.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/2VDagNHt"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/PresPres_"
+      ],
+      "swiss": "8-2",
+      "division": "Masters"
+    },
+    {
+      "rank": 14,
+      "player": "Connor O’Sullivan",
+      "player_label": "Connor O’Sullivan ( channel )",
+      "country": "NLD",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "tyranitar",
+          "name": "バンギラス",
+          "english": "Tyranitar",
+          "image_local": "images/pokemon/tyranitar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/tyranitar.png"
+        },
+        {
+          "id": "excadrill",
+          "name": "ドリュウズ",
+          "english": "Excadrill",
+          "image_local": "images/pokemon/excadrill.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/excadrill.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "indeedee",
+          "name": "イエッサン♂",
+          "english": "Indeedee",
+          "image_local": "images/pokemon/indeedee.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/rxVdXth2"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/Connor1337259"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 15,
+      "player": "Timothy Ong",
+      "player_label": "Timothy Ong (tina)",
+      "country": "SGP",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "golisopod",
+          "name": "グソクムシャ",
+          "english": "Golisopod",
+          "image_local": "images/pokemon/golisopod.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        },
+        {
+          "id": "archaludon",
+          "name": "ブリジュラス",
+          "english": "Archaludon",
+          "image_local": "images/pokemon/archaludon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+        },
+        {
+          "id": "pelipper",
+          "name": "ペリッパー",
+          "english": "Pelipper",
+          "image_local": "images/pokemon/pelipper.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/pelipper.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/UE9CpReQ"
+        }
+      ],
+      "prize": "–",
+      "player_links": [],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 16,
+      "player": "Dylan Fabián Ruiz",
+      "player_label": "Dylan Fabián Ruiz (Fabian)",
+      "country": "ESP",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/1Pb7CJ7S"
+        }
+      ],
+      "prize": "–",
+      "player_links": [],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 17,
+      "player": "Ng Wei Lun",
+      "player_label": "Ng Wei Lun (l)",
+      "country": "SGP",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "garchomp",
+          "name": "ガブリアス",
+          "english": "Garchomp",
+          "image_local": "images/pokemon/garchomp.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://vrpastes.com/vGhC4Qc4"
+        }
+      ],
+      "prize": "–",
+      "player_links": [],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 18,
+      "player": "Mark Mullender",
+      "player_label": "Mark Mullender ( qstnmark )",
+      "country": "NLD",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "arcanine-hisui",
+          "name": "ウインディ（ヒスイ）",
+          "english": "Hisuian Arcanine",
+          "image_local": "images/pokemon/arcanine-hisui.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/MYT4abgo"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/MarK_bscrew"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 19,
+      "player": "Dimitri Koziaris",
+      "player_label": "Dimitri Koziaris ( DimtheSim )",
+      "country": "AUS",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "milotic",
+          "name": "ミロカロス",
+          "english": "Milotic",
+          "image_local": "images/pokemon/milotic.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/milotic.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/ragtiKzU"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/DimtheSimVGC"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 20,
+      "player": "Andrea Calligari",
+      "player_label": "Andrea Calligari ( Andre )",
+      "country": "ITA",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "venusaur",
+          "name": "フシギバナ",
+          "english": "Venusaur",
+          "image_local": "images/pokemon/venusaur.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/venusaur.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "aegislash",
+          "name": "ギルガルド",
+          "english": "Aegislash",
+          "image_local": "images/pokemon/aegislash.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/aegislash.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "garchomp",
+          "name": "ガブリアス",
+          "english": "Garchomp",
+          "image_local": "images/pokemon/garchomp.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/fkWwCa05"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/AndreMMiV"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 21,
+      "player": "Lorenzo Sollini",
+      "player_label": "Lorenzo Sollini ( Woid )",
+      "country": "ITA",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "clefable",
+          "name": "ピクシー",
+          "english": "Clefable",
+          "image_local": "images/pokemon/clefable.png",
+          "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/36.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/kLuODDwK"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/IntoTheWoid"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 22,
+      "player": "Min Son",
+      "player_label": "Min Son ( ACAね )",
+      "country": "KOR",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "kommo-o",
+          "name": "ジャラランガ",
+          "english": "Kommo-o",
+          "image_local": "images/pokemon/kommo-o.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "dragapult",
+          "name": "ドラパルト",
+          "english": "Dragapult",
+          "image_local": "images/pokemon/dragapult.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/dragapult.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/RDEHqG5f"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/UDFgOqs78D537Pn"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 23,
+      "player": "Keiichiro Tajiri",
+      "player_label": "Keiichiro Tajiri ( らんな )",
+      "country": "JPN",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "arcanine-hisui",
+          "name": "ウインディ（ヒスイ）",
+          "english": "Hisuian Arcanine",
+          "image_local": "images/pokemon/arcanine-hisui.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/PDLleaKS"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/hy_sound"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 24,
+      "player": "Li Yu-Chi",
+      "player_label": "Li Yu-Chi ( NSWER )",
+      "country": "TWN",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "garchomp",
+          "name": "ガブリアス",
+          "english": "Garchomp",
+          "image_local": "images/pokemon/garchomp.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+          "display_form": "Mega Z"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/uN6LuItz"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/Ado_sorachi"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 25,
+      "player": "Jaewon Kim",
+      "player_label": "Jaewon Kim ( 실크 )",
+      "country": "KOR",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "ampharos",
+          "name": "デンリュウ",
+          "english": "Ampharos",
+          "image_local": "images/pokemon/ampharos.png",
+          "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/181.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "golisopod",
+          "name": "グソクムシャ",
+          "english": "Golisopod",
+          "image_local": "images/pokemon/golisopod.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/golisopod.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "grapploct",
+          "name": "オトスパス",
+          "english": "Grapploct",
+          "image_local": "images/pokemon/grapploct.png",
+          "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/853.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "hatterene",
+          "name": "ブリムオン",
+          "english": "Hatterene",
+          "image_local": "images/pokemon/hatterene.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/hatterene.png"
+        },
+        {
+          "id": "indeedee-f",
+          "name": "イエッサン♀",
+          "english": "Female Indeedee",
+          "image_local": "images/pokemon/indeedee-f.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/indeedee-f.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/eZPXPUO1"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/bloodsilk0"
+      ],
+      "swiss": "7-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 26,
+      "player": "Seowon Kim",
+      "player_label": "Seowon Kim ( Tsuyu )",
+      "country": "KOR",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "english": "Eternal Flower Floette",
+          "image_local": "images/pokemon/floette-eternal.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "english": "Gholdengo",
+          "image_local": "images/pokemon/gholdengo.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gholdengo.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/wujjEQVp"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/tsuyuvgc"
+      ],
+      "swiss": "6-4",
+      "division": "Masters"
+    },
+    {
+      "rank": 27,
+      "player": "Damahni Palmer",
+      "player_label": "Damahni Palmer ( DmanVGC )",
+      "country": "GBR",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "glimmora",
+          "name": "キラフロル",
+          "english": "Glimmora",
+          "image_local": "images/pokemon/glimmora.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/glimmora.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "volcarona",
+          "name": "ウルガモス",
+          "english": "Volcarona",
+          "image_local": "images/pokemon/volcarona.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "hippowdon",
+          "name": "カバルドン",
+          "english": "Hippowdon",
+          "image_local": "images/pokemon/hippowdon.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/hippowdon.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/iRenZse0"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/DmanVGC"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 28,
+      "player": "Mattia Cognetta",
+      "player_label": "Mattia Cognetta ( K )",
+      "country": "ITA",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "aerodactyl",
+          "name": "プテラ",
+          "english": "Aerodactyl",
+          "image_local": "images/pokemon/aerodactyl.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/aerodactyl-mega.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "garchomp",
+          "name": "ガブリアス",
+          "english": "Garchomp",
+          "image_local": "images/pokemon/garchomp.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://vrpastes.com/IyMmqLN1"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/MattyiVGC"
+      ],
+      "swiss": "6-4",
+      "division": "Masters"
+    },
+    {
+      "rank": 29,
+      "player": "Francesco Di Biase",
+      "player_label": "Francesco Di Biase ( Fradibis )",
+      "country": "ITA",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "froslass",
+          "name": "ユキメノコ",
+          "english": "Froslass",
+          "image_local": "images/pokemon/froslass.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/froslass.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "arcanine-hisui",
+          "name": "ウインディ（ヒスイ）",
+          "english": "Hisuian Arcanine",
+          "image_local": "images/pokemon/arcanine-hisui.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/arcanine-hisui.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/r8HtOlrD"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/fradibis_"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 30,
+      "player": "Guido Pio Mariotti",
+      "player_label": "Guido Pio Mariotti (FlygonX)",
+      "country": "ITA",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "dragonite",
+          "name": "カイリュー",
+          "english": "Dragonite",
+          "image_local": "images/pokemon/dragonite.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "basculegion",
+          "name": "イダイトウ",
+          "english": "Basculegion",
+          "image_local": "images/pokemon/basculegion.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/SqPE9MUX"
+        }
+      ],
+      "prize": "–",
+      "player_links": [],
+      "swiss": "6-4",
+      "division": "Masters"
+    },
+    {
+      "rank": 31,
+      "player": "Santiago Molina",
+      "player_label": "Santiago Molina ( Santi )",
+      "country": "ESP",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "gengar",
+          "name": "ゲンガー",
+          "english": "Gengar",
+          "image_local": "images/pokemon/gengar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "swampert",
+          "name": "ラグラージ",
+          "english": "Swampert",
+          "image_local": "images/pokemon/swampert.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/swampert.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "kommo-o",
+          "name": "ジャラランガ",
+          "english": "Kommo-o",
+          "image_local": "images/pokemon/kommo-o.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kommo-o.png"
+        },
+        {
+          "id": "politoed",
+          "name": "ニョロトノ",
+          "english": "Politoed",
+          "image_local": "images/pokemon/politoed.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://vrpastes.com/MRO2EJs1"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/MolinaLlorca"
+      ],
+      "swiss": "6-4",
+      "division": "Masters"
+    },
+    {
+      "rank": 32,
+      "player": "Luciano Laroze",
+      "player_label": "Luciano Laroze ( LuziVGC )",
+      "country": "CHL",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "english": "Salamence",
+          "image_local": "images/pokemon/salamence.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/salamence.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "primarina",
+          "name": "アシレーヌ",
+          "english": "Primarina",
+          "image_local": "images/pokemon/primarina.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/primarina.png"
+        },
+        {
+          "id": "volcarona",
+          "name": "ウルガモス",
+          "english": "Volcarona",
+          "image_local": "images/pokemon/volcarona.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/volcarona.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "english": "Sneasler",
+          "image_local": "images/pokemon/sneasler.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/hdrE5NJ3"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/LuziVGC"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 33,
+      "player": "Shuji Endo",
+      "player_label": "Shuji Endo ( えげ )",
+      "country": "JPN",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "raichu",
+          "name": "ライチュウ",
+          "english": "Raichu",
+          "image_local": "images/pokemon/raichu.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "gengar",
+          "name": "ゲンガー",
+          "english": "Gengar",
+          "image_local": "images/pokemon/gengar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "archaludon",
+          "name": "ブリジュラス",
+          "english": "Archaludon",
+          "image_local": "images/pokemon/archaludon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+        },
+        {
+          "id": "politoed",
+          "name": "ニョロトノ",
+          "english": "Politoed",
+          "image_local": "images/pokemon/politoed.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/jWZ3vXci"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/cycleshop_i"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 34,
+      "player": "Masayoshi Kuroo",
+      "player_label": "Masayoshi Kuroo ( ピエール )",
+      "country": "AUS",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "camerupt",
+          "name": "バクーダ",
+          "english": "Camerupt",
+          "image_local": "images/pokemon/camerupt.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/camerupt-mega.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "vivillon",
+          "name": "ビビヨン",
+          "english": "Vivillon",
+          "image_local": "images/pokemon/vivillon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/vivillon.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/R0wMHk3f"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/f_kc56"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 35,
+      "player": "Leo Kunz",
+      "player_label": "Leo Kunz ( Gk )",
+      "country": "DEU",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "charizard",
+          "name": "リザードン",
+          "english": "Charizard",
+          "image_local": "images/pokemon/charizard.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/charizard.png",
+          "display_form": "Mega Y"
+        },
+        {
+          "id": "aerodactyl",
+          "name": "プテラ",
+          "english": "Aerodactyl",
+          "image_local": "images/pokemon/aerodactyl.png",
+          "image": "https://victoryroad.pro/wp-content/uploads/sprites/gen9-champions/aerodactyl-mega.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "farigiraf",
+          "name": "リキキリン",
+          "english": "Farigiraf",
+          "image_local": "images/pokemon/farigiraf.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "english": "Kingambit",
+          "image_local": "images/pokemon/kingambit.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png"
+        },
+        {
+          "id": "sylveon",
+          "name": "ニンフィア",
+          "english": "Sylveon",
+          "image_local": "images/pokemon/sylveon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/sylveon.png"
+        },
+        {
+          "id": "mamoswine",
+          "name": "マンムー",
+          "english": "Mamoswine",
+          "image_local": "images/pokemon/mamoswine.png",
+          "image": "https://www.pokedata.ovh/misc/sprites-master/sprites/pokemon/473.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/Y7cCSSAP"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/Gkomplexe"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    },
+    {
+      "rank": 36,
+      "player": "David Fernández",
+      "player_label": "David Fernández ( Xpartaz )",
+      "country": "ESP",
+      "stage": "Phase 2 Swiss rounds",
+      "pokemon": [
+        {
+          "id": "gengar",
+          "name": "ゲンガー",
+          "english": "Gengar",
+          "image_local": "images/pokemon/gengar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/gengar.png",
+          "display_form": "Mega"
+        },
+        {
+          "id": "vivillon",
+          "name": "ビビヨン",
+          "english": "Vivillon",
+          "image_local": "images/pokemon/vivillon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/vivillon.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "english": "Incineroar",
+          "image_local": "images/pokemon/incineroar.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png"
+        },
+        {
+          "id": "archaludon",
+          "name": "ブリジュラス",
+          "english": "Archaludon",
+          "image_local": "images/pokemon/archaludon.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/archaludon.png"
+        },
+        {
+          "id": "politoed",
+          "name": "ニョロトノ",
+          "english": "Politoed",
+          "image_local": "images/pokemon/politoed.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/politoed.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "english": "Rillaboom",
+          "image_local": "images/pokemon/rillaboom.png",
+          "image": "https://r2.limitlesstcg.net/sprites/home-sv/rillaboom.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "OTS",
+          "url": "https://www.vrpastes.com/KaWa2TAX"
+        }
+      ],
+      "prize": "–",
+      "player_links": [
+        "https://x.com/XpartazVGC"
+      ],
+      "swiss": "6-3",
+      "division": "Masters"
+    }
+  ],
+  "other_divisions": [],
+  "usage": [
+    {
+      "rank": 1,
+      "id": "rillaboom",
+      "name": "ゴリランダー",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "64.7% (163)"
+        },
+        {
+          "label": "Ph2",
+          "text": "67% (24)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "sneasler",
+      "name": "オオニューラ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "42.9% (108)"
+        },
+        {
+          "label": "Ph2",
+          "text": "44% (16)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "incineroar",
+      "name": "ガオガエン",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "41.7% (105)"
+        },
+        {
+          "label": "Ph2",
+          "text": "44% (16)"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "gholdengo",
+      "name": "サーフゴー",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "29.0% (73)"
+        },
+        {
+          "label": "Ph2",
+          "text": "25% (9)"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "kingambit",
+      "name": "ドドゲザン",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "25.4% (64)"
+        },
+        {
+          "label": "Ph2",
+          "text": "44% (16)"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "salamence",
+      "name": "ボーマンダ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "23.8% (60)"
+        },
+        {
+          "label": "Ph2",
+          "text": "25% (9)"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "raichu",
+      "name": "ライチュウ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "23.0% (58)"
+        },
+        {
+          "label": "Ph2",
+          "text": "31% (11)"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "arcanine-hisui",
+      "name": "ウインディ（ヒスイ）",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "20.2% (51)"
+        },
+        {
+          "label": "Ph2",
+          "text": "14% (5)"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "garchomp",
+      "name": "ガブリアス",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "19.0% (48)"
+        },
+        {
+          "label": "Ph2",
+          "text": "14% (5)"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "indeedee-f",
+      "name": "イエッサン♀",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "18.3% (46)"
+        },
+        {
+          "label": "Ph2",
+          "text": "8% (3)"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "farigiraf",
+      "name": "リキキリン",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "17.5% (44)"
+        },
+        {
+          "label": "Ph2",
+          "text": "19% (7)"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "floette-eternal",
+      "name": "フラエッテ（えいえんのはな）",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "17.1% (43)"
+        },
+        {
+          "label": "Ph2",
+          "text": "17% (6)"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "charizard",
+      "name": "リザードン",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "16.3% (41)"
+        },
+        {
+          "label": "Ph2",
+          "text": "22% (8)"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "sylveon",
+      "name": "ニンフィア",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "15.9% (40)"
+        },
+        {
+          "label": "Ph2",
+          "text": "19% (7)"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "archaludon",
+      "name": "ブリジュラス",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "13.9% (35)"
+        },
+        {
+          "label": "Ph2",
+          "text": "14% (5)"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "basculegion",
+      "name": "イダイトウ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "13.1% (33)"
+        },
+        {
+          "label": "Ph2",
+          "text": "17% (6)"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "milotic",
+      "name": "ミロカロス",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "12.7% (32)"
+        },
+        {
+          "label": "Ph2",
+          "text": "6% (2)"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "pelipper",
+      "name": "ペリッパー",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "10.7% (27)"
+        },
+        {
+          "label": "Ph2",
+          "text": "8% (3)"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "golisopod",
+      "name": "グソクムシャ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "10.3% (26)"
+        },
+        {
+          "label": "Ph2",
+          "text": "8% (3)"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "volcarona",
+      "name": "ウルガモス",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "9.5% (24)"
+        },
+        {
+          "label": "Ph2",
+          "text": "11% (4)"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "gengar",
+      "name": "ゲンガー",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "9.1% (23)"
+        },
+        {
+          "label": "Ph2",
+          "text": "14% (5)"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "staraptor",
+      "name": "ムクホーク",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "8.7% (22)"
+        },
+        {
+          "label": "Ph2",
+          "text": "6% (2)"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "politoed",
+      "name": "ニョロトノ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "7.9% (20)"
+        },
+        {
+          "label": "Ph2",
+          "text": "8% (3)"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "froslass",
+      "name": "ユキメノコ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "6.7% (17)"
+        },
+        {
+          "label": "Ph2",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "gardevoir",
+      "name": "サーナイト",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "6.3% (16)"
+        },
+        {
+          "label": "Ph2",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "venusaur",
+      "name": "フシギバナ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "6.3% (16)"
+        },
+        {
+          "label": "Ph2",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "metagross",
+      "name": "メタグロス",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "6.0% (15)"
+        },
+        {
+          "label": "Ph2",
+          "text": "0% (0)"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "whimsicott",
+      "name": "エルフーン",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "5.6% (14)"
+        },
+        {
+          "label": "Ph2",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "kommo-o",
+      "name": "ジャラランガ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "5.2% (13)"
+        },
+        {
+          "label": "Ph2",
+          "text": "11% (4)"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "armarouge",
+      "name": "グレンアルマ",
+      "display_form": "",
+      "heading": "General usage",
+      "values": [
+        {
+          "label": "Ph1",
+          "text": "4.8% (12)"
+        },
+        {
+          "label": "Ph2",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 1,
+      "id": "salamence",
+      "name": "ボーマンダ",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "23.8% (60)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "25% (9)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "raichu",
+      "name": "ライチュウ",
+      "display_form": "Mega Y",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "22.6% (57)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "31% (11)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "floette-eternal",
+      "name": "フラエッテ（えいえんのはな）",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "17.1% (43)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "17% (6)"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "charizard",
+      "name": "リザードン",
+      "display_form": "Mega Y",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "16.3% (41)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "22% (8)"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "garchomp",
+      "name": "ガブリアス",
+      "display_form": "Mega Z",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "11.9% (30)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "6% (2)"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "golisopod",
+      "name": "グソクムシャ",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "10.3% (26)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "8% (3)"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "gengar",
+      "name": "ゲンガー",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "9.1% (23)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "14% (5)"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "staraptor",
+      "name": "ムクホーク",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "8.7% (22)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "6% (2)"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "froslass",
+      "name": "ユキメノコ",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "6.7% (17)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "3% (1)"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "gardevoir",
+      "name": "サーナイト",
+      "display_form": "Mega",
+      "heading": "Mega Evolution usage",
+      "values": [
+        {
+          "label": "Ph1 Usage",
+          "text": "6.3% (16)"
+        },
+        {
+          "label": "Ph2 Usage",
+          "text": "3% (1)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "Event": "Victory Road September Challenge #2 (2026)",
+    "Location": "Online",
+    "Date": "19–20 September 2026",
+    "Attendance": "253 players",
+    "Videogame": "Pokémon Champions",
+    "Season": "2027 Season – VGC Regulation Set M-C",
+    "Format+": "8+2 Swiss rounds + X-2 top cut Open team lists",
+    "Organizer": "Victory Road"
+  }
+}

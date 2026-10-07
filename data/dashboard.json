@@ -1,7 +1,7 @@
 {
-  "sample": 24,
+  "sample": 32,
   "pokemon": 42,
-  "event_count": 3,
+  "event_count": 4,
   "format": "Regulation M-C",
   "checked": "2026-10-08",
   "ranking": [
@@ -10,9 +10,10 @@
       "name": "オオニューラ",
       "english": "Sneasler",
       "image": "images/pokemon/sneasler.png",
-      "count": 14,
-      "rate": 58.3,
-      "delta": 12.5,
+      "count": 18,
+      "total": 32,
+      "rate": 56.3,
+      "delta": -8.3,
       "rank": 1,
       "speed": 120,
       "types": [
@@ -21,6 +22,15 @@
       ],
       "rankedRank": 2,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 4,
+          "total": 8,
+          "rate": 50,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -55,9 +65,10 @@
       "name": "ゴリランダー",
       "english": "Rillaboom",
       "image": "images/pokemon/rillaboom.png",
-      "count": 14,
-      "rate": 58.3,
-      "delta": -6.2,
+      "count": 18,
+      "total": 32,
+      "rate": 56.3,
+      "delta": -8.3,
       "rank": 2,
       "speed": 85,
       "types": [
@@ -65,6 +76,15 @@
       ],
       "rankedRank": 1,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 4,
+          "total": 8,
+          "rate": 50,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -99,9 +119,10 @@
       "name": "ガオガエン",
       "english": "Incineroar",
       "image": "images/pokemon/incineroar.png",
-      "count": 12,
+      "count": 16,
+      "total": 32,
       "rate": 50,
-      "delta": 37.5,
+      "delta": 0,
       "rank": 3,
       "speed": 60,
       "types": [
@@ -110,6 +131,15 @@
       ],
       "rankedRank": 3,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 4,
+          "total": 8,
+          "rate": 50,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -140,20 +170,85 @@
       ]
     },
     {
+      "id": "garchomp",
+      "name": "ガブリアス",
+      "english": "Garchomp",
+      "image": "images/pokemon/garchomp.png",
+      "count": 10,
+      "total": 32,
+      "rate": 31.3,
+      "delta": 25,
+      "rank": 4,
+      "speed": 102,
+      "types": [
+        "ドラゴン",
+        "じめん"
+      ],
+      "rankedRank": 6,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 4,
+          "total": 8,
+          "rate": 50,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 3,
+          "total": 8,
+          "rate": 37.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 3,
+          "total": 8,
+          "rate": 37.5,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
       "id": "floette-eternal",
       "name": "フラエッテ（えいえんのはな）",
       "english": "Eternal Flower Floette",
       "image": "images/pokemon/floette-eternal.png",
-      "count": 8,
-      "rate": 33.3,
-      "delta": 31.3,
-      "rank": 4,
+      "count": 10,
+      "total": 32,
+      "rate": 31.3,
+      "delta": -8.3,
+      "rank": 5,
       "speed": 92,
       "types": [
         "フェアリー"
       ],
       "rankedRank": 31,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -188,10 +283,11 @@
       "name": "ドドゲザン",
       "english": "Kingambit",
       "image": "images/pokemon/kingambit.png",
-      "count": 7,
-      "rate": 29.2,
-      "delta": 6.3,
-      "rank": 5,
+      "count": 9,
+      "total": 32,
+      "rate": 28.1,
+      "delta": -4.2,
+      "rank": 6,
       "speed": 50,
       "types": [
         "あく",
@@ -199,6 +295,15 @@
       ],
       "rankedRank": 7,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -229,56 +334,12 @@
       ]
     },
     {
-      "id": "garchomp",
-      "name": "ガブリアス",
-      "english": "Garchomp",
-      "image": "images/pokemon/garchomp.png",
-      "count": 6,
-      "rate": 25,
-      "delta": 37.5,
-      "rank": 6,
-      "speed": 102,
-      "types": [
-        "ドラゴン",
-        "じめん"
-      ],
-      "rankedRank": 6,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 3,
-          "total": 8,
-          "rate": 37.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 3,
-          "total": 8,
-          "rate": 37.5,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
       "id": "archaludon",
       "name": "ブリジュラス",
       "english": "Archaludon",
       "image": "images/pokemon/archaludon.png",
-      "count": 6,
+      "count": 8,
+      "total": 32,
       "rate": 25,
       "delta": 0,
       "rank": 7,
@@ -289,6 +350,15 @@
       ],
       "rankedRank": 11,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -305,51 +375,6 @@
           "count": 4,
           "total": 8,
           "rate": 50,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 2,
-          "total": 8,
-          "rate": 25,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "gholdengo",
-      "name": "サーフゴー",
-      "english": "Gholdengo",
-      "image": "images/pokemon/gholdengo.png",
-      "count": 5,
-      "rate": 20.8,
-      "delta": -6.2,
-      "rank": 8,
-      "speed": 84,
-      "types": [
-        "はがね",
-        "ゴースト"
-      ],
-      "rankedRank": 8,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 3,
-          "total": 8,
-          "rate": 37.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
           "slug": "brisbane-2026"
         },
         {
@@ -368,10 +393,11 @@
       "name": "リザードン",
       "english": "Charizard",
       "image": "images/pokemon/charizard.png",
-      "count": 5,
-      "rate": 20.8,
-      "delta": 12.5,
-      "rank": 9,
+      "count": 7,
+      "total": 32,
+      "rate": 21.9,
+      "delta": 4.2,
+      "rank": 8,
       "speed": 100,
       "types": [
         "ほのお",
@@ -379,6 +405,15 @@
       ],
       "rankedRank": 15,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -409,36 +444,47 @@
       ]
     },
     {
-      "id": "politoed",
-      "name": "ニョロトノ",
-      "english": "Politoed",
-      "image": "images/pokemon/politoed.png",
-      "count": 4,
-      "rate": 16.7,
-      "delta": -12.5,
-      "rank": 10,
-      "speed": 70,
+      "id": "gholdengo",
+      "name": "サーフゴー",
+      "english": "Gholdengo",
+      "image": "images/pokemon/gholdengo.png",
+      "count": 6,
+      "total": 32,
+      "rate": 18.8,
+      "delta": -8.3,
+      "rank": 9,
+      "speed": 84,
       "types": [
-        "みず"
+        "はがね",
+        "ゴースト"
       ],
-      "rankedRank": 30,
+      "rankedRank": 8,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
-          "count": 1,
+          "count": 3,
           "total": 8,
-          "rate": 12.5,
+          "rate": 37.5,
           "slug": "frankfurt-2026"
         },
         {
           "id": 442,
           "name": "ブリスベン",
           "date": "2026-09-26",
-          "count": 1,
+          "count": 0,
           "total": 8,
-          "rate": 12.5,
+          "rate": 0,
           "slug": "brisbane-2026"
         },
         {
@@ -457,10 +503,11 @@
       "name": "ボーマンダ",
       "english": "Salamence",
       "image": "images/pokemon/salamence.png",
-      "count": 4,
-      "rate": 16.7,
-      "delta": -12.5,
-      "rank": 11,
+      "count": 6,
+      "total": 32,
+      "rate": 18.8,
+      "delta": 8.3,
+      "rank": 10,
       "speed": 100,
       "types": [
         "ドラゴン",
@@ -469,6 +516,15 @@
       "rankedRank": 4,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -484,95 +540,6 @@
           "count": 2,
           "total": 8,
           "rate": 25,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 2,
-          "total": 8,
-          "rate": 25,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "raichu",
-      "name": "ライチュウ",
-      "english": "Raichu",
-      "image": "images/pokemon/raichu.png",
-      "count": 4,
-      "rate": 16.7,
-      "delta": -31.2,
-      "rank": 12,
-      "speed": 110,
-      "types": [
-        "でんき"
-      ],
-      "rankedRank": 13,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 3,
-          "total": 8,
-          "rate": 37.5,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "indeedee",
-      "name": "イエッサン♂",
-      "english": "Indeedee",
-      "image": "images/pokemon/indeedee.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": -18.7,
-      "rank": 13,
-      "speed": 95,
-      "types": [
-        "エスパー",
-        "ノーマル"
-      ],
-      "rankedRank": 25,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
           "slug": "brisbane-2026"
         },
         {
@@ -591,10 +558,11 @@
       "name": "イダイトウ",
       "english": "Basculegion",
       "image": "images/pokemon/basculegion.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 18.8,
-      "rank": 14,
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": 12.5,
+      "rank": 11,
       "speed": 78,
       "types": [
         "みず",
@@ -602,6 +570,15 @@
       ],
       "rankedRank": 9,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -627,51 +604,6 @@
           "count": 0,
           "total": 8,
           "rate": 0,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "arcanine-hisui",
-      "name": "ウインディ（ヒスイ）",
-      "english": "Hisuian Arcanine",
-      "image": "images/pokemon/arcanine-hisui.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": -37.5,
-      "rank": 15,
-      "speed": 90,
-      "types": [
-        "ほのお",
-        "いわ"
-      ],
-      "rankedRank": 21,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 3,
-          "total": 8,
-          "rate": 37.5,
           "slug": "baltimore-2026"
         }
       ]
@@ -681,10 +613,11 @@
       "name": "ウルガモス",
       "english": "Volcarona",
       "image": "images/pokemon/volcarona.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 18.8,
-      "rank": 16,
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": 12.5,
+      "rank": 12,
       "speed": 100,
       "types": [
         "むし",
@@ -693,6 +626,15 @@
       "rankedRank": 24,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -722,91 +664,55 @@
       ]
     },
     {
-      "id": "grimmsnarl",
-      "name": "オーロンゲ",
-      "english": "Grimmsnarl",
-      "image": "images/pokemon/grimmsnarl.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 0,
-      "rank": 17,
-      "speed": 60,
+      "id": "politoed",
+      "name": "ニョロトノ",
+      "english": "Politoed",
+      "image": "images/pokemon/politoed.png",
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": -4.2,
+      "rank": 13,
+      "speed": 70,
       "types": [
-        "あく",
-        "フェアリー"
+        "みず"
       ],
-      "rankedRank": 32,
+      "rankedRank": 30,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
-          "count": 0,
+          "count": 1,
           "total": 8,
-          "rate": 0,
+          "rate": 12.5,
           "slug": "frankfurt-2026"
         },
         {
           "id": 442,
           "name": "ブリスベン",
           "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
           "count": 2,
           "total": 8,
           "rate": 25,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "gengar",
-      "name": "ゲンガー",
-      "english": "Gengar",
-      "image": "images/pokemon/gengar.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 0,
-      "rank": 18,
-      "speed": 110,
-      "types": [
-        "ゴースト",
-        "どく"
-      ],
-      "rankedRank": 36,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
           "slug": "baltimore-2026"
         }
       ]
@@ -816,16 +722,26 @@
       "name": "ニンフィア",
       "english": "Sylveon",
       "image": "images/pokemon/sylveon.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 0,
-      "rank": 19,
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": 12.5,
+      "rank": 14,
       "speed": 60,
       "types": [
         "フェアリー"
       ],
       "rankedRank": 18,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -860,10 +776,11 @@
       "name": "フシギバナ",
       "english": "Venusaur",
       "image": "images/pokemon/venusaur.png",
-      "count": 3,
-      "rate": 12.5,
-      "delta": 18.8,
-      "rank": 20,
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": 12.5,
+      "rank": 15,
       "speed": 80,
       "types": [
         "くさ",
@@ -871,6 +788,15 @@
       ],
       "rankedRank": 39,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -901,14 +827,179 @@
       ]
     },
     {
+      "id": "raichu",
+      "name": "ライチュウ",
+      "english": "Raichu",
+      "image": "images/pokemon/raichu.png",
+      "count": 5,
+      "total": 32,
+      "rate": 15.6,
+      "delta": -4.2,
+      "rank": 16,
+      "speed": 110,
+      "types": [
+        "でんき"
+      ],
+      "rankedRank": 13,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 3,
+          "total": 8,
+          "rate": 37.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "arcanine-hisui",
+      "name": "ウインディ（ヒスイ）",
+      "english": "Hisuian Arcanine",
+      "image": "images/pokemon/arcanine-hisui.png",
+      "count": 4,
+      "total": 32,
+      "rate": 12.5,
+      "delta": 0,
+      "rank": 17,
+      "speed": 90,
+      "types": [
+        "ほのお",
+        "いわ"
+      ],
+      "rankedRank": 21,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 3,
+          "total": 8,
+          "rate": 37.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "grimmsnarl",
+      "name": "オーロンゲ",
+      "english": "Grimmsnarl",
+      "image": "images/pokemon/grimmsnarl.png",
+      "count": 4,
+      "total": 32,
+      "rate": 12.5,
+      "delta": 0,
+      "rank": 18,
+      "speed": 60,
+      "types": [
+        "あく",
+        "フェアリー"
+      ],
+      "rankedRank": 32,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
       "id": "pelipper",
       "name": "ペリッパー",
       "english": "Pelipper",
       "image": "images/pokemon/pelipper.png",
-      "count": 3,
+      "count": 4,
+      "total": 32,
       "rate": 12.5,
-      "delta": 18.8,
-      "rank": 21,
+      "delta": 0,
+      "rank": 19,
       "speed": 65,
       "types": [
         "みず",
@@ -916,6 +1007,15 @@
       ],
       "rankedRank": 12,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -946,13 +1046,124 @@
       ]
     },
     {
+      "id": "farigiraf",
+      "name": "リキキリン",
+      "english": "Farigiraf",
+      "image": "images/pokemon/farigiraf.png",
+      "count": 4,
+      "total": 32,
+      "rate": 12.5,
+      "delta": 16.7,
+      "rank": 20,
+      "speed": 60,
+      "types": [
+        "ノーマル",
+        "エスパー"
+      ],
+      "rankedRank": 16,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "indeedee",
+      "name": "イエッサン♂",
+      "english": "Indeedee",
+      "image": "images/pokemon/indeedee.png",
+      "count": 3,
+      "total": 32,
+      "rate": 9.4,
+      "delta": -12.5,
+      "rank": 21,
+      "speed": 95,
+      "types": [
+        "エスパー",
+        "ノーマル"
+      ],
+      "rankedRank": 25,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 2,
+          "total": 8,
+          "rate": 25,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
       "id": "dragonite",
       "name": "カイリュー",
       "english": "Dragonite",
       "image": "images/pokemon/dragonite.png",
-      "count": 2,
-      "rate": 8.3,
-      "delta": 12.5,
+      "count": 3,
+      "total": 32,
+      "rate": 9.4,
+      "delta": 4.2,
       "rank": 22,
       "speed": 80,
       "types": [
@@ -962,12 +1173,185 @@
       "rankedRank": 37,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
           "count": 2,
           "total": 8,
           "rate": 25,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "gengar",
+      "name": "ゲンガー",
+      "english": "Gengar",
+      "image": "images/pokemon/gengar.png",
+      "count": 3,
+      "total": 32,
+      "rate": 9.4,
+      "delta": -12.5,
+      "rank": 23,
+      "speed": 110,
+      "types": [
+        "ゴースト",
+        "どく"
+      ],
+      "rankedRank": 36,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "golisopod",
+      "name": "グソクムシャ",
+      "english": "Golisopod",
+      "image": "images/pokemon/golisopod.png",
+      "count": 2,
+      "total": 32,
+      "rate": 6.3,
+      "delta": 8.3,
+      "rank": 24,
+      "speed": 40,
+      "types": [
+        "むし",
+        "みず"
+      ],
+      "rankedRank": 10,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
+      "id": "torkoal",
+      "name": "コータス",
+      "english": "Torkoal",
+      "image": "images/pokemon/torkoal.png",
+      "count": 2,
+      "total": 32,
+      "rate": 6.3,
+      "delta": 8.3,
+      "rank": 25,
+      "speed": 20,
+      "types": [
+        "ほのお"
+      ],
+      "rankedRank": 28,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
           "slug": "frankfurt-2026"
         },
         {
@@ -996,9 +1380,10 @@
       "english": "Kommo-o",
       "image": "images/pokemon/kommo-o.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": 12.5,
-      "rank": 23,
+      "total": 32,
+      "rate": 6.3,
+      "delta": -8.3,
+      "rank": 26,
       "speed": 85,
       "types": [
         "ドラゴン",
@@ -1006,6 +1391,15 @@
       ],
       "rankedRank": 53,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1036,14 +1430,70 @@
       ]
     },
     {
+      "id": "toxapex",
+      "name": "ドヒドイデ",
+      "english": "Toxapex",
+      "image": "images/pokemon/toxapex.png",
+      "count": 2,
+      "total": 32,
+      "rate": 6.3,
+      "delta": 8.3,
+      "rank": 27,
+      "speed": 35,
+      "types": [
+        "どく",
+        "みず"
+      ],
+      "rankedRank": 86,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
       "id": "vivillon",
       "name": "ビビヨン",
       "english": "Vivillon",
       "image": "images/pokemon/vivillon.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": -6.2,
-      "rank": 24,
+      "total": 32,
+      "rate": 6.3,
+      "delta": -8.3,
+      "rank": 28,
       "speed": 89,
       "types": [
         "むし",
@@ -1051,6 +1501,15 @@
       ],
       "rankedRank": 66,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1081,20 +1540,85 @@
       ]
     },
     {
+      "id": "delphox",
+      "name": "マフォクシー",
+      "english": "Delphox",
+      "image": "images/pokemon/delphox.png",
+      "count": 2,
+      "total": 32,
+      "rate": 6.3,
+      "delta": 8.3,
+      "rank": 29,
+      "speed": 104,
+      "types": [
+        "ほのお",
+        "エスパー"
+      ],
+      "rankedRank": 46,
+      "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
+        {
+          "id": 443,
+          "name": "フランクフルト",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "frankfurt-2026"
+        },
+        {
+          "id": 442,
+          "name": "ブリスベン",
+          "date": "2026-09-26",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "brisbane-2026"
+        },
+        {
+          "id": 441,
+          "name": "ボルチモア",
+          "date": "2026-09-19",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "baltimore-2026"
+        }
+      ]
+    },
+    {
       "id": "milotic",
       "name": "ミロカロス",
       "english": "Milotic",
       "image": "images/pokemon/milotic.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": -25,
-      "rank": 25,
+      "total": 32,
+      "rate": 6.3,
+      "delta": -8.3,
+      "rank": 30,
       "speed": 81,
       "types": [
         "みず"
       ],
       "rankedRank": 14,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1130,9 +1654,10 @@
       "english": "Staraptor",
       "image": "images/pokemon/staraptor.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": -25,
-      "rank": 26,
+      "total": 32,
+      "rate": 6.3,
+      "delta": -8.3,
+      "rank": 31,
       "speed": 100,
       "types": [
         "ノーマル",
@@ -1140,6 +1665,15 @@
       ],
       "rankedRank": 22,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1175,9 +1709,10 @@
       "english": "Froslass",
       "image": "images/pokemon/froslass.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": -6.2,
-      "rank": 27,
+      "total": 32,
+      "rate": 6.3,
+      "delta": -8.3,
+      "rank": 32,
       "speed": 110,
       "types": [
         "こおり",
@@ -1185,6 +1720,15 @@
       ],
       "rankedRank": 35,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1215,46 +1759,56 @@
       ]
     },
     {
-      "id": "farigiraf",
-      "name": "リキキリン",
-      "english": "Farigiraf",
-      "image": "images/pokemon/farigiraf.png",
+      "id": "swampert",
+      "name": "ラグラージ",
+      "english": "Swampert",
+      "image": "images/pokemon/swampert.png",
       "count": 2,
-      "rate": 8.3,
-      "delta": -6.2,
-      "rank": 28,
+      "total": 32,
+      "rate": 6.3,
+      "delta": 8.3,
+      "rank": 33,
       "speed": 60,
       "types": [
-        "ノーマル",
-        "エスパー"
+        "みず",
+        "じめん"
       ],
-      "rankedRank": 16,
+      "rankedRank": 33,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 1,
+          "total": 8,
+          "rate": 12.5,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
-          "count": 1,
+          "count": 0,
           "total": 8,
-          "rate": 12.5,
+          "rate": 0,
           "slug": "frankfurt-2026"
         },
         {
           "id": 442,
           "name": "ブリスベン",
           "date": "2026-09-26",
-          "count": 0,
+          "count": 1,
           "total": 8,
-          "rate": 0,
+          "rate": 12.5,
           "slug": "brisbane-2026"
         },
         {
           "id": 441,
           "name": "ボルチモア",
           "date": "2026-09-19",
-          "count": 1,
+          "count": 0,
           "total": 8,
-          "rate": 12.5,
+          "rate": 0,
           "slug": "baltimore-2026"
         }
       ]
@@ -1265,9 +1819,10 @@
       "english": "Corviknight",
       "image": "images/pokemon/corviknight.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 29,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 34,
       "speed": 67,
       "types": [
         "ひこう",
@@ -1275,6 +1830,15 @@
       ],
       "rankedRank": 45,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1310,9 +1874,10 @@
       "english": "Female Indeedee",
       "image": "images/pokemon/indeedee-f.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 30,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 35,
       "speed": 85,
       "types": [
         "エスパー",
@@ -1320,6 +1885,15 @@
       ],
       "rankedRank": 5,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1355,9 +1929,10 @@
       "english": "Glimmora",
       "image": "images/pokemon/glimmora.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 31,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 36,
       "speed": 86,
       "types": [
         "いわ",
@@ -1366,6 +1941,15 @@
       "rankedRank": 44,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -1390,51 +1974,6 @@
           "count": 0,
           "total": 8,
           "rate": 0,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "golisopod",
-      "name": "グソクムシャ",
-      "english": "Golisopod",
-      "image": "images/pokemon/golisopod.png",
-      "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 32,
-      "speed": 40,
-      "types": [
-        "むし",
-        "みず"
-      ],
-      "rankedRank": 10,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
           "slug": "baltimore-2026"
         }
       ]
@@ -1445,9 +1984,10 @@
       "english": "Armarouge",
       "image": "images/pokemon/armarouge.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 33,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 37,
       "speed": 75,
       "types": [
         "ほのお",
@@ -1456,6 +1996,15 @@
       "rankedRank": 23,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -1471,50 +2020,6 @@
           "count": 1,
           "total": 8,
           "rate": 12.5,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "torkoal",
-      "name": "コータス",
-      "english": "Torkoal",
-      "image": "images/pokemon/torkoal.png",
-      "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 34,
-      "speed": 20,
-      "types": [
-        "ほのお"
-      ],
-      "rankedRank": 28,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
           "slug": "brisbane-2026"
         },
         {
@@ -1534,9 +2039,10 @@
       "english": "Ceruledge",
       "image": "images/pokemon/ceruledge.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 35,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 38,
       "speed": 85,
       "types": [
         "ほのお",
@@ -1545,6 +2051,15 @@
       "rankedRank": 56,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -1569,51 +2084,6 @@
           "count": 1,
           "total": 8,
           "rate": 12.5,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "toxapex",
-      "name": "ドヒドイデ",
-      "english": "Toxapex",
-      "image": "images/pokemon/toxapex.png",
-      "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 36,
-      "speed": 35,
-      "types": [
-        "どく",
-        "みず"
-      ],
-      "rankedRank": 86,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
           "slug": "baltimore-2026"
         }
       ]
@@ -1624,9 +2094,10 @@
       "english": "Excadrill",
       "image": "images/pokemon/excadrill.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 37,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 39,
       "speed": 88,
       "types": [
         "じめん",
@@ -1634,6 +2105,15 @@
       ],
       "rankedRank": 29,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1669,15 +2149,25 @@
       "english": "Female Meowstic",
       "image": "images/pokemon/meowstic-f.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 38,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 40,
       "speed": 104,
       "types": [
         "エスパー"
       ],
       "rankedRank": 95,
       "events": [
+        {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1713,9 +2203,10 @@
       "english": "Tyranitar",
       "image": "images/pokemon/tyranitar.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 39,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 41,
       "speed": 61,
       "types": [
         "いわ",
@@ -1724,50 +2215,14 @@
       "rankedRank": 19,
       "events": [
         {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
           "count": 0,
           "total": 8,
           "rate": 0,
-          "slug": "frankfurt-2026"
+          "slug": "recife-2026"
         },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "delphox",
-      "name": "マフォクシー",
-      "english": "Delphox",
-      "image": "images/pokemon/delphox.png",
-      "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 40,
-      "speed": 104,
-      "types": [
-        "ほのお",
-        "エスパー"
-      ],
-      "rankedRank": 46,
-      "events": [
         {
           "id": 443,
           "name": "フランクフルト",
@@ -1803,9 +2258,10 @@
       "english": "Metagross",
       "image": "images/pokemon/metagross.png",
       "count": 1,
-      "rate": 4.2,
-      "delta": -12.5,
-      "rank": 41,
+      "total": 32,
+      "rate": 3.1,
+      "delta": -4.2,
+      "rank": 42,
       "speed": 70,
       "types": [
         "はがね",
@@ -1814,6 +2270,15 @@
       "rankedRank": 27,
       "events": [
         {
+          "id": 1000072,
+          "name": "レシフェ",
+          "date": "2026-10-03",
+          "count": 0,
+          "total": 8,
+          "rate": 0,
+          "slug": "recife-2026"
+        },
+        {
           "id": 443,
           "name": "フランクフルト",
           "date": "2026-09-26",
@@ -1838,51 +2303,6 @@
           "count": 1,
           "total": 8,
           "rate": 12.5,
-          "slug": "baltimore-2026"
-        }
-      ]
-    },
-    {
-      "id": "swampert",
-      "name": "ラグラージ",
-      "english": "Swampert",
-      "image": "images/pokemon/swampert.png",
-      "count": 1,
-      "rate": 4.2,
-      "delta": 6.3,
-      "rank": 42,
-      "speed": 60,
-      "types": [
-        "みず",
-        "じめん"
-      ],
-      "rankedRank": 33,
-      "events": [
-        {
-          "id": 443,
-          "name": "フランクフルト",
-          "date": "2026-09-26",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
-          "slug": "frankfurt-2026"
-        },
-        {
-          "id": 442,
-          "name": "ブリスベン",
-          "date": "2026-09-26",
-          "count": 1,
-          "total": 8,
-          "rate": 12.5,
-          "slug": "brisbane-2026"
-        },
-        {
-          "id": 441,
-          "name": "ボルチモア",
-          "date": "2026-09-19",
-          "count": 0,
-          "total": 8,
-          "rate": 0,
           "slug": "baltimore-2026"
         }
       ]
@@ -1892,9 +2312,41 @@
     {
       "pokemon": [
         {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "image": "images/pokemon/rillaboom.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "image": "images/pokemon/sneasler.png"
+        }
+      ],
+      "count": 11,
+      "rate": 34.4
+    },
+    {
+      "pokemon": [
+        {
           "id": "incineroar",
           "name": "ガオガエン",
           "image": "images/pokemon/incineroar.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "image": "images/pokemon/rillaboom.png"
+        }
+      ],
+      "count": 10,
+      "rate": 31.3
+    },
+    {
+      "pokemon": [
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "image": "images/pokemon/floette-eternal.png"
         },
         {
           "id": "rillaboom",
@@ -1903,7 +2355,7 @@
         }
       ],
       "count": 9,
-      "rate": 37.5
+      "rate": 28.1
     },
     {
       "pokemon": [
@@ -1918,56 +2370,8 @@
           "image": "images/pokemon/sneasler.png"
         }
       ],
-      "count": 8,
-      "rate": 33.3
-    },
-    {
-      "pokemon": [
-        {
-          "id": "rillaboom",
-          "name": "ゴリランダー",
-          "image": "images/pokemon/rillaboom.png"
-        },
-        {
-          "id": "sneasler",
-          "name": "オオニューラ",
-          "image": "images/pokemon/sneasler.png"
-        }
-      ],
-      "count": 8,
-      "rate": 33.3
-    },
-    {
-      "pokemon": [
-        {
-          "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
-          "image": "images/pokemon/floette-eternal.png"
-        },
-        {
-          "id": "rillaboom",
-          "name": "ゴリランダー",
-          "image": "images/pokemon/rillaboom.png"
-        }
-      ],
-      "count": 7,
-      "rate": 29.2
-    },
-    {
-      "pokemon": [
-        {
-          "id": "incineroar",
-          "name": "ガオガエン",
-          "image": "images/pokemon/incineroar.png"
-        },
-        {
-          "id": "sneasler",
-          "name": "オオニューラ",
-          "image": "images/pokemon/sneasler.png"
-        }
-      ],
-      "count": 7,
-      "rate": 29.2
+      "count": 9,
+      "rate": 28.1
     },
     {
       "pokemon": [
@@ -1982,72 +2386,8 @@
           "image": "images/pokemon/sneasler.png"
         }
       ],
-      "count": 7,
-      "rate": 29.2
-    },
-    {
-      "pokemon": [
-        {
-          "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
-          "image": "images/pokemon/floette-eternal.png"
-        },
-        {
-          "id": "incineroar",
-          "name": "ガオガエン",
-          "image": "images/pokemon/incineroar.png"
-        }
-      ],
-      "count": 6,
-      "rate": 25
-    },
-    {
-      "pokemon": [
-        {
-          "id": "kingambit",
-          "name": "ドドゲザン",
-          "image": "images/pokemon/kingambit.png"
-        },
-        {
-          "id": "rillaboom",
-          "name": "ゴリランダー",
-          "image": "images/pokemon/rillaboom.png"
-        }
-      ],
-      "count": 6,
-      "rate": 25
-    },
-    {
-      "pokemon": [
-        {
-          "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
-          "image": "images/pokemon/floette-eternal.png"
-        },
-        {
-          "id": "kingambit",
-          "name": "ドドゲザン",
-          "image": "images/pokemon/kingambit.png"
-        }
-      ],
-      "count": 5,
-      "rate": 20.8
-    },
-    {
-      "pokemon": [
-        {
-          "id": "gholdengo",
-          "name": "サーフゴー",
-          "image": "images/pokemon/gholdengo.png"
-        },
-        {
-          "id": "rillaboom",
-          "name": "ゴリランダー",
-          "image": "images/pokemon/rillaboom.png"
-        }
-      ],
-      "count": 5,
-      "rate": 20.8
+      "count": 9,
+      "rate": 28.1
     },
     {
       "pokemon": [
@@ -2062,15 +2402,31 @@
           "image": "images/pokemon/incineroar.png"
         }
       ],
-      "count": 4,
-      "rate": 16.7
+      "count": 8,
+      "rate": 25
     },
     {
       "pokemon": [
         {
-          "id": "raichu",
-          "name": "ライチュウ",
-          "image": "images/pokemon/raichu.png"
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "image": "images/pokemon/incineroar.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "image": "images/pokemon/sneasler.png"
+        }
+      ],
+      "count": 8,
+      "rate": 25
+    },
+    {
+      "pokemon": [
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "image": "images/pokemon/kingambit.png"
         },
         {
           "id": "rillaboom",
@@ -2078,8 +2434,72 @@
           "image": "images/pokemon/rillaboom.png"
         }
       ],
-      "count": 4,
-      "rate": 16.7
+      "count": 8,
+      "rate": 25
+    },
+    {
+      "pokemon": [
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "image": "images/pokemon/floette-eternal.png"
+        },
+        {
+          "id": "incineroar",
+          "name": "ガオガエン",
+          "image": "images/pokemon/incineroar.png"
+        }
+      ],
+      "count": 7,
+      "rate": 21.9
+    },
+    {
+      "pokemon": [
+        {
+          "id": "floette-eternal",
+          "name": "フラエッテ（えいえんのはな）",
+          "image": "images/pokemon/floette-eternal.png"
+        },
+        {
+          "id": "kingambit",
+          "name": "ドドゲザン",
+          "image": "images/pokemon/kingambit.png"
+        }
+      ],
+      "count": 6,
+      "rate": 18.8
+    },
+    {
+      "pokemon": [
+        {
+          "id": "gholdengo",
+          "name": "サーフゴー",
+          "image": "images/pokemon/gholdengo.png"
+        },
+        {
+          "id": "rillaboom",
+          "name": "ゴリランダー",
+          "image": "images/pokemon/rillaboom.png"
+        }
+      ],
+      "count": 6,
+      "rate": 18.8
+    },
+    {
+      "pokemon": [
+        {
+          "id": "salamence",
+          "name": "ボーマンダ",
+          "image": "images/pokemon/salamence.png"
+        },
+        {
+          "id": "sneasler",
+          "name": "オオニューラ",
+          "image": "images/pokemon/sneasler.png"
+        }
+      ],
+      "count": 6,
+      "rate": 18.8
     }
   ]
 }

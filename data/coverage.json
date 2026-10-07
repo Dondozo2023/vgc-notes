@@ -1,0 +1,182 @@
+{
+  "checked": "2026-10-08",
+  "calendar": "https://victoryroad.pro/2027-season-calendar/",
+  "pokedata_indexes": [
+    "https://www.pokedata.ovh/standingsVGC/",
+    "https://www.pokedata.ovh/standings2/"
+  ],
+  "events": [
+    {
+      "name": "ボルチモア",
+      "slug": "baltimore-2026",
+      "type": "regional",
+      "date": "2026-09-19",
+      "vr_results": 155,
+      "vr_squads": 155,
+      "pokedata_results": 1081,
+      "pokedata_teams": 1073,
+      "legacy_count": 1082,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/2027-baltimore/"
+        },
+        {
+          "name": "Pokedata — マスター全順位・公開チーム",
+          "url": "https://www.pokedata.ovh/standings2/1000034/Masters"
+        },
+        {
+          "name": "Pokedata旧VGC一覧 — マスターJSON",
+          "url": "https://www.pokedata.ovh/standingsVGC/0000192/masters/"
+        }
+      ]
+    },
+    {
+      "name": "フランクフルト",
+      "slug": "frankfurt-2026",
+      "type": "regional",
+      "date": "2026-09-26",
+      "vr_results": 163,
+      "vr_squads": 163,
+      "pokedata_results": 1129,
+      "pokedata_teams": 1126,
+      "legacy_count": 1129,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/2027-frankfurt/"
+        },
+        {
+          "name": "Pokedata — マスター全順位・公開チーム",
+          "url": "https://www.pokedata.ovh/standings2/1000070/Masters"
+        },
+        {
+          "name": "Pokedata旧VGC一覧 — マスターJSON",
+          "url": "https://www.pokedata.ovh/standingsVGC/0000194/masters/"
+        }
+      ]
+    },
+    {
+      "name": "ブリスベン",
+      "slug": "brisbane-2026",
+      "type": "regional",
+      "date": "2026-09-26",
+      "vr_results": 128,
+      "vr_squads": 128,
+      "pokedata_results": 327,
+      "pokedata_teams": 325,
+      "legacy_count": 327,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/2027-brisbane/"
+        },
+        {
+          "name": "Pokedata — マスター全順位・公開チーム",
+          "url": "https://www.pokedata.ovh/standings2/1000068/Masters"
+        },
+        {
+          "name": "Pokedata旧VGC一覧 — マスターJSON",
+          "url": "https://www.pokedata.ovh/standingsVGC/0000193/masters/"
+        }
+      ]
+    },
+    {
+      "name": "レシフェ",
+      "slug": "recife-2026",
+      "type": "regional",
+      "date": "2026-10-03",
+      "vr_results": 64,
+      "vr_squads": 64,
+      "pokedata_results": 222,
+      "pokedata_teams": 220,
+      "legacy_count": null,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/2027-recife/"
+        },
+        {
+          "name": "Pokedata — マスター全順位・公開チーム",
+          "url": "https://www.pokedata.ovh/standings2/1000072/Masters"
+        }
+      ]
+    },
+    {
+      "name": "VR September Challenge #1",
+      "slug": "vr-september-1-2026",
+      "type": "grassroots",
+      "date": "2026-09-12",
+      "vr_results": 55,
+      "vr_squads": 55,
+      "pokedata_results": 0,
+      "pokedata_teams": 0,
+      "legacy_count": null,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/vr-sep26/"
+        }
+      ]
+    },
+    {
+      "name": "VR September Challenge #2",
+      "slug": "vr-september-2-2026",
+      "type": "grassroots",
+      "date": "2026-09-19",
+      "vr_results": 36,
+      "vr_squads": 36,
+      "pokedata_results": 0,
+      "pokedata_teams": 0,
+      "legacy_count": null,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/vr-sep26-2/"
+        }
+      ]
+    },
+    {
+      "name": "VR October Challenge #1",
+      "slug": "vr-october-1-2026",
+      "type": "grassroots",
+      "date": "2026-10-03",
+      "vr_results": 53,
+      "vr_squads": 53,
+      "pokedata_results": 0,
+      "pokedata_teams": 0,
+      "legacy_count": null,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/vr-oct26/"
+        }
+      ]
+    },
+    {
+      "name": "Global Challenge I",
+      "slug": "global-challenge-i-2026",
+      "type": "ladder",
+      "date": "2026-09-25",
+      "vr_results": 64,
+      "vr_squads": 0,
+      "pokedata_results": 0,
+      "pokedata_teams": 0,
+      "legacy_count": null,
+      "sources": [
+        {
+          "name": "Victory Road — 掲載結果・構築・使用率",
+          "url": "https://victoryroad.pro/2027-global-challenge-i/"
+        }
+      ]
+    }
+  ],
+  "ranked_summary": {
+    "name": "ランクバトル M-6（ダブル）",
+    "date": "2026-09-09",
+    "end_date": "2026-10-07",
+    "winner": "Yuya Hashiba",
+    "source": "https://victoryroad.pro/2027-season-calendar/",
+    "note": "Victory Roadのカレンダーは1位のみ掲載。大会の順位・構築集計とは別の記録。"
+  }
+}

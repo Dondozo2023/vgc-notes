@@ -1,0 +1,1247 @@
+{
+  "checked": "2026-10-08",
+  "events": 8,
+  "vr_results": 718,
+  "standings": 2759,
+  "teams": 2744,
+  "indexes": [
+    {
+      "id": 1000072,
+      "slug": "recife-2026",
+      "name": "レシフェ",
+      "type": "regional",
+      "date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "count": 222,
+      "teams": 220,
+      "source": "Pokedata",
+      "url": "data/recife-2026-explorer.json"
+    },
+    {
+      "id": 9003,
+      "slug": "vr-october-1-2026",
+      "name": "VR October Challenge #1",
+      "type": "grassroots",
+      "date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "count": 53,
+      "teams": 53,
+      "source": "Victory Road",
+      "url": "data/vr-october-1-2026-explorer.json"
+    },
+    {
+      "id": 443,
+      "slug": "frankfurt-2026",
+      "name": "フランクフルト",
+      "type": "regional",
+      "date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "count": 1129,
+      "teams": 1126,
+      "source": "Pokedata",
+      "url": "data/frankfurt-2026-explorer.json"
+    },
+    {
+      "id": 442,
+      "slug": "brisbane-2026",
+      "name": "ブリスベン",
+      "type": "regional",
+      "date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "count": 327,
+      "teams": 325,
+      "source": "Pokedata",
+      "url": "data/brisbane-2026-explorer.json"
+    },
+    {
+      "id": 9004,
+      "slug": "global-challenge-i-2026",
+      "name": "Global Challenge I",
+      "type": "ladder",
+      "date": "2026-09-25",
+      "end_date": "2026-09-28",
+      "count": 64,
+      "teams": 0,
+      "source": "Victory Road",
+      "url": "data/global-challenge-i-2026-explorer.json"
+    },
+    {
+      "id": 9002,
+      "slug": "vr-september-2-2026",
+      "name": "VR September Challenge #2",
+      "type": "grassroots",
+      "date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "count": 36,
+      "teams": 36,
+      "source": "Victory Road",
+      "url": "data/vr-september-2-2026-explorer.json"
+    },
+    {
+      "id": 441,
+      "slug": "baltimore-2026",
+      "name": "ボルチモア",
+      "type": "regional",
+      "date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "count": 1081,
+      "teams": 1073,
+      "source": "Pokedata",
+      "url": "data/baltimore-2026-explorer.json"
+    },
+    {
+      "id": 9001,
+      "slug": "vr-september-1-2026",
+      "name": "VR September Challenge #1",
+      "type": "grassroots",
+      "date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "count": 55,
+      "teams": 55,
+      "source": "Victory Road",
+      "url": "data/vr-september-1-2026-explorer.json"
+    }
+  ],
+  "species": [
+    {
+      "id": "arbok",
+      "name": "アーボック",
+      "english": "Arbok",
+      "image": "images/pokemon/arbok.png"
+    },
+    {
+      "id": "corviknight",
+      "name": "アーマーガア",
+      "english": "Corviknight",
+      "image": "images/pokemon/corviknight.png"
+    },
+    {
+      "id": "primarina",
+      "name": "アシレーヌ",
+      "english": "Primarina",
+      "image": "images/pokemon/primarina.png"
+    },
+    {
+      "id": "absol",
+      "name": "アブソル",
+      "english": "Absol",
+      "image": "images/pokemon/absol.png"
+    },
+    {
+      "id": "tsareena",
+      "name": "アマージョ",
+      "english": "Tsareena",
+      "image": "images/pokemon/tsareena.png"
+    },
+    {
+      "id": "wyrdeer",
+      "name": "アヤシシ",
+      "english": "Wyrdeer",
+      "image": "images/pokemon/wyrdeer.png"
+    },
+    {
+      "id": "indeedee-f",
+      "name": "イエッサン♀",
+      "english": "Female Indeedee",
+      "image": "images/pokemon/indeedee-f.png"
+    },
+    {
+      "id": "indeedee",
+      "name": "イエッサン♂",
+      "english": "Indeedee",
+      "image": "images/pokemon/indeedee.png"
+    },
+    {
+      "id": "squawkabilly",
+      "name": "イキリンコ",
+      "english": "Squawkabilly",
+      "image": "images/pokemon/squawkabilly.png"
+    },
+    {
+      "id": "squawkabilly-white-plumage",
+      "name": "イキリンコ（White Plumage）",
+      "english": "Squawkabilly [White Plumage]",
+      "image": "images/pokemon/squawkabilly-white-plumage.png"
+    },
+    {
+      "id": "basculegion",
+      "name": "イダイトウ",
+      "english": "Basculegion",
+      "image": "images/pokemon/basculegion.png"
+    },
+    {
+      "id": "basculegion-f",
+      "name": "イダイトウ♀",
+      "english": "Basculegion [Female]",
+      "image": "images/pokemon/basculegion-f.png"
+    },
+    {
+      "id": "maushold",
+      "name": "イッカネズミ",
+      "english": "Maushold",
+      "image": "images/pokemon/maushold.png"
+    },
+    {
+      "id": "maushold-three",
+      "name": "イッカネズミ（3びきかぞく）",
+      "english": "Maushold [Family of Three]",
+      "image": "images/pokemon/maushold-three.png"
+    },
+    {
+      "id": "maushold-four",
+      "name": "イッカネズミ（4ひきかぞく）",
+      "english": "Maushold [Family of Four]",
+      "image": "images/pokemon/maushold-four.png"
+    },
+    {
+      "id": "palafin",
+      "name": "イルカマン",
+      "english": "Palafin",
+      "image": "images/pokemon/palafin.png"
+    },
+    {
+      "id": "inteleon",
+      "name": "インテレオン",
+      "english": "Inteleon",
+      "image": "images/pokemon/inteleon.png"
+    },
+    {
+      "id": "arcanine",
+      "name": "ウインディ",
+      "english": "Arcanine",
+      "image": "images/pokemon/arcanine.png"
+    },
+    {
+      "id": "arcanine-hisui",
+      "name": "ウインディ（ヒスイ）",
+      "english": "Hisuian Arcanine",
+      "image": "images/pokemon/arcanine-hisui.png"
+    },
+    {
+      "id": "volcarona",
+      "name": "ウルガモス",
+      "english": "Volcarona",
+      "image": "images/pokemon/volcarona.png"
+    },
+    {
+      "id": "skarmory",
+      "name": "エアームド",
+      "english": "Skarmory",
+      "image": "images/pokemon/skarmory.png"
+    },
+    {
+      "id": "cinderace",
+      "name": "エースバーン",
+      "english": "Cinderace",
+      "image": "images/pokemon/cinderace.png"
+    },
+    {
+      "id": "emolga",
+      "name": "エモンガ",
+      "english": "Emolga",
+      "image": "images/pokemon/emolga.png"
+    },
+    {
+      "id": "whimsicott",
+      "name": "エルフーン",
+      "english": "Whimsicott",
+      "image": "images/pokemon/whimsicott.png"
+    },
+    {
+      "id": "gallade",
+      "name": "エルレイド",
+      "english": "Gallade",
+      "image": "images/pokemon/gallade.png"
+    },
+    {
+      "id": "salazzle",
+      "name": "エンニュート",
+      "english": "Salazzle",
+      "image": "images/pokemon/salazzle.png"
+    },
+    {
+      "id": "emboar",
+      "name": "エンブオー",
+      "english": "Emboar",
+      "image": "images/pokemon/emboar.png"
+    },
+    {
+      "id": "empoleon",
+      "name": "エンペルト",
+      "english": "Empoleon",
+      "image": "images/pokemon/empoleon.png"
+    },
+    {
+      "id": "feraligatr",
+      "name": "オーダイル",
+      "english": "Feraligatr",
+      "image": "images/pokemon/feraligatr.png"
+    },
+    {
+      "id": "sneasler",
+      "name": "オオニューラ",
+      "english": "Sneasler",
+      "image": "images/pokemon/sneasler.png"
+    },
+    {
+      "id": "grimmsnarl",
+      "name": "オーロンゲ",
+      "english": "Grimmsnarl",
+      "image": "images/pokemon/grimmsnarl.png"
+    },
+    {
+      "id": "grapploct",
+      "name": "オトスパス",
+      "english": "Grapploct",
+      "image": "images/pokemon/grapploct.png"
+    },
+    {
+      "id": "araquanid",
+      "name": "オニシズクモ",
+      "english": "Araquanid",
+      "image": "images/pokemon/araquanid.png"
+    },
+    {
+      "id": "noivern",
+      "name": "オンバーン",
+      "english": "Noivern",
+      "image": "images/pokemon/noivern.png"
+    },
+    {
+      "id": "dragonite",
+      "name": "カイリュー",
+      "english": "Dragonite",
+      "image": "images/pokemon/dragonite.png"
+    },
+    {
+      "id": "pinsir",
+      "name": "カイロス",
+      "english": "Pinsir",
+      "image": "images/pokemon/pinsir.png"
+    },
+    {
+      "id": "pyroar",
+      "name": "カエンジシ",
+      "english": "Pyroar",
+      "image": "images/pokemon/pyroar.png"
+    },
+    {
+      "id": "incineroar",
+      "name": "ガオガエン",
+      "english": "Incineroar",
+      "image": "images/pokemon/incineroar.png"
+    },
+    {
+      "id": "tyrantrum",
+      "name": "ガチゴラス",
+      "english": "Tyrantrum",
+      "image": "images/pokemon/tyrantrum.png"
+    },
+    {
+      "id": "hippowdon",
+      "name": "カバルドン",
+      "english": "Hippowdon",
+      "image": "images/pokemon/hippowdon.png"
+    },
+    {
+      "id": "garchomp",
+      "name": "ガブリアス",
+      "english": "Garchomp",
+      "image": "images/pokemon/garchomp.png"
+    },
+    {
+      "id": "hydrapple",
+      "name": "カミツオロチ",
+      "english": "Hydrapple",
+      "image": "images/pokemon/hydrapple.png"
+    },
+    {
+      "id": "blastoise",
+      "name": "カメックス",
+      "english": "Blastoise",
+      "image": "images/pokemon/blastoise.png"
+    },
+    {
+      "id": "barbaracle",
+      "name": "ガメノデス",
+      "english": "Barbaracle",
+      "image": "images/pokemon/barbaracle.png"
+    },
+    {
+      "id": "farfetchd",
+      "name": "カモネギ",
+      "english": "Farfetch'd",
+      "image": "images/pokemon/farfetchd.png"
+    },
+    {
+      "id": "malamar",
+      "name": "カラマネロ",
+      "english": "Malamar",
+      "image": "images/pokemon/malamar.png"
+    },
+    {
+      "id": "kangaskhan",
+      "name": "ガルーラ",
+      "english": "Kangaskhan",
+      "image": "images/pokemon/kangaskhan.png"
+    },
+    {
+      "id": "gyarados",
+      "name": "ギャラドス",
+      "english": "Gyarados",
+      "image": "images/pokemon/gyarados.png"
+    },
+    {
+      "id": "ninetales",
+      "name": "キュウコン",
+      "english": "Ninetales",
+      "image": "images/pokemon/ninetales.png"
+    },
+    {
+      "id": "ninetales-alola",
+      "name": "キュウコン（アローラ）",
+      "english": "Ninetales [Alolan Form]",
+      "image": "images/pokemon/ninetales-alola.png"
+    },
+    {
+      "id": "glimmora",
+      "name": "キラフロル",
+      "english": "Glimmora",
+      "image": "images/pokemon/glimmora.png"
+    },
+    {
+      "id": "aegislash",
+      "name": "ギルガルド",
+      "english": "Aegislash",
+      "image": "images/pokemon/aegislash.png"
+    },
+    {
+      "id": "espathra",
+      "name": "クエスパトラ",
+      "english": "Espathra",
+      "image": "images/pokemon/espathra.png"
+    },
+    {
+      "id": "golisopod",
+      "name": "グソクムシャ",
+      "english": "Golisopod",
+      "image": "images/pokemon/golisopod.png"
+    },
+    {
+      "id": "mawile",
+      "name": "クチート",
+      "english": "Mawile",
+      "image": "images/pokemon/mawile.png"
+    },
+    {
+      "id": "gliscor",
+      "name": "グライオン",
+      "english": "Gliscor",
+      "image": "images/pokemon/gliscor.png"
+    },
+    {
+      "id": "glaceon",
+      "name": "グレイシア",
+      "english": "Glaceon",
+      "image": "images/pokemon/glaceon.png"
+    },
+    {
+      "id": "klefki",
+      "name": "クレッフィ",
+      "english": "Klefki",
+      "image": "images/pokemon/klefki.png"
+    },
+    {
+      "id": "avalugg-hisui",
+      "name": "クレベース（ヒスイ）",
+      "english": "Avalugg [Hisuian Form]",
+      "image": "images/pokemon/avalugg-hisui.png"
+    },
+    {
+      "id": "armarouge",
+      "name": "グレンアルマ",
+      "english": "Armarouge",
+      "image": "images/pokemon/armarouge.png"
+    },
+    {
+      "id": "crabominable",
+      "name": "ケケンカニ",
+      "english": "Crabominable",
+      "image": "images/pokemon/crabominable.png"
+    },
+    {
+      "id": "greninja",
+      "name": "ゲッコウガ",
+      "english": "Greninja",
+      "image": "images/pokemon/greninja.png"
+    },
+    {
+      "id": "gengar",
+      "name": "ゲンガー",
+      "english": "Gengar",
+      "image": "images/pokemon/gengar.png"
+    },
+    {
+      "id": "tauros-paldea-aqua",
+      "name": "ケンタロス（パルデア・ウォーター）",
+      "english": "Tauros [Paldean Form - Aqua Breed]",
+      "image": "images/pokemon/tauros-paldea-aqua.png"
+    },
+    {
+      "id": "infernape",
+      "name": "ゴウカザル",
+      "english": "Infernape",
+      "image": "images/pokemon/infernape.png"
+    },
+    {
+      "id": "torkoal",
+      "name": "コータス",
+      "english": "Torkoal",
+      "image": "images/pokemon/torkoal.png"
+    },
+    {
+      "id": "annihilape",
+      "name": "コノヨザル",
+      "english": "Annihilape",
+      "image": "images/pokemon/annihilape.png"
+    },
+    {
+      "id": "rillaboom",
+      "name": "ゴリランダー",
+      "english": "Rillaboom",
+      "image": "images/pokemon/rillaboom.png"
+    },
+    {
+      "id": "golurk",
+      "name": "ゴルーグ",
+      "english": "Golurk",
+      "image": "images/pokemon/golurk.png"
+    },
+    {
+      "id": "gardevoir",
+      "name": "サーナイト",
+      "english": "Gardevoir",
+      "image": "images/pokemon/gardevoir.png"
+    },
+    {
+      "id": "gholdengo",
+      "name": "サーフゴー",
+      "english": "Gholdengo",
+      "image": "images/pokemon/gholdengo.png"
+    },
+    {
+      "id": "hydreigon",
+      "name": "サザンドラ",
+      "english": "Hydreigon",
+      "image": "images/pokemon/hydreigon.png"
+    },
+    {
+      "id": "jolteon",
+      "name": "サンダース",
+      "english": "Jolteon",
+      "image": "images/pokemon/jolteon.png"
+    },
+    {
+      "id": "drampa",
+      "name": "ジジーロン",
+      "english": "Drampa",
+      "image": "images/pokemon/drampa.png"
+    },
+    {
+      "id": "eelektross",
+      "name": "シビルドン",
+      "english": "Eelektross",
+      "image": "images/pokemon/eelektross.png"
+    },
+    {
+      "id": "kommo-o",
+      "name": "ジャラランガ",
+      "english": "Kommo-o",
+      "image": "images/pokemon/kommo-o.png"
+    },
+    {
+      "id": "chandelure",
+      "name": "シャンデラ",
+      "english": "Chandelure",
+      "image": "images/pokemon/chandelure.png"
+    },
+    {
+      "id": "sceptile",
+      "name": "ジュカイン",
+      "english": "Sceptile",
+      "image": "images/pokemon/sceptile.png"
+    },
+    {
+      "id": "decidueye-hisui",
+      "name": "ジュナイパー（ヒスイ）",
+      "english": "Decidueye [Hisuian Form]",
+      "image": "images/pokemon/decidueye-hisui.png"
+    },
+    {
+      "id": "scovillain",
+      "name": "スコヴィラン",
+      "english": "Scovillain",
+      "image": "images/pokemon/scovillain.png"
+    },
+    {
+      "id": "starmie",
+      "name": "スターミー",
+      "english": "Starmie",
+      "image": "images/pokemon/starmie.png"
+    },
+    {
+      "id": "toxtricity",
+      "name": "ストリンダー（ハイ）",
+      "english": "Toxtricity [Amped Form]",
+      "image": "images/pokemon/toxtricity.png"
+    },
+    {
+      "id": "toxtricity-low-key",
+      "name": "ストリンダー（ロー）",
+      "english": "Toxtricity [Low Key Form]",
+      "image": "images/pokemon/toxtricity-low-key.png"
+    },
+    {
+      "id": "beedrill",
+      "name": "スピアー",
+      "english": "Beedrill",
+      "image": "images/pokemon/beedrill.png"
+    },
+    {
+      "id": "scrafty",
+      "name": "ズルズキン",
+      "english": "Scrafty",
+      "image": "images/pokemon/scrafty.png"
+    },
+    {
+      "id": "baxcalibur",
+      "name": "セグレイブ",
+      "english": "Baxcalibur",
+      "image": "images/pokemon/baxcalibur.png"
+    },
+    {
+      "id": "ceruledge",
+      "name": "ソウブレイズ",
+      "english": "Ceruledge",
+      "image": "images/pokemon/ceruledge.png"
+    },
+    {
+      "id": "zoroark",
+      "name": "ゾロアーク",
+      "english": "Zoroark",
+      "image": "images/pokemon/zoroark.png"
+    },
+    {
+      "id": "zoroark-hisui",
+      "name": "ゾロアーク（ヒスイ）",
+      "english": "Zoroark [Hisuian Form]",
+      "image": "images/pokemon/zoroark-hisui.png"
+    },
+    {
+      "id": "samurott-hisui",
+      "name": "ダイケンキ（ヒスイ）",
+      "english": "Samurott [Hisuian Form]",
+      "image": "images/pokemon/samurott-hisui.png"
+    },
+    {
+      "id": "audino",
+      "name": "タブンネ",
+      "english": "Audino",
+      "image": "images/pokemon/audino.png"
+    },
+    {
+      "id": "chimecho",
+      "name": "チリーン",
+      "english": "Chimecho",
+      "image": "images/pokemon/chimecho.png"
+    },
+    {
+      "id": "altaria",
+      "name": "チルタリス",
+      "english": "Altaria",
+      "image": "images/pokemon/altaria.png"
+    },
+    {
+      "id": "beartic",
+      "name": "ツンベアー",
+      "english": "Beartic",
+      "image": "images/pokemon/beartic.png"
+    },
+    {
+      "id": "tinkaton",
+      "name": "デカヌチャン",
+      "english": "Tinkaton",
+      "image": "images/pokemon/tinkaton.png"
+    },
+    {
+      "id": "cofagrigus",
+      "name": "デスカーン",
+      "english": "Cofagrigus",
+      "image": "images/pokemon/cofagrigus.png"
+    },
+    {
+      "id": "runerigus",
+      "name": "デスバーン",
+      "english": "Runerigus",
+      "image": "images/pokemon/runerigus.png"
+    },
+    {
+      "id": "ampharos",
+      "name": "デンリュウ",
+      "english": "Ampharos",
+      "image": "images/pokemon/ampharos.png"
+    },
+    {
+      "id": "rhyperior",
+      "name": "ドサイドン",
+      "english": "Rhyperior",
+      "image": "images/pokemon/rhyperior.png"
+    },
+    {
+      "id": "torterra",
+      "name": "ドダイトス",
+      "english": "Torterra",
+      "image": "images/pokemon/torterra.png"
+    },
+    {
+      "id": "kingambit",
+      "name": "ドドゲザン",
+      "english": "Kingambit",
+      "image": "images/pokemon/kingambit.png"
+    },
+    {
+      "id": "toxapex",
+      "name": "ドヒドイデ",
+      "english": "Toxapex",
+      "image": "images/pokemon/toxapex.png"
+    },
+    {
+      "id": "dragapult",
+      "name": "ドラパルト",
+      "english": "Dragapult",
+      "image": "images/pokemon/dragapult.png"
+    },
+    {
+      "id": "dragalge",
+      "name": "ドラミドロ",
+      "english": "Dragalge",
+      "image": "images/pokemon/dragalge.png"
+    },
+    {
+      "id": "bastiodon",
+      "name": "トリデプス",
+      "english": "Bastiodon",
+      "image": "images/pokemon/bastiodon.png"
+    },
+    {
+      "id": "excadrill",
+      "name": "ドリュウズ",
+      "english": "Excadrill",
+      "image": "images/pokemon/excadrill.png"
+    },
+    {
+      "id": "meowstic-f",
+      "name": "ニャオニクス♀",
+      "english": "Female Meowstic",
+      "image": "images/pokemon/meowstic-f.png"
+    },
+    {
+      "id": "meowstic",
+      "name": "ニャオニクス♂",
+      "english": "Meowstic [Male]",
+      "image": "images/pokemon/meowstic.png"
+    },
+    {
+      "id": "politoed",
+      "name": "ニョロトノ",
+      "english": "Politoed",
+      "image": "images/pokemon/politoed.png"
+    },
+    {
+      "id": "sylveon",
+      "name": "ニンフィア",
+      "english": "Sylveon",
+      "image": "images/pokemon/sylveon.png"
+    },
+    {
+      "id": "goodra",
+      "name": "ヌメルゴン",
+      "english": "Goodra",
+      "image": "images/pokemon/goodra.png"
+    },
+    {
+      "id": "goodra-hisui",
+      "name": "ヌメルゴン（ヒスイ）",
+      "english": "Goodra [Hisuian Form]",
+      "image": "images/pokemon/goodra-hisui.png"
+    },
+    {
+      "id": "sirfetchd",
+      "name": "ネギガナイト",
+      "english": "Sirfetch'd",
+      "image": "images/pokemon/sirfetchd.png"
+    },
+    {
+      "id": "pawmot",
+      "name": "パーモット",
+      "english": "Pawmot",
+      "image": "images/pokemon/pawmot.png"
+    },
+    {
+      "id": "vanilluxe",
+      "name": "バイバニラ",
+      "english": "Vanilluxe",
+      "image": "images/pokemon/vanilluxe.png"
+    },
+    {
+      "id": "steelix",
+      "name": "ハガネール",
+      "english": "Steelix",
+      "image": "images/pokemon/steelix.png"
+    },
+    {
+      "id": "camerupt",
+      "name": "バクーダ",
+      "english": "Camerupt",
+      "image": "images/pokemon/camerupt.png"
+    },
+    {
+      "id": "typhlosion-hisui",
+      "name": "バクフーン（ヒスイ）",
+      "english": "Typhlosion [Hisuian Form]",
+      "image": "images/pokemon/typhlosion-hisui.png"
+    },
+    {
+      "id": "kleavor",
+      "name": "バサギリ",
+      "english": "Kleavor",
+      "image": "images/pokemon/kleavor.png"
+    },
+    {
+      "id": "blaziken",
+      "name": "バシャーモ",
+      "english": "Blaziken",
+      "image": "images/pokemon/blaziken.png"
+    },
+    {
+      "id": "pincurchin",
+      "name": "バチンウニ",
+      "english": "Pincurchin",
+      "image": "images/pokemon/pincurchin.png"
+    },
+    {
+      "id": "scizor",
+      "name": "ハッサム",
+      "english": "Scizor",
+      "image": "images/pokemon/scizor.png"
+    },
+    {
+      "id": "bellibolt",
+      "name": "ハラバリー",
+      "english": "Bellibolt",
+      "image": "images/pokemon/bellibolt.png"
+    },
+    {
+      "id": "overqwil",
+      "name": "ハリーマン",
+      "english": "Overqwil",
+      "image": "images/pokemon/overqwil.png"
+    },
+    {
+      "id": "mr-rime",
+      "name": "バリコオル",
+      "english": "Mr. Rime",
+      "image": "images/pokemon/mr-rime.png"
+    },
+    {
+      "id": "tyranitar",
+      "name": "バンギラス",
+      "english": "Tyranitar",
+      "image": "images/pokemon/tyranitar.png"
+    },
+    {
+      "id": "mudsdale",
+      "name": "バンバドロ",
+      "english": "Mudsdale",
+      "image": "images/pokemon/mudsdale.png"
+    },
+    {
+      "id": "pikachu",
+      "name": "ピカチュウ",
+      "english": "Pikachu",
+      "image": "images/pokemon/pikachu.png"
+    },
+    {
+      "id": "clefable",
+      "name": "ピクシー",
+      "english": "Clefable",
+      "image": "images/pokemon/clefable.png"
+    },
+    {
+      "id": "pidgeot",
+      "name": "ピジョット",
+      "english": "Pidgeot",
+      "image": "images/pokemon/pidgeot.png"
+    },
+    {
+      "id": "vivillon",
+      "name": "ビビヨン",
+      "english": "Vivillon",
+      "image": "images/pokemon/vivillon.png"
+    },
+    {
+      "id": "talonflame",
+      "name": "ファイアロー",
+      "english": "Talonflame",
+      "image": "images/pokemon/talonflame.png"
+    },
+    {
+      "id": "alakazam",
+      "name": "フーディン",
+      "english": "Alakazam",
+      "image": "images/pokemon/alakazam.png"
+    },
+    {
+      "id": "forretress",
+      "name": "フォレトス",
+      "english": "Forretress",
+      "image": "images/pokemon/forretress.png"
+    },
+    {
+      "id": "venusaur",
+      "name": "フシギバナ",
+      "english": "Venusaur",
+      "image": "images/pokemon/venusaur.png"
+    },
+    {
+      "id": "aerodactyl",
+      "name": "プテラ",
+      "english": "Aerodactyl",
+      "image": "images/pokemon/aerodactyl.png"
+    },
+    {
+      "id": "floette-eternal",
+      "name": "フラエッテ（えいえんのはな）",
+      "english": "Eternal Flower Floette",
+      "image": "images/pokemon/floette-eternal.png"
+    },
+    {
+      "id": "umbreon",
+      "name": "ブラッキー",
+      "english": "Umbreon",
+      "image": "images/pokemon/umbreon.png"
+    },
+    {
+      "id": "chesnaught",
+      "name": "ブリガロン",
+      "english": "Chesnaught",
+      "image": "images/pokemon/chesnaught.png"
+    },
+    {
+      "id": "archaludon",
+      "name": "ブリジュラス",
+      "english": "Archaludon",
+      "image": "images/pokemon/archaludon.png"
+    },
+    {
+      "id": "hatterene",
+      "name": "ブリムオン",
+      "english": "Hatterene",
+      "image": "images/pokemon/hatterene.png"
+    },
+    {
+      "id": "aromatisse",
+      "name": "フレフワン",
+      "english": "Aromatisse",
+      "image": "images/pokemon/aromatisse.png"
+    },
+    {
+      "id": "clawitzer",
+      "name": "ブロスター",
+      "english": "Clawitzer",
+      "image": "images/pokemon/clawitzer.png"
+    },
+    {
+      "id": "heracross",
+      "name": "ヘラクロス",
+      "english": "Heracross",
+      "image": "images/pokemon/heracross.png"
+    },
+    {
+      "id": "pelipper",
+      "name": "ペリッパー",
+      "english": "Pelipper",
+      "image": "images/pokemon/pelipper.png"
+    },
+    {
+      "id": "houndoom",
+      "name": "ヘルガー",
+      "english": "Houndoom",
+      "image": "images/pokemon/houndoom.png"
+    },
+    {
+      "id": "persian-alola",
+      "name": "ペルシアン（アローラ）",
+      "english": "Persian [Alolan Form]",
+      "image": "images/pokemon/persian-alola.png"
+    },
+    {
+      "id": "scolipede",
+      "name": "ペンドラー",
+      "english": "Scolipede",
+      "image": "images/pokemon/scolipede.png"
+    },
+    {
+      "id": "salamence",
+      "name": "ボーマンダ",
+      "english": "Salamence",
+      "image": "images/pokemon/salamence.png"
+    },
+    {
+      "id": "aggron",
+      "name": "ボスゴドラ",
+      "english": "Aggron",
+      "image": "images/pokemon/aggron.png"
+    },
+    {
+      "id": "meowscarada",
+      "name": "マスカーニャ",
+      "english": "Meowscarada",
+      "image": "images/pokemon/meowscarada.png"
+    },
+    {
+      "id": "weavile",
+      "name": "マニューラ",
+      "english": "Weavile",
+      "image": "images/pokemon/weavile.png"
+    },
+    {
+      "id": "delphox",
+      "name": "マフォクシー",
+      "english": "Delphox",
+      "image": "images/pokemon/delphox.png"
+    },
+    {
+      "id": "alcremie",
+      "name": "マホイップ",
+      "english": "Alcremie",
+      "image": "images/pokemon/alcremie.png"
+    },
+    {
+      "id": "azumarill",
+      "name": "マリルリ",
+      "english": "Azumarill",
+      "image": "images/pokemon/azumarill.png"
+    },
+    {
+      "id": "mamoswine",
+      "name": "マンムー",
+      "english": "Mamoswine",
+      "image": "images/pokemon/mamoswine.png"
+    },
+    {
+      "id": "spiritomb",
+      "name": "ミカルゲ",
+      "english": "Spiritomb",
+      "image": "images/pokemon/spiritomb.png"
+    },
+    {
+      "id": "orthworm",
+      "name": "ミミズズ",
+      "english": "Orthworm",
+      "image": "images/pokemon/orthworm.png"
+    },
+    {
+      "id": "mimikyu",
+      "name": "ミミッキュ",
+      "english": "Mimikyu",
+      "image": "images/pokemon/mimikyu.png"
+    },
+    {
+      "id": "lopunny",
+      "name": "ミミロップ",
+      "english": "Lopunny",
+      "image": "images/pokemon/lopunny.png"
+    },
+    {
+      "id": "milotic",
+      "name": "ミロカロス",
+      "english": "Milotic",
+      "image": "images/pokemon/milotic.png"
+    },
+    {
+      "id": "staraptor",
+      "name": "ムクホーク",
+      "english": "Staraptor",
+      "image": "images/pokemon/staraptor.png"
+    },
+    {
+      "id": "musharna",
+      "name": "ムシャーナ",
+      "english": "Musharna",
+      "image": "images/pokemon/musharna.png"
+    },
+    {
+      "id": "meganium",
+      "name": "メガニウム",
+      "english": "Meganium",
+      "image": "images/pokemon/meganium.png"
+    },
+    {
+      "id": "metagross",
+      "name": "メタグロス",
+      "english": "Metagross",
+      "image": "images/pokemon/metagross.png"
+    },
+    {
+      "id": "ditto",
+      "name": "メタモン",
+      "english": "Ditto",
+      "image": "images/pokemon/ditto.png"
+    },
+    {
+      "id": "morpeko",
+      "name": "モルペコ",
+      "english": "Morpeko",
+      "image": "images/pokemon/morpeko.png"
+    },
+    {
+      "id": "slowbro",
+      "name": "ヤドラン",
+      "english": "Slowbro",
+      "image": "images/pokemon/slowbro.png"
+    },
+    {
+      "id": "slowbro-galar",
+      "name": "ヤドラン（ガラル）",
+      "english": "Slowbro [Galarian Form]",
+      "image": "images/pokemon/slowbro-galar.png"
+    },
+    {
+      "id": "sinistcha",
+      "name": "ヤバソチャ",
+      "english": "Sinistcha",
+      "image": "images/pokemon/sinistcha.png"
+    },
+    {
+      "id": "sableye",
+      "name": "ヤミラミ",
+      "english": "Sableye",
+      "image": "images/pokemon/sableye.png"
+    },
+    {
+      "id": "oranguru",
+      "name": "ヤレユータン",
+      "english": "Oranguru",
+      "image": "images/pokemon/oranguru.png"
+    },
+    {
+      "id": "abomasnow",
+      "name": "ユキノオー",
+      "english": "Abomasnow",
+      "image": "images/pokemon/abomasnow.png"
+    },
+    {
+      "id": "froslass",
+      "name": "ユキメノコ",
+      "english": "Froslass",
+      "image": "images/pokemon/froslass.png"
+    },
+    {
+      "id": "raichu",
+      "name": "ライチュウ",
+      "english": "Raichu",
+      "image": "images/pokemon/raichu.png"
+    },
+    {
+      "id": "raichu-alola",
+      "name": "ライチュウ（アローラ）",
+      "english": "Raichu [Alolan Form]",
+      "image": "images/pokemon/raichu-alola.png"
+    },
+    {
+      "id": "manectric",
+      "name": "ライボルト",
+      "english": "Manectric",
+      "image": "images/pokemon/manectric.png"
+    },
+    {
+      "id": "skeledirge",
+      "name": "ラウドボーン",
+      "english": "Skeledirge",
+      "image": "images/pokemon/skeledirge.png"
+    },
+    {
+      "id": "swampert",
+      "name": "ラグラージ",
+      "english": "Swampert",
+      "image": "images/pokemon/swampert.png"
+    },
+    {
+      "id": "vileplume",
+      "name": "ラフレシア",
+      "english": "Vileplume",
+      "image": "images/pokemon/vileplume.png"
+    },
+    {
+      "id": "farigiraf",
+      "name": "リキキリン",
+      "english": "Farigiraf",
+      "image": "images/pokemon/farigiraf.png"
+    },
+    {
+      "id": "charizard",
+      "name": "リザードン",
+      "english": "Charizard",
+      "image": "images/pokemon/charizard.png"
+    },
+    {
+      "id": "lucario",
+      "name": "ルカリオ",
+      "english": "Lucario",
+      "image": "images/pokemon/lucario.png"
+    },
+    {
+      "id": "lycanroc-dusk",
+      "name": "ルガルガン（たそがれ）",
+      "english": "Lycanroc [Dusk Form]",
+      "image": "images/pokemon/lycanroc-dusk.png"
+    },
+    {
+      "id": "hawlucha",
+      "name": "ルチャブル",
+      "english": "Hawlucha",
+      "image": "images/pokemon/hawlucha.png"
+    },
+    {
+      "id": "conkeldurr",
+      "name": "ローブシン",
+      "english": "Conkeldurr",
+      "image": "images/pokemon/conkeldurr.png"
+    },
+    {
+      "id": "rotom-wash",
+      "name": "ロトム（ウォッシュ）",
+      "english": "Rotom [Wash Rotom]",
+      "image": "images/pokemon/rotom-wash.png"
+    },
+    {
+      "id": "rotom-mow",
+      "name": "ロトム（カット）",
+      "english": "Rotom [Mow Rotom]",
+      "image": "images/pokemon/rotom-mow.png"
+    },
+    {
+      "id": "rotom-heat",
+      "name": "ロトム（ヒート）",
+      "english": "Rotom [Heat Rotom]",
+      "image": "images/pokemon/rotom-heat.png"
+    },
+    {
+      "id": "krookodile",
+      "name": "ワルビアル",
+      "english": "Krookodile",
+      "image": "images/pokemon/krookodile.png"
+    }
+  ]
+}
