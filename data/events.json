@@ -81,7 +81,7 @@
             ],
             "name": "ガブリアス",
             "image_local": "images/pokemon/garchomp.png",
-            "item_ja": "Garchompite Z",
+            "item_ja": "ガブリアスナイトＺ",
             "ability_ja": "さめはだ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
@@ -159,7 +159,7 @@
             ],
             "name": "ライチュウ",
             "image_local": "images/pokemon/raichu.png",
-            "item_ja": "Raichunite Y",
+            "item_ja": "ライチュウナイトＹ",
             "ability_ja": "ひらいしん",
             "nature_ja": "おくびょう",
             "moves_ja": [
@@ -192,12 +192,12 @@
             "name": "リキキリン",
             "image_local": "images/pokemon/farigiraf.png",
             "item_ja": "オボンのみ",
-            "ability_ja": "Armor Tail",
+            "ability_ja": "テイルアーマー",
             "nature_ja": "なまいき",
             "moves_ja": [
-              "Psychic",
-              "Trick Room",
-              "Helping Hand",
+              "サイコキネシス",
+              "トリックルーム",
+              "てだすけ",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -217,7 +217,7 @@
             ],
             "name": "ガブリアス",
             "image_local": "images/pokemon/garchomp.png",
-            "item_ja": "Garchompite Z",
+            "item_ja": "ガブリアスナイトＺ",
             "ability_ja": "さめはだ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
@@ -248,7 +248,7 @@
             "nature_ja": "いじっぱり",
             "moves_ja": [
               "インファイト",
-              "Gunk Shot",
+              "ダストシュート",
               "ねこだまし",
               "まもる"
             ],
@@ -270,10 +270,10 @@
             "name": "コータス",
             "image_local": "images/pokemon/torkoal.png",
             "item_ja": "もくたん",
-            "ability_ja": "Drought",
+            "ability_ja": "ひでり",
             "nature_ja": "れいせい",
             "moves_ja": [
-              "Eruption",
+              "ふんか",
               "だいちのちから",
               "ウェザーボール",
               "まもる"
@@ -296,13 +296,13 @@
             "name": "ニンフィア",
             "image_local": "images/pokemon/sylveon.png",
             "item_ja": "ようせいのハネ",
-            "ability_ja": "Pixilate",
+            "ability_ja": "フェアリースキン",
             "nature_ja": "ひかえめ",
             "moves_ja": [
               "ハイパーボイス",
-              "Hyper Beam",
-              "Yawn",
-              "Detect"
+              "はかいこうせん",
+              "あくび",
+              "みきり"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -359,7 +359,7 @@
             "moves_ja": [
               "ねっぷう",
               "ウェザーボール",
-              "Ancient Power",
+              "げんしのちから",
               "まもる"
             ],
             "role": "炎・飛行技で攻撃範囲を補完"
@@ -380,11 +380,11 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "ヨプのみ",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Kowtow Cleave",
-              "Sucker Punch",
+              "ドゲザン",
+              "ふいうち",
               "アイアンヘッド",
               "まもる"
             ],
@@ -405,12 +405,12 @@
             ],
             "name": "ニャオニクス♀",
             "image_local": "images/pokemon/meowstic-f.png",
-            "item_ja": "Meowsticite",
-            "ability_ja": "Competitive",
+            "item_ja": "ニャオニクスナイト",
+            "ability_ja": "かちき",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ワイドフォース",
-              "Thunderbolt",
+              "10まんボルト",
               "ねこだまし",
               "まもる"
             ],
@@ -462,9 +462,9 @@
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ワイドフォース",
-              "Energy Ball",
-              "Imprison",
-              "Trick Room"
+              "エナジーボール",
+              "ふういん",
+              "トリックルーム"
             ],
             "role": "サイコメイカー・トリックを採用"
           },
@@ -484,12 +484,12 @@
             "name": "ジャラランガ",
             "image_local": "images/pokemon/kommo-o.png",
             "item_ja": "たべのこし",
-            "ability_ja": "Soundproof",
+            "ability_ja": "ぼうおん",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Clanging Scales",
-              "Aura Sphere",
-              "Clangorous Soul",
+              "スケイルノイズ",
+              "はどうだん",
+              "ソウルビート",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -541,8 +541,8 @@
             ],
             "name": "カイリュー",
             "image_local": "images/pokemon/dragonite.png",
-            "item_ja": "Dragoninite",
-            "ability_ja": "Inner Focus",
+            "item_ja": "カイリュナイト",
+            "ability_ja": "せいしんりょく",
             "nature_ja": "ひかえめ",
             "moves_ja": [
               "りゅうのはどう",
@@ -572,7 +572,7 @@
             "nature_ja": "わんぱく",
             "moves_ja": [
               "フレアドライブ",
-              "Throat Chop",
+              "じごくづき",
               "すてゼリフ",
               "ねこだまし"
             ],
@@ -625,7 +625,7 @@
             "moves_ja": [
               "インファイト",
               "フェイタルクロー",
-              "Rock Tomb",
+              "がんせきふうじ",
               "まもる"
             ],
             "role": "かるわざ・コーチングを採用"
@@ -645,13 +645,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ずぶとい",
             "moves_ja": [
-              "Draining Kiss",
-              "Dazzling Gleam",
-              "Calm Mind",
+              "ドレインキッス",
+              "マジカルシャイン",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -678,7 +678,7 @@
             "name": "ビビヨン",
             "image_local": "images/pokemon/vivillon.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Compound Eyes",
+            "ability_ja": "ふくがん",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ねむりごな",
@@ -708,8 +708,8 @@
             "nature_ja": "おだやか",
             "moves_ja": [
               "ウェザーボール",
-              "Perish Song",
-              "Encore",
+              "ほろびのうた",
+              "アンコール",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -730,12 +730,12 @@
             "name": "ゲンガー",
             "image_local": "images/pokemon/gengar.png",
             "item_ja": "ゲンガナイト",
-            "ability_ja": "Cursed Body",
+            "ability_ja": "のろわれボディ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
               "シャドーボール",
               "ヘドロばくだん",
-              "Perish Song",
+              "ほろびのうた",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -808,12 +808,12 @@
             "name": "ジャラランガ",
             "image_local": "images/pokemon/kommo-o.png",
             "item_ja": "たべのこし",
-            "ability_ja": "Soundproof",
+            "ability_ja": "ぼうおん",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Clanging Scales",
-              "Clangorous Soul",
-              "Aura Sphere",
+              "スケイルノイズ",
+              "ソウルビート",
+              "はどうだん",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -840,13 +840,13 @@
             "name": "ドヒドイデ",
             "image_local": "images/pokemon/toxapex.png",
             "item_ja": "たべのこし",
-            "ability_ja": "Regenerator",
+            "ability_ja": "さいせいりょく",
             "nature_ja": "のんき",
             "moves_ja": [
-              "Baneful Bunker",
+              "トーチカ",
               "ワイドガード",
-              "Toxic",
-              "Infestation"
+              "どくどく",
+              "まとわりつく"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -866,13 +866,13 @@
             "name": "ニンフィア",
             "image_local": "images/pokemon/sylveon.png",
             "item_ja": "ようせいのハネ",
-            "ability_ja": "Pixilate",
+            "ability_ja": "フェアリースキン",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Detect",
-              "Yawn",
+              "みきり",
+              "あくび",
               "ハイパーボイス",
-              "Quick Attack"
+              "でんこうせっか"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -895,9 +895,9 @@
             "ability_ja": "さめはだ",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Dragon Claw",
-              "Earthquake",
-              "Stomping Tantrum",
+              "ドラゴンクロー",
+              "じしん",
+              "じだんだ",
               "いわなだれ"
             ],
             "role": "特殊技で攻撃範囲を補完"
@@ -924,7 +924,7 @@
               "ねこだまし",
               "すてゼリフ",
               "フレアドライブ",
-              "Throat Chop"
+              "じごくづき"
             ],
             "role": "いかく・ねこだましで盤面調整"
           },
@@ -976,7 +976,7 @@
               "まもる",
               "ねっぷう",
               "ウェザーボール",
-              "Ancient Power"
+              "げんしのちから"
             ],
             "role": "炎・飛行技で攻撃範囲を補完"
           }
@@ -1001,14 +1001,14 @@
             ],
             "name": "ユキメノコ",
             "image_local": "images/pokemon/froslass.png",
-            "item_ja": "Froslassite",
-            "ability_ja": "Cursed Body",
+            "item_ja": "ユキメノコナイト",
+            "ability_ja": "のろわれボディ",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "まもる",
-              "Blizzard",
+              "ふぶき",
               "シャドーボール",
-              "Aurora Veil"
+              "オーロラベール"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -1054,13 +1054,13 @@
             "name": "イダイトウ",
             "image_local": "images/pokemon/basculegion.png",
             "item_ja": "こだわりスカーフ",
-            "ability_ja": "Adaptability",
+            "ability_ja": "てきおうりょく",
             "nature_ja": "ようき",
             "moves_ja": [
-              "Wave Crash",
-              "Last Respects",
-              "Flip Turn",
-              "Aqua Jet"
+              "ウェーブタックル",
+              "おはかまいり",
+              "クイックターン",
+              "アクアジェット"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -1079,11 +1079,11 @@
             ],
             "name": "キラフロル",
             "image_local": "images/pokemon/glimmora.png",
-            "item_ja": "Glimmoranite",
-            "ability_ja": "Toxic Debris",
+            "item_ja": "キラフロルナイト",
+            "ability_ja": "どくげしょう",
             "nature_ja": "おくびょう",
             "moves_ja": [
-              "Spiky Shield",
+              "ニードルガード",
               "ヘドロばくだん",
               "パワージェム",
               "だいちのちから"
@@ -1137,8 +1137,8 @@
             "moves_ja": [
               "まもる",
               "ねっぷう",
-              "Giga Drain",
-              "Quiver Dance"
+              "ギガドレイン",
+              "ちょうのまい"
             ],
             "role": "いかりのこな・おいかぜで補助"
           }
@@ -1163,13 +1163,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Dazzling Gleam",
-              "Draining Kiss",
-              "Calm Mind",
+              "マジカルシャイン",
+              "ドレインキッス",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -1220,7 +1220,7 @@
             "nature_ja": "わんぱく",
             "moves_ja": [
               "フレアドライブ",
-              "Taunt",
+              "ちょうはつ",
               "すてゼリフ",
               "ねこだまし"
             ],
@@ -1241,8 +1241,8 @@
             ],
             "name": "カイリュー",
             "image_local": "images/pokemon/dragonite.png",
-            "item_ja": "Dragoninite",
-            "ability_ja": "Inner Focus",
+            "item_ja": "カイリュナイト",
+            "ability_ja": "せいしんりょく",
             "nature_ja": "ひかえめ",
             "moves_ja": [
               "りゅうのはどう",
@@ -1299,7 +1299,7 @@
             "moves_ja": [
               "フェイタルクロー",
               "インファイト",
-              "Rock Tomb",
+              "がんせきふうじ",
               "まもる"
             ],
             "role": "かるわざ・コーチングを採用"
@@ -1447,7 +1447,7 @@
             ],
             "name": "ガブリアス",
             "image_local": "images/pokemon/garchomp.png",
-            "item_ja": "Garchompite Z",
+            "item_ja": "ガブリアスナイトＺ",
             "ability_ja": "さめはだ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
@@ -1505,14 +1505,14 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Moonblast",
+              "ムーンフォース",
               "まもる",
-              "Calm Mind",
-              "Dazzling Gleam"
+              "めいそう",
+              "マジカルシャイン"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -1532,12 +1532,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "ヨプのみ",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Sucker Punch",
+              "ふいうち",
               "まもる",
-              "Kowtow Cleave",
+              "ドゲザン",
               "アイアンヘッド"
             ],
             "role": "公開チーム情報を参照"
@@ -1558,13 +1558,13 @@
             "name": "イダイトウ",
             "image_local": "images/pokemon/basculegion.png",
             "item_ja": "ナモのみ",
-            "ability_ja": "Adaptability",
+            "ability_ja": "てきおうりょく",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Last Respects",
-              "Aqua Jet",
+              "おはかまいり",
+              "アクアジェット",
               "まもる",
-              "Wave Crash"
+              "ウェーブタックル"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -1636,7 +1636,7 @@
             "name": "オオニューラ",
             "image_local": "images/pokemon/sneasler.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Poison Touch",
+            "ability_ja": "どくしゅ",
             "nature_ja": "ようき",
             "moves_ja": [
               "まもる",
@@ -1671,8 +1671,8 @@
             "ability_ja": "さめはだ",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Stomping Tantrum",
-              "Scale Shot",
+              "じだんだ",
+              "スケイルショット",
               "まもる",
               "いわなだれ"
             ],
@@ -1694,7 +1694,7 @@
             "name": "オオニューラ",
             "image_local": "images/pokemon/sneasler.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Poison Touch",
+            "ability_ja": "どくしゅ",
             "nature_ja": "ようき",
             "moves_ja": [
               "フェイタルクロー",
@@ -1719,13 +1719,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "おくびょう",
             "moves_ja": [
-              "Dazzling Gleam",
-              "Draining Kiss",
-              "Calm Mind",
+              "マジカルシャイン",
+              "ドレインキッス",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -1752,7 +1752,7 @@
               "フレアドライブ",
               "ねこだまし",
               "すてゼリフ",
-              "Helping Hand"
+              "てだすけ"
             ],
             "role": "いかく・ねこだましで盤面調整"
           },
@@ -1798,12 +1798,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "いのちのたま",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Kowtow Cleave",
-              "Swords Dance",
-              "Sucker Punch",
+              "ドゲザン",
+              "つるぎのまい",
+              "ふいうち",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -1856,13 +1856,13 @@
             "name": "イダイトウ",
             "image_local": "images/pokemon/basculegion.png",
             "item_ja": "こだわりスカーフ",
-            "ability_ja": "Adaptability",
+            "ability_ja": "てきおうりょく",
             "nature_ja": "ようき",
             "moves_ja": [
-              "Wave Crash",
-              "Last Respects",
-              "Flip Turn",
-              "Aqua Jet"
+              "ウェーブタックル",
+              "おはかまいり",
+              "クイックターン",
+              "アクアジェット"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -1881,13 +1881,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Moonblast",
-              "Dazzling Gleam",
-              "Calm Mind",
+              "ムーンフォース",
+              "マジカルシャイン",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -1964,7 +1964,7 @@
             "nature_ja": "しんちょう",
             "moves_ja": [
               "フレアドライブ",
-              "Snarl",
+              "バークアウト",
               "ねこだまし",
               "すてゼリフ"
             ],
@@ -2018,12 +2018,12 @@
             "name": "ゲンガー",
             "image_local": "images/pokemon/gengar.png",
             "item_ja": "ゲンガナイト",
-            "ability_ja": "Cursed Body",
+            "ability_ja": "のろわれボディ",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "まもる",
               "ヘドロばくだん",
-              "Substitute",
+              "みがわり",
               "シャドーボール"
             ],
             "role": "公開チーム情報を参照"
@@ -2070,12 +2070,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "いのちのたま",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Kowtow Cleave",
-              "Sucker Punch",
-              "Swords Dance",
+              "ドゲザン",
+              "ふいうち",
+              "つるぎのまい",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -2121,13 +2121,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Calm Mind",
-              "Draining Kiss",
-              "Dazzling Gleam",
+              "めいそう",
+              "ドレインキッス",
+              "マジカルシャイン",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -2157,10 +2157,10 @@
             "ability_ja": "いかく",
             "nature_ja": "しんちょう",
             "moves_ja": [
-              "Double-Edge",
+              "すてみタックル",
               "おいかぜ",
               "はねやすめ",
-              "Rain Dance"
+              "あまごい"
             ],
             "role": "ハイパーボイスを持つ特殊アタッカー"
           },
@@ -2180,13 +2180,13 @@
             "name": "グレンアルマ",
             "image_local": "images/pokemon/armarouge.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Weak Armor",
+            "ability_ja": "くだけるよろい",
             "nature_ja": "おくびょう",
             "moves_ja": [
-              "Armor Cannon",
+              "アーマーキャノン",
               "ワイドフォース",
               "ワイドガード",
-              "Sunny Day"
+              "にほんばれ"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -2210,9 +2210,9 @@
             "nature_ja": "いじっぱり",
             "moves_ja": [
               "まもる",
-              "Swords Dance",
+              "つるぎのまい",
               "インファイト",
-              "Throat Chop"
+              "じごくづき"
             ],
             "role": "かるわざ・コーチングを採用"
           },
@@ -2235,10 +2235,10 @@
             "ability_ja": "サイコメイカー",
             "nature_ja": "のんき",
             "moves_ja": [
-              "Psyshock",
-              "Follow Me",
-              "Baton Pass",
-              "Trick Room"
+              "サイコショック",
+              "このゆびとまれ",
+              "バトンタッチ",
+              "トリックルーム"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -2262,9 +2262,9 @@
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ウェザーボール",
-              "Muddy Water",
-              "Ice Beam",
-              "Icy Wind"
+              "だくりゅう",
+              "れいとうビーム",
+              "こごえるかぜ"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -2290,7 +2290,7 @@
               "まもる",
               "エレクトロビーム",
               "りゅうのはどう",
-              "Snarl"
+              "バークアウト"
             ],
             "role": "雨と組み合わせる特殊アタッカー"
           }
@@ -2316,12 +2316,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Sucker Punch",
+              "ふいうち",
               "アイアンヘッド",
-              "Kowtow Cleave",
+              "ドゲザン",
               "けたぐり"
             ],
             "role": "公開チーム情報を参照"
@@ -2367,7 +2367,7 @@
             ],
             "name": "ガブリアス",
             "image_local": "images/pokemon/garchomp.png",
-            "item_ja": "Garchompite Z",
+            "item_ja": "ガブリアスナイトＺ",
             "ability_ja": "さめはだ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
@@ -2393,13 +2393,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "おくびょう",
             "moves_ja": [
-              "Moonblast",
-              "Dazzling Gleam",
-              "Calm Mind",
+              "ムーンフォース",
+              "マジカルシャイン",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -2582,13 +2582,13 @@
             "name": "ラグラージ",
             "image_local": "images/pokemon/swampert.png",
             "item_ja": "ラグラージナイト",
-            "ability_ja": "Torrent",
+            "ability_ja": "げきりゅう",
             "nature_ja": "いじっぱり",
             "moves_ja": [
               "まもる",
-              "Ice Punch",
-              "Wave Crash",
-              "Earthquake"
+              "れいとうパンチ",
+              "ウェーブタックル",
+              "じしん"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -2819,12 +2819,12 @@
             ],
             "name": "グソクムシャ",
             "image_local": "images/pokemon/golisopod.png",
-            "item_ja": "Golisopite",
-            "ability_ja": "Emergency Exit",
+            "item_ja": "グソクムシャナイト",
+            "ability_ja": "ききかいひ",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Leech Life",
-              "Drill Run",
+              "きゅうけつ",
+              "ドリルライナー",
               "アイアンヘッド",
               "まもる"
             ],
@@ -2875,8 +2875,8 @@
             "ability_ja": "あめふらし",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Muddy Water",
-              "Ice Beam",
+              "だくりゅう",
+              "れいとうビーム",
               "ウェザーボール",
               "まもる"
             ],
@@ -2902,7 +2902,7 @@
             "nature_ja": "ずぶとい",
             "moves_ja": [
               "りゅうのはどう",
-              "Snarl",
+              "バークアウト",
               "エレクトロビーム",
               "まもる"
             ],
@@ -2950,13 +2950,13 @@
             "name": "リキキリン",
             "image_local": "images/pokemon/farigiraf.png",
             "item_ja": "オボンのみ",
-            "ability_ja": "Armor Tail",
+            "ability_ja": "テイルアーマー",
             "nature_ja": "ずぶとい",
             "moves_ja": [
-              "Psychic",
-              "Trick Room",
+              "サイコキネシス",
+              "トリックルーム",
               "まもる",
-              "Grass Knot"
+              "くさむすび"
             ],
             "role": "公開チーム情報を参照"
           }
@@ -3037,9 +3037,9 @@
             "ability_ja": "あめふらし",
             "nature_ja": "おだやか",
             "moves_ja": [
-              "Perish Song",
+              "ほろびのうた",
               "ウェザーボール",
-              "Encore",
+              "アンコール",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3060,7 +3060,7 @@
             "name": "ビビヨン",
             "image_local": "images/pokemon/vivillon.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Compound Eyes",
+            "ability_ja": "ふくがん",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ねむりごな",
@@ -3112,12 +3112,12 @@
             "name": "ゲンガー",
             "image_local": "images/pokemon/gengar.png",
             "item_ja": "ゲンガナイト",
-            "ability_ja": "Cursed Body",
+            "ability_ja": "のろわれボディ",
             "nature_ja": "ひかえめ",
             "moves_ja": [
               "シャドーボール",
               "ヘドロばくだん",
-              "Perish Song",
+              "ほろびのうた",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3170,12 +3170,12 @@
             "name": "ウインディ（ヒスイ）",
             "image_local": "images/pokemon/arcanine-hisui.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Rock Head",
+            "ability_ja": "いしあたま",
             "nature_ja": "ようき",
             "moves_ja": [
               "フレアドライブ",
-              "Head Smash",
-              "Extreme Speed",
+              "もろはのずつき",
+              "しんそく",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3201,8 +3201,8 @@
             "moves_ja": [
               "ワイドフォース",
               "トリック",
-              "Trick Room",
-              "Imprison"
+              "トリックルーム",
+              "ふういん"
             ],
             "role": "サイコメイカー・トリックを採用"
           },
@@ -3222,12 +3222,12 @@
             "name": "ミロカロス",
             "image_local": "images/pokemon/milotic.png",
             "item_ja": "たべのこし",
-            "ability_ja": "Competitive",
+            "ability_ja": "かちき",
             "nature_ja": "おだやか",
             "moves_ja": [
-              "Scald",
-              "Ice Beam",
-              "Icy Wind",
+              "ねっとう",
+              "れいとうビーム",
+              "こごえるかぜ",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3248,12 +3248,12 @@
             "name": "メタグロス",
             "image_local": "images/pokemon/metagross.png",
             "item_ja": "メタグロスナイト",
-            "ability_ja": "Clear Body",
+            "ability_ja": "クリアボディ",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Steel Roller",
-              "Psychic Fangs",
-              "Body Press",
+              "アイアンローラー",
+              "サイコファング",
+              "ボディプレス",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3277,7 +3277,7 @@
             "ability_ja": "かるわざ",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Throat Chop",
+              "じごくづき",
               "インファイト",
               "いわなだれ",
               "まもる"
@@ -3306,13 +3306,13 @@
             "name": "ミロカロス",
             "image_local": "images/pokemon/milotic.png",
             "item_ja": "オボンのみ",
-            "ability_ja": "Competitive",
+            "ability_ja": "かちき",
             "nature_ja": "おだやか",
             "moves_ja": [
-              "Coil",
-              "Hypnosis",
-              "Ice Beam",
-              "Muddy Water"
+              "とぐろをまく",
+              "さいみんじゅつ",
+              "れいとうビーム",
+              "だくりゅう"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -3331,7 +3331,7 @@
             ],
             "name": "ライチュウ",
             "image_local": "images/pokemon/raichu.png",
-            "item_ja": "Raichunite Y",
+            "item_ja": "ライチュウナイトＹ",
             "ability_ja": "ひらいしん",
             "nature_ja": "おくびょう",
             "moves_ja": [
@@ -3358,13 +3358,13 @@
             "name": "ソウブレイズ",
             "image_local": "images/pokemon/ceruledge.png",
             "item_ja": "グラスシード",
-            "ability_ja": "Flash Fire",
+            "ability_ja": "もらいび",
             "nature_ja": "いじっぱり",
             "moves_ja": [
               "まもる",
-              "Bitter Blade",
-              "Swords Dance",
-              "Shadow Sneak"
+              "むねんのつるぎ",
+              "つるぎのまい",
+              "かげうち"
             ],
             "role": "公開チーム情報を参照"
           },
@@ -3383,7 +3383,7 @@
             ],
             "name": "ムクホーク",
             "image_local": "images/pokemon/staraptor.png",
-            "item_ja": "Staraptite",
+            "item_ja": "ムクホークナイト",
             "ability_ja": "いかく",
             "nature_ja": "ようき",
             "moves_ja": [
@@ -3467,13 +3467,13 @@
             ],
             "name": "ユキメノコ",
             "image_local": "images/pokemon/froslass.png",
-            "item_ja": "Froslassite",
-            "ability_ja": "Cursed Body",
+            "item_ja": "ユキメノコナイト",
+            "ability_ja": "のろわれボディ",
             "nature_ja": "おくびょう",
             "moves_ja": [
-              "Blizzard",
+              "ふぶき",
               "シャドーボール",
-              "Aurora Veil",
+              "オーロラベール",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3493,13 +3493,13 @@
             ],
             "name": "ライチュウ",
             "image_local": "images/pokemon/raichu.png",
-            "item_ja": "Raichunite Y",
+            "item_ja": "ライチュウナイトＹ",
             "ability_ja": "ひらいしん",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "でんじほう",
               "きあいだま",
-              "Encore",
+              "アンコール",
               "まもる"
             ],
             "role": "ねこだましと特殊技を採用"
@@ -3546,12 +3546,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "いのちのたま",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Kowtow Cleave",
-              "Sucker Punch",
-              "Swords Dance",
+              "ドゲザン",
+              "ふいうち",
+              "つるぎのまい",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3598,12 +3598,12 @@
             "name": "ウインディ（ヒスイ）",
             "image_local": "images/pokemon/arcanine-hisui.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Rock Head",
+            "ability_ja": "いしあたま",
             "nature_ja": "ようき",
             "moves_ja": [
               "フレアドライブ",
-              "Head Smash",
-              "Extreme Speed",
+              "もろはのずつき",
+              "しんそく",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3630,12 +3630,12 @@
             "name": "ウインディ（ヒスイ）",
             "image_local": "images/pokemon/arcanine-hisui.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Rock Head",
+            "ability_ja": "いしあたま",
             "nature_ja": "ようき",
             "moves_ja": [
               "フレアドライブ",
-              "Head Smash",
-              "Extreme Speed",
+              "もろはのずつき",
+              "しんそく",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3707,7 +3707,7 @@
             ],
             "name": "ムクホーク",
             "image_local": "images/pokemon/staraptor.png",
-            "item_ja": "Staraptite",
+            "item_ja": "ムクホークナイト",
             "ability_ja": "いかく",
             "nature_ja": "ようき",
             "moves_ja": [
@@ -3733,7 +3733,7 @@
             ],
             "name": "ライチュウ",
             "image_local": "images/pokemon/raichu.png",
-            "item_ja": "Raichunite Y",
+            "item_ja": "ライチュウナイトＹ",
             "ability_ja": "ひらいしん",
             "nature_ja": "おくびょう",
             "moves_ja": [
@@ -3760,12 +3760,12 @@
             "name": "ニンフィア",
             "image_local": "images/pokemon/sylveon.png",
             "item_ja": "ようせいのハネ",
-            "ability_ja": "Pixilate",
+            "ability_ja": "フェアリースキン",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Hyper Beam",
+              "はかいこうせん",
               "ハイパーボイス",
-              "Quick Attack",
+              "でんこうせっか",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3791,13 +3791,13 @@
             ],
             "name": "フラエッテ（えいえんのはな）",
             "image_local": "images/pokemon/floette-eternal.png",
-            "item_ja": "Floettite",
-            "ability_ja": "Flower Veil",
+            "item_ja": "フラエッテナイト",
+            "ability_ja": "フラワーベール",
             "nature_ja": "ひかえめ",
             "moves_ja": [
-              "Dazzling Gleam",
-              "Draining Kiss",
-              "Calm Mind",
+              "マジカルシャイン",
+              "ドレインキッス",
+              "めいそう",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3818,12 +3818,12 @@
             "name": "ドドゲザン",
             "image_local": "images/pokemon/kingambit.png",
             "item_ja": "いのちのたま",
-            "ability_ja": "Defiant",
+            "ability_ja": "まけんき",
             "nature_ja": "いじっぱり",
             "moves_ja": [
-              "Kowtow Cleave",
-              "Sucker Punch",
-              "Swords Dance",
+              "ドゲザン",
+              "ふいうち",
+              "つるぎのまい",
               "まもる"
             ],
             "role": "公開チーム情報を参照"
@@ -3870,13 +3870,13 @@
             "name": "オオニューラ",
             "image_local": "images/pokemon/sneasler.png",
             "item_ja": "きあいのタスキ",
-            "ability_ja": "Poison Touch",
+            "ability_ja": "どくしゅ",
             "nature_ja": "ようき",
             "moves_ja": [
-              "Poison Jab",
+              "どくづき",
               "インファイト",
               "ねこだまし",
-              "Quick Guard"
+              "ファストガード"
             ],
             "role": "かるわざ・コーチングを採用"
           },
@@ -3900,7 +3900,7 @@
             "nature_ja": "しんちょう",
             "moves_ja": [
               "フレアドライブ",
-              "Throat Chop",
+              "じごくづき",
               "ねこだまし",
               "すてゼリフ"
             ],
@@ -3921,12 +3921,12 @@
             ],
             "name": "マフォクシー",
             "image_local": "images/pokemon/delphox.png",
-            "item_ja": "Delphoxite",
+            "item_ja": "マフォクシナイト",
             "ability_ja": "もうか",
             "nature_ja": "おくびょう",
             "moves_ja": [
               "ねっぷう",
-              "Psychic",
+              "サイコキネシス",
               "わるだくみ",
               "まもる"
             ],

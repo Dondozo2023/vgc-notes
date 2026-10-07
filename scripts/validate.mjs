@@ -42,4 +42,24 @@ for(const section of sections){
   if(!front.draft)published++;
  }
 }
+const profilesPath=path.join(root,'data/pokemon.json');
+try{
+ const profiles=JSON.parse(await fs.readFile(profilesPath,'utf8'));
+ const dashboard=JSON.parse(await fs.readFile(path.join(root,'data/dashboard.json'),'utf8'));
+ const sampleTeams=sampleEvents.flatMap(e=>e.teams);
+ if(dashboard.sample!==sampleTeams.length)fail('Incorrect dashboard sample');
+ if(dashboard.pokemon!==Object.keys(profiles).length)fail('Incorrect species count');
+ for(const [id,p]of Object.entries(profiles)){
+  const records=sampleTeams.filter(t=>t.pokemon.some(mon=>mon.id===id));
+  if(p.count!==records.length||p.rate!==Math.round(records.length/sampleTeams.length*1000)/10)fail('Incorrect profile adoption rate');
+  for(const key of ['items','abilities','natures'])if(p.tournament[key].reduce((n,r)=>n+r.count,0)!==p.count)fail('Incorrect conditional distribution');
+  if(p.tournament.moves.reduce((n,r)=>n+r.count,0)!==p.count*4)fail('Incorrect move denominator');
+  for(const partner of p.partners){const count=records.filter(t=>t.pokemon.some(mon=>mon.id===partner.id)).length;if(partner.count!==count||partner.rate!==Math.round(count/p.count*1000)/10)fail('Incorrect teammate frequency');}
+  const ref=p.reference;
+  if(!ref||ref.season!=='M-6'||ref.rule!=='ダブル'||new URL(ref.source).hostname!=='champs.pokedb.tokyo')fail('Missing reference scope');
+  for(const form of ref.forms){if(form.stats.length!==6||form.stats.reduce((n,s)=>n+s.value,0)!==form.total)fail('Incorrect base stat total');if(form.effectiveness.weaknesses.some(t=>t.rate<=1)||form.effectiveness.resistances.some(t=>t.rate>=1))fail('Incorrect type effectiveness grouping');}
+  for(const rows of Object.values(ref.ranked))for(const row of rows)if(!Number.isFinite(row.rate)||row.rate<0||row.rate>100)fail('Invalid ranked rate');
+ }
+ console.log(`OK: ${Object.keys(profiles).length} Pokémon profiles; conditional rates, teammate frequencies, form stats and reference populations verified.`);
+}catch(error){if(error.code!=='ENOENT')throw error;}
 console.log(`OK: ${events.length} tournaments, ${events.reduce((n,e)=>n+e.teams.length,0)} teams, ${published} articles; usage statistics verified.`);

@@ -4,9 +4,10 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
   <meta name="description" content="{{ .Description | default .Params.summary | default site.Params.description }}">
-  <meta name="theme-color" content="#153253"><link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  <meta name="theme-color" content="#0a0b10"><meta name="color-scheme" content="dark"><link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
   <link rel="canonical" href="{{ .Permalink }}">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{ $dark := resources.Get "css/dark.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $dark.RelPermalink }}">
   {{ with site.Home.OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="海外大会ノート" href="{{ .RelPermalink }}">{{ end }}
   {{ $js := resources.Get "js/main.js" | minify | fingerprint }}<script src="{{ $js.RelPermalink }}" defer></script>
 </head>
@@ -15,7 +16,7 @@
 <header class="site-header"><div class="header-inner">
   <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="brand-mark" aria-hidden="true">V<span>N</span></span><span><b>海外大会ノート</b><small>POKÉMON VGC JOURNAL</small></span></a>
   <nav aria-label="メインメニュー">
-  {{ $section := .Section }}{{ range slice (dict "path" "" "label" "ホーム") (dict "path" "results" "label" "大会結果") (dict "path" "teams" "label" "構築") (dict "path" "metagame" "label" "環境") (dict "path" "archive" "label" "日付から探す") }}
+  {{ $section := .Section }}{{ range slice (dict "path" "" "label" "ホーム") (dict "path" "pokemon" "label" "ポケモンデータ") (dict "path" "results" "label" "大会結果") (dict "path" "teams" "label" "構築") (dict "path" "metagame" "label" "環境") (dict "path" "archive" "label" "日付から探す") }}
   <a href="{{ if eq .path "" }}{{ site.Home.RelPermalink }}{{ else }}{{ (printf "%s/" .path) | relURL }}{{ end }}" {{ if or (and (eq .path "") $.IsHome) (and (ne .path "") (eq .path $section)) }}aria-current="page"{{ end }}>{{ .label }}</a>
   {{ end }}
   </nav>

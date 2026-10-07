@@ -19,6 +19,12 @@
 
 ## 画像・出典
 
+ポケモンの基本情報とランク採用データは、バトルデータベース チャンピオンズのシーズンM-6（ダブル）掲載情報を使っています。大会上位24構築の集計とは別のデータとして表示しています。タイプ相性は基本倍率、種族値は形態ごとの数値です。配分や対戦の勝率は今回のデータに含めていません。
+
+- [バトルデータベース チャンピオンズ（M-6・ダブル）](https://champs.pokedb.tokyo/pokemon/list?season=6&rule=1)
+- [LabMaus](https://labmaus.net/)
+- [Silph Scope](https://silph-scope.com/)
+
 ポケモン画像はLimitless VGCの掲載チームと同じ画像を使用しています。ポケモンに関する名称・画像の権利は各権利者に帰属します。本サイトは非公式の個人サイトです。
 
 - [Limitless VGC](https://limitlessvgc.com/)
