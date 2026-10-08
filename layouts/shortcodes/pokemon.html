@@ -1,0 +1,1 @@
+{{- $id := .Get 0 -}}{{- with index hugo.Data.species_catalog $id -}}<a class="table-pokemon" href="{{ printf "pokemon/%s/" $id | relURL }}"><img src="{{ .image_local | relURL }}" alt="" width="40" height="40" loading="lazy"><span>{{ .name }}</span></a>{{- else -}}{{- errorf "Unknown Pokémon in article table: %s" $id -}}{{- end -}}

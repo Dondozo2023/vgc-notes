@@ -17,7 +17,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -82,7 +82,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -407,7 +407,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -602,7 +602,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -986,7 +986,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -1626,7 +1626,7 @@
         },
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "english": "Eternal Flower Floette",
           "image_local": "images/pokemon/floette-eternal.png",
           "image": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
@@ -2512,7 +2512,7 @@
     {
       "rank": 12,
       "id": "floette-eternal",
-      "name": "フラエッテ（えいえんのはな）",
+      "name": "フラエッテ",
       "display_form": "",
       "heading": "General usage",
       "values": [
@@ -2869,7 +2869,7 @@
     {
       "rank": 3,
       "id": "floette-eternal",
-      "name": "フラエッテ（えいえんのはな）",
+      "name": "フラエッテ",
       "display_form": "Mega",
       "heading": "Mega Evolution usage",
       "values": [

@@ -16603,7 +16603,7 @@
   "floette-eternal": {
     "id": "floette-eternal",
     "key": "0670-05",
-    "name": "フラエッテ（えいえんのはな）",
+    "name": "フラエッテ",
     "source": "https://champs.pokedb.tokyo/pokemon/show/0670-05?season=6&rule=1",
     "checked": "2026-10-08",
     "season": "M-6",
@@ -16685,7 +16685,7 @@
     "forms": [
       {
         "key": "0670-05",
-        "name": "フラエッテ (えいえん)",
+        "name": "フラエッテ",
         "types": [
           "フェアリー"
         ],

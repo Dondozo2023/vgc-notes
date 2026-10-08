@@ -54,6 +54,7 @@ def pokemon(english,number=None,form='000',detail=None,vr_image=None):
  previous=dictionary['species'].get(pid)
  if previous and re.search('[ぁ-んァ-ヶ]',previous):jp=previous
  if pid=='sinistcha':jp='ヤバソチャ'
+ if pid=='floette-eternal':jp='フラエッテ'
  p={'id':pid,'name':jp,'english':english,'image_local':f'images/pokemon/{pid}.png'}
  if pid in species_catalog:p.update(species_catalog[pid])
  elif vr_image:

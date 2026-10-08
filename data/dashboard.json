@@ -226,7 +226,7 @@
     },
     {
       "id": "floette-eternal",
-      "name": "フラエッテ（えいえんのはな）",
+      "name": "フラエッテ",
       "english": "Eternal Flower Floette",
       "image": "images/pokemon/floette-eternal.png",
       "count": 10,
@@ -2345,7 +2345,7 @@
       "pokemon": [
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "image": "images/pokemon/floette-eternal.png"
         },
         {
@@ -2361,7 +2361,7 @@
       "pokemon": [
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "image": "images/pokemon/floette-eternal.png"
         },
         {
@@ -2441,7 +2441,7 @@
       "pokemon": [
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "image": "images/pokemon/floette-eternal.png"
         },
         {
@@ -2457,7 +2457,7 @@
       "pokemon": [
         {
           "id": "floette-eternal",
-          "name": "フラエッテ（えいえんのはな）",
+          "name": "フラエッテ",
           "image": "images/pokemon/floette-eternal.png"
         },
         {
