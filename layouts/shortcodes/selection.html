@@ -1,0 +1,32 @@
+{{- $lead := split (.Get "lead") "," -}}
+{{- $back := split (.Get "back") "," -}}
+{{- if or (ne (len $lead) 2) (ne (len $back) 2) -}}
+  {{- errorf "selection requires exactly two lead and two back Pokemon: %s" .Position -}}
+{{- end -}}
+<div class="selection-preview" aria-label="先発2匹と後発2匹">
+  {{- range slice (dict "label" "先発" "pokemon" $lead) (dict "label" "後発" "pokemon" $back) -}}
+  <div class="selection-row">
+    <strong class="selection-label">{{ .label }}</strong>
+    <div class="selection-pair">
+      {{- range .pokemon -}}
+        {{- $id := strings.TrimSpace . -}}
+        {{- if eq $id "unknown" -}}
+        <span class="selection-mon selection-open">
+          <span class="selection-placeholder" aria-label="相手に合わせて選ぶ1匹">?</span>
+          <span>選択枠</span>
+        </span>
+        {{- else -}}
+        {{- with index hugo.Data.species_catalog $id -}}
+        <a class="selection-mon" href="{{ printf "pokemon/%s/" $id | relURL }}">
+          <img src="{{ .image_local | relURL }}" alt="{{ .name }}" width="64" height="64" loading="lazy">
+          <span>{{ .name }}</span>
+        </a>
+        {{- else -}}
+          {{- errorf "Unknown selection Pokemon %s" $id -}}
+        {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+  {{- end -}}
+</div>

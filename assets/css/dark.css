@@ -533,3 +533,16 @@ select { background: #202632; border: 1px solid #3b4555; border-radius: 5px; col
  .coverage-panel table th,.coverage-panel table td { padding: 12px 16px; }
  .source-links { padding: 0 18px 18px; font-size: 12px; }
 }
+
+/* Two leads and two back Pokemon in article selection examples. */
+.selection-preview { max-width: 450px; margin: 16px 0 22px; padding: 12px 16px; border: 1px solid #303646; border-radius: 8px; background: #11151d; }
+.selection-row { display: grid; grid-template-columns: 48px minmax(0,1fr); gap: 12px; align-items: center; }
+.selection-row + .selection-row { border-top: 1px solid #303646; margin-top: 8px; padding-top: 8px; }
+.selection-label { color: #8ce0bb; font-size: 14px; }
+.selection-pair { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; }
+.prose .selection-mon { display: flex; flex-direction: column; align-items: center; gap: 3px; color: #d7e3de; text-decoration: none; text-align: center; min-width: 0; font-size: 13px; line-height: 1.5; }
+.selection-mon img { width: 64px; height: 64px; object-fit: contain; }
+@media(max-width:540px) { .selection-preview { padding: 10px 12px; } .selection-row { grid-template-columns: 38px minmax(0,1fr); gap: 8px; } .selection-mon img { width: 56px; height: 56px; } }
+
+.selection-placeholder { display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; border: 1px dashed #506070; border-radius: 9px; color: #a6b3c1; font-size: 28px; font-weight: 700; }
+@media(max-width:540px) { .selection-placeholder { width: 56px; height: 56px; } }
