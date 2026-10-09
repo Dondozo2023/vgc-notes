@@ -1,5 +1,6 @@
 {{- $lead := split (.Get "lead") "," -}}
 {{- $back := split (.Get "back") "," -}}
+{{- $page := .Page -}}
 {{- if or (ne (len $lead) 2) (ne (len $back) 2) -}}
   {{- errorf "selection requires exactly two lead and two back Pokemon: %s" .Position -}}
 {{- end -}}
@@ -17,10 +18,11 @@
         </span>
         {{- else -}}
         {{- with index hugo.Data.species_catalog $id -}}
-        <a class="selection-mon" href="{{ printf "pokemon/%s/" $id | relURL }}">
+        {{- $profile := $page.GetPage (printf "/pokemon/%s" $id) -}}
+        {{ if $profile }}<a class="selection-mon" href="{{ $profile.RelPermalink }}">{{ else }}<span class="selection-mon">{{ end }}
           <img src="{{ .image_local | relURL }}" alt="{{ .name }}" width="64" height="64" loading="lazy">
           <span>{{ .name }}</span>
-        </a>
+        {{ if $profile }}</a>{{ else }}</span>{{ end }}
         {{- else -}}
           {{- errorf "Unknown selection Pokemon %s" $id -}}
         {{- end -}}
