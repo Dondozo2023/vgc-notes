@@ -73,7 +73,7 @@
 
 ### 雨グソク：五分
 
-{{< opponent image="images/teams/riko-rain-opponent.png" names="マタドガス、ブリジュラス、ペリッパー、グソクムシャ、オオニューラ、イダイトウ♀" >}}
+{{< opponent pokemon="weezing,archaludon,pelipper,golisopod,sneasler,basculegion-f" >}}
 
 {{< selection lead="floette-eternal,rillaboom" back="sneasler,salamence" >}}
 

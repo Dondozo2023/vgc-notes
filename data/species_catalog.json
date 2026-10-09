@@ -1,4 +1,11 @@
 {
+  "weezing": {
+    "id": "weezing",
+    "name": "マタドガス",
+    "english": "Weezing",
+    "image_local": "images/pokemon/weezing.png",
+    "image": "https://r2.limitlesstcg.net/sprites/home-sv/weezing.png"
+  },
   "sylveon": {
     "id": "sylveon",
     "name": "ニンフィア",

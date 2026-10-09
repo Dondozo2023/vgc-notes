@@ -1,18 +1,13 @@
-{{- $image := .Get "image" -}}
 <figure class="opponent-preview" aria-label="相手の構築6体">
   <figcaption>相手の6体</figcaption>
-  {{- if $image -}}
-  <img class="opponent-original" src="{{ $image | relURL }}" alt="{{ .Get "names" }}" width="1200" height="174" loading="lazy">
-  {{- else -}}
   {{- $ids := split (.Get "pokemon") "," -}}
   {{- if ne (len $ids) 6 -}}{{- errorf "opponent requires six Pokemon: %s" .Position -}}{{- end -}}
   <div class="opponent-six" role="list">
     {{- range $ids -}}
       {{- $id := strings.TrimSpace . -}}
       {{- with index hugo.Data.species_catalog $id -}}
-      <span role="listitem" class="opponent-mon" title="{{ .name }}"><img src="{{ .image_local | relURL }}" alt="{{ .name }}" width="64" height="64" loading="lazy"></span>
+      <span role="listitem" class="opponent-mon" title="{{ .name }}"><img src="{{ .image_local | relURL }}" alt="{{ .name }}" width="40" height="40" loading="lazy"></span>
       {{- else -}}{{- errorf "Unknown opponent Pokemon %s" $id -}}{{- end -}}
     {{- end -}}
   </div>
-  {{- end -}}
 </figure>
