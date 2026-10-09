@@ -17,7 +17,7 @@
 <header class="site-header"><div class="header-inner">
   <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="brand-mark" aria-hidden="true">V<span>N</span></span><span><b>海外大会ノート</b><small>POKÉMON VGC JOURNAL</small></span></a>
   <nav aria-label="メインメニュー">
-  {{ $section := .Section }}{{ range slice (dict "path" "" "label" "ホーム") (dict "path" "explorer" "label" "構築を探す") (dict "path" "pokemon" "label" "ポケモンデータ") (dict "path" "results" "label" "大会結果") (dict "path" "metagame" "label" "環境") (dict "path" "coverage" "label" "収録状況") }}
+  {{ $section := .Section }}{{ range slice (dict "path" "" "label" "ホーム") (dict "path" "explorer" "label" "構築を探す") (dict "path" "pokemon" "label" "ポケモンデータ") (dict "path" "results" "label" "大会結果") (dict "path" "metagame" "label" "環境") (dict "path" "coverage" "label" "収録状況") (dict "path" "battle-replays" "label" "対戦ログ") }}
   <a href="{{ if eq .path "" }}{{ site.Home.RelPermalink }}{{ else }}{{ (printf "%s/" .path) | relURL }}{{ end }}" {{ if or (and (eq .path "") $.IsHome) (and (ne .path "") (eq .path $section)) }}aria-current="page"{{ end }}>{{ .label }}</a>
   {{ end }}
   </nav>

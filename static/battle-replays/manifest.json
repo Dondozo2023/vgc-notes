@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "matches": [
+    {
+      "id": "battle-public-349a93cb93afdb0a78604649",
+      "file": "349a93cb93afdb0a78604649",
+      "title": "ふゆばれ雨（旧・草電気選出の試験版）",
+      "date": "2026-10-09T19:08:40.628Z",
+      "players": [
+        "ProfTuroAi",
+        "junpuu manpan"
+      ],
+      "result": "勝ち",
+      "turns": 8,
+      "rating": {
+        "before": 1527,
+        "after": 1551
+      },
+      "ai": "fuyubare-rain-electric",
+      "run": "fuyubare-rain-sun-electric001"
+    }
+  ]
+}
