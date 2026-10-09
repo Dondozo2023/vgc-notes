@@ -546,3 +546,12 @@ select { background: #202632; border: 1px solid #3b4555; border-radius: 5px; col
 
 .selection-placeholder { display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; border: 1px dashed #506070; border-radius: 9px; color: #a6b3c1; font-size: 28px; font-weight: 700; }
 @media(max-width:540px) { .selection-placeholder { width: 56px; height: 56px; } }
+
+/* The opposing six are separate from our lead/back selection. */
+.prose .opponent-preview { max-width: 440px; margin: 14px 0 18px; padding: 10px 14px; border: 1px solid #2c4540; border-radius: 8px; background: #152b25; }
+.opponent-preview figcaption { margin: 0 0 4px; color: #a8d4c1; font-size: 12px; line-height: 1.5; }
+.opponent-six { display: grid; grid-template-columns: repeat(6,minmax(0,1fr)); gap: 5px; align-items: center; }
+.opponent-mon { display: flex; align-items: center; justify-content: center; min-width: 0; }
+.prose .opponent-mon img { display: block; width: 64px; height: 64px; max-width: 100%; object-fit: contain; margin: 0; }
+.prose .opponent-original { display: block; width: 100%; height: auto; margin: 0; }
+@media(max-width:540px) { .prose .opponent-preview { padding: 8px 10px; } .opponent-six { gap: 2px; } .prose .opponent-mon img { width: 54px; height: 54px; } }

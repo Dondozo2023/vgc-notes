@@ -2,7 +2,7 @@
   "title": "グローバルチャレンジ1位:　KBS＋マンダエッテ構築　原案：りこ",
   "date": "2026-10-08T00:00:00+09:00",
   "publishDate": "2026-10-08T00:00:00+09:00",
-  "lastmod": "2026-10-08T00:00:00+09:00",
+  "lastmod": "2026-10-09T00:00:00+09:00",
   "format": "Regulation M-C",
   "kind": "構築ノート",
   "draft": false,
@@ -73,6 +73,8 @@
 
 ### 雨グソク：五分
 
+{{< opponent image="images/teams/riko-rain-opponent.png" names="マタドガス、ブリジュラス、ペリッパー、グソクムシャ、オオニューラ、イダイトウ♀" >}}
+
 {{< selection lead="floette-eternal,rillaboom" back="sneasler,salamence" >}}
 
 ゴリランダー・オオニューラのねこだましとボーマンダの威嚇でフラエッテを支え、瞑想から雨の攻撃役を突破する。
@@ -82,6 +84,8 @@
 グソクムシャ先発には、通常ボーマンダの威嚇を入れ、かえんほうしゃとムーンフォースを合わせる。あるいはオオニューラとゴリランダーのねこだましを使い回し、グソクムシャを止めながら隣を倒していく。
 
 ### 晴れ＋雨：不利
+
+{{< opponent pokemon="swampert,archaludon,pelipper,grimmsnarl,charizard,venusaur" >}}
 
 {{< selection lead="salamence,sneasler" back="floette-eternal,basculegion" >}}
 
@@ -93,6 +97,8 @@
 
 ### イエッサン＋サーナイト：有利
 
+{{< opponent pokemon="gardevoir,indeedee-f,armarouge,salamence,garchomp,sneasler" >}}
+
 {{< selection lead="basculegion,kingambit" back="rillaboom,salamence" >}}
 
 イエッサンを早く倒し、ゴリランダーでフィールドを取ることが目標である。
@@ -103,6 +109,8 @@
 相手の攻撃役に合わせて受け先を変え、フィールドを取り直し、ゴリランダーのねこだましやグラススライダー、ドドゲザンのふいうちを使える盤面を作る。
 
 ### 雨滅び：不利
+
+{{< opponent pokemon="gengar,kommo-o,incineroar,rillaboom,swampert,politoed" >}}
 
 {{< selection lead="kingambit,sneasler" back="floette-eternal,basculegion" >}}
 
@@ -116,6 +124,8 @@
 
 ### 砂サイコ＋アーマーガア：有利
 
+{{< opponent pokemon="salamence,tyranitar,excadrill,sneasler,indeedee-f,corviknight" >}}
+
 {{< selection lead="salamence,kingambit" back="rillaboom,basculegion" >}}
 
 アーマーガアをかえんほうしゃで削り、後発のゴリランダーとイダイトウで詰める。
@@ -124,6 +134,8 @@
 
 ### プテラ・リザードン・ニンフィア：有利
 
+{{< opponent pokemon="aerodactyl,charizard,kingambit,garchomp,sylveon,farigiraf" >}}
+
 {{< selection lead="sneasler,kingambit" back="salamence,basculegion" >}}
 
 プテラ＋タスキのドドゲザンを想定し、オオニューラのねこだましをドドゲザンへ、ドドゲザンのアイアンヘッドをプテラへ合わせる。初手の展開を抑え、後発のボーマンダとイダイトウで攻め切る方針である。
@@ -131,6 +143,8 @@
 りこ氏は相手の後発にリザードン・ガブリアス・ニンフィアを想定した。ただし、リキキリンを選出されたときは、トリックルーム下でニンフィアが攻撃できる並びを作らせないことを重視する。
 
 ### バクーダトリル：微有利
+
+{{< opponent pokemon="camerupt,indeedee-f,hatterene,kingambit,incineroar,farigiraf" >}}
 
 {{< selection lead="floette-eternal,kingambit" back="rillaboom,basculegion" >}}
 
@@ -141,6 +155,8 @@
 バクーダには、ゴリランダーでフィールドを取りながらイダイトウのアクアジェットで圧力をかける。
 
 ### カイリュースタン：微有利
+
+{{< opponent pokemon="dragonite,dragapult,rillaboom,incineroar,gholdengo,sneasler" >}}
 
 {{< selection lead="basculegion,floette-eternal" back="kingambit,sneasler" >}}
 
